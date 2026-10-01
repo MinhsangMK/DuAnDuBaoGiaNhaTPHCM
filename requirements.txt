@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+Unidecode
+joblib
+streamlit
+matplotlib
+jupyter
+ipykernel

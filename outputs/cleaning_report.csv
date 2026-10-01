@@ -1,0 +1,7 @@
+﻿metric,value
+raw_rows,51304
+duplicate_rows_removed,0
+missing_or_invalid_price_removed,172
+impossible_numeric_values_set_missing,2778
+price_outlier_flags_iqr_log,0
+final_rows,51132

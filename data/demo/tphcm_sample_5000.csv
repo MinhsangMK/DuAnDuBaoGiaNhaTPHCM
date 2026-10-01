@@ -1,0 +1,5001 @@
+﻿price_bil,area_m2,bedrooms,floors,frontage,district,property_type
+7.0,115.0,,2.0,,Q12,"kho, nha xuong"
+6.8,96.0,,5.0,5.0,Go_Vap,dat
+2.1,84.0,,,5.0,Binh_Chanh,dat
+6.5,66.0,,,,TP_Thu_Duc,dat
+69.0,4000.0,,2.0,,Binh_Chanh,"kho, nha xuong"
+1.4,130.0,,,5.0,Cu_Chi,dat
+16.5,192.0,,6.0,8.0,Q9,dat
+2.9,21.0,2.0,1.0,3.03,Tan_Phu,nha rieng
+7.3,691.1,,,,__missing__,nha rieng
+4.0,71.0,2.0,,,Nha_Be,can ho chung cu
+2.42,63.0,2.0,,6.0,Tan_Phu,can ho chung cu
+25.0,2150.0,,1.0,30.0,Cu_Chi,"kho, nha xuong"
+9.85,289.5,,,5.0,__missing__,dat
+22.5,115.0,6.0,5.0,4.05,Binh_Thanh,nha rieng
+889.0,121.0,3.0,,,Tan_Phu,can ho chung cu
+40.0,,,,,__missing__,dat
+42.47,,,,60.0,__missing__,dat
+25.87,199.0,,,10.0,TP_Thu_Duc,dat
+15.0,70.0,4.0,4.0,4.0,Tan_Binh,nha rieng
+216.0,71.0,2.0,,,Q4,can ho chung cu
+155.0,33.0,1.0,,,Q9,can ho chung cu
+83.0,180.0,,,7.0,TP_Thu_Duc,dat
+8.3,81.0,,4.0,4.5,Go_Vap,nha rieng
+4.7,86.0,3.0,1.0,5.0,Binh_Thanh,can ho chung cu
+7.8,53.0,6.0,5.0,4.0,Binh_Tan,nha rieng
+1.8,84.0,,,5.0,__missing__,dat
+0.235,98.0,3.0,,,Q7,can ho chung cu
+5.2,58.0,,,4.5,TP_Thu_Duc,dat
+5.5,50.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+185.0,248.0,,5.0,12.5,Q9,dat
+7.0,77.3,6.0,1.0,4.4,Tan_Phu,nha tro
+200.0,,,,16.0,__missing__,dat
+5.89,75.0,2.0,,,Q4,can ho chung cu
+6.5,113.0,,,5.0,Q9,dat
+66.0,,,,,TP_Thu_Duc,dat
+4.6,80.0,,,4.0,Q12,dat
+195.0,80.0,2.0,,,Q4,can ho chung cu
+3.7,247.6,,,6.7,__missing__,dat
+3.85,70.0,,,4.0,Q9,dat
+18.5,827.0,,,16.0,__missing__,dat
+565.0,96.0,3.0,,,Q7,can ho chung cu
+16.6,144.0,4.0,2.0,5.0,Tan_Phu,nha rieng
+9.0,,,,24.0,__missing__,dat
+11.79,200.0,,,10.0,Q12,dat
+15.0,49.0,1.0,,,Q9,can ho chung cu
+0.68,177.3,,,5.0,__missing__,dat
+4.1,1080.0,,,10.0,__missing__,dat
+3.15,50.0,,,3.15,__missing__,dat
+35.0,53.0,,,,Q9,can ho chung cu
+2.5,711.0,,,10.0,Cu_Chi,dat
+11.0,285.0,3.0,2.0,15.0,TP_Thu_Duc,nha rieng
+88.0,,,,50.0,Cu_Chi,dat
+1.05,53.0,2.0,,5.0,Hoc_Mon,can ho chung cu
+1.89,72.0,2.0,,,Q7,can ho chung cu
+1.2,137.0,,,5.0,__missing__,dat
+24.0,400.0,,,7.5,Can_Gio,dat
+0.28,71.0,2.0,,13.0,TP_Thu_Duc,can ho chung cu
+7.65,76.0,4.0,2.0,4.3,Binh_Tan,nha rieng
+175.0,125.0,,,5.0,Q9,dat
+21.5,64.0,,3.0,4.0,Q1,nha rieng
+40.0,195.0,,5.0,16.0,TP_Thu_Duc,dat
+6.9,80.0,,,,Q5,can ho chung cu
+11.0,242.0,,,8.0,Hoc_Mon,dat
+42.43,,,,,__missing__,dat
+4.5,1068.0,,,30.0,Binh_Chanh,dat
+23.0,123.0,3.0,,,Binh_Thanh,can ho chung cu
+7.0,1000.0,,,18.0,__missing__,dat
+8.4,115.0,,,4.0,Q9,dat
+5.4,50.0,2.0,2.0,4.0,Q9,nha rieng
+239.0,205.0,,9.0,10.0,Q1,nha rieng
+3.65,79.0,2.0,,,Q8,nha tro
+8.3,350.0,,,10.0,Binh_Chanh,dat
+11.5,180.0,,,4.6,Binh_Tan,dat
+4.99,82.0,1.0,,4.0,Tan_Phu,nha rieng
+185.0,200.0,,,,Q9,dat
+1.39,160.1,,,5.0,__missing__,dat
+3.65,194.0,,,5.0,__missing__,dat
+6.4,80.0,,5.0,3.6,Q7,dat
+65.0,96.0,2.0,,,Tan_Phu,can ho chung cu
+8.0,79.0,2.0,,,Q7,can ho chung cu
+90.0,4548.0,,2.0,100.0,Binh_Thanh,dat
+36.0,182.0,,4.0,10.0,TP_Thu_Duc,dat
+4.1,50.0,,,4.1,Binh_Tan,dat
+5.45,160.2,,,,__missing__,dat
+1.89,68.0,2.0,,,Go_Vap,can ho chung cu
+2.85,451.1,,,11.0,__missing__,dat
+1.9,55.0,2.0,,,Binh_Chanh,can ho chung cu
+500.0,,,,,Q12,dat
+11.0,114.0,,,4.4,TP_Thu_Duc,dat
+5.1,120.0,3.0,3.0,3.0,__missing__,nha rieng
+3.85,72.0,,,4.0,Q12,dat
+5.5,151.0,2.0,3.0,8.0,Q8,can ho chung cu
+9.3,121.0,3.0,,,Tan_Phu,can ho chung cu
+9.5,240.0,,,9.0,Go_Vap,dat
+5.5,57.0,10.0,4.0,5.0,Tan_Phu,nha rieng
+21.0,2950.0,,,30.0,Hoc_Mon,dat
+7.0,103.0,3.0,,,Q9,can ho chung cu
+200.0,,,,,__missing__,"kho, nha xuong"
+1.7,221.2,,,7.0,__missing__,dat
+3.6,514.0,2.0,,11.0,__missing__,dat
+31.0,66.0,2.0,,,Q7,can ho chung cu
+8.5,138.0,3.0,,6.5,Q12,"kho, nha xuong"
+0.52,248.8,,,,__missing__,dat
+4.2,73.0,2.0,,,Q9,can ho chung cu
+30.0,1000.0,,,10.0,Can_Gio,dat
+4.7,74.0,2.0,,,Q9,can ho chung cu
+9.8,110.0,2.0,2.0,8.0,Binh_Tan,nha rieng
+16.0,227.0,,6.0,10.0,Q9,dat
+12.0,46.0,6.0,5.0,4.1,Q12,nha rieng
+15.0,,,,,__missing__,dat
+2.35,72.0,2.0,,,Nha_Be,can ho chung cu
+10.2,160.0,,,6.8,Q12,dat
+2.1,76.0,2.0,,,Binh_Chanh,can ho chung cu
+2.65,130.0,,,5.0,__missing__,dat
+105.0,121.0,,,4.5,TP_Thu_Duc,dat
+15.5,973.0,,,5.0,__missing__,dat
+12.0,130.0,2.0,1.5,5.0,Q12,nha rieng
+88.0,302.0,,8.0,10.0,Q7,khach san
+1.79,73.0,2.0,1.0,,Q8,can ho chung cu
+15.0,100.0,6.0,3.0,5.0,Q12,nha rieng
+2.48,46.0,1.0,,,Q9,can ho chung cu
+3.5,60.0,,,4.0,Q9,dat
+5.2,125.0,,,5.0,Hoc_Mon,dat
+4.2,94.0,3.0,3.0,5.0,__missing__,nha rieng
+4.05,95.0,,,5.0,__missing__,dat
+14.66,806.0,,7.0,,Nha_Be,dat
+2.55,72.6,2.0,1.0,7.6,__missing__,nha rieng
+15.5,130.0,,,,__missing__,dat
+4.72,63.0,,,4.0,Tan_Phu,nha rieng
+5.85,74.0,2.0,,,Tan_Binh,can ho chung cu
+15.0,317.9,,,,__missing__,dat
+6.4,1248.6,,,9.0,__missing__,dat
+1.89,71.0,2.0,,,TP_Thu_Duc,can ho chung cu
+15.0,100.0,,,5.0,__missing__,nha rieng
+0.48,112.8,,,5.0,__missing__,dat
+4.3,97.0,,,4.0,Binh_Tan,dat
+0.38,48.0,,,4.0,Q9,dat
+2.2,128.0,,,,__missing__,dat
+275.0,55.0,1.0,18.0,,Q9,can ho chung cu
+4.5,133.0,,,10.0,TP_Thu_Duc,dat
+2.7,458.0,1.0,,3.0,Nha_Be,can ho chung cu
+7.25,100.0,,,5.0,Q12,dat
+19.8,90.0,,,5.0,Phu_Nhuan,dat
+55.0,,,,1.0,Cu_Chi,dat
+15.0,100.0,6.0,4.0,5.0,Q12,nha rieng
+70.0,,,,90.0,Q9,dat
+3.2,50.0,,3.0,,Q7,dat
+213.21,927.0,,,18.0,TP_Thu_Duc,dat
+57.0,96.0,3.0,,,Q7,can ho chung cu
+2.6,125.0,,,4.8,Cu_Chi,dat
+14.5,115.0,12.0,2.0,4.3,__missing__,nha rieng
+34.0,54.0,,5.0,,Q1,can ho chung cu
+7.3,64.4,,,6.0,TP_Thu_Duc,dat
+139.0,1865.0,,,15.0,Q9,dat
+7.7,90.0,,,5.0,Binh_Tan,dat
+3.5,142.2,,,5.0,__missing__,dat
+210.0,1984.0,,,34.0,Q7,dat
+16.0,113.0,1.0,1.0,5.0,Q10,nha rieng
+16.6,555.1,,,20.0,__missing__,dat
+3.95,85.0,3.0,,,Q8,nha tro
+28.11,385.0,,,14.8,Q9,dat
+9.1,141.0,,,5.5,Q12,dat
+447.0,75.0,,,,Binh_Tan,dat
+5.0,73.0,2.0,,,Q10,can ho chung cu
+219.0,78.0,3.0,,,Binh_Chanh,can ho chung cu
+6.0,107.0,3.0,,,Q7,can ho chung cu
+5.3,80.0,,,4.2,Go_Vap,dat
+5.35,32.0,2.0,2.0,4.25,Q11,nha rieng
+25.0,,,,,__missing__,dat
+5.8,53.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+10.5,1161.0,,,34.0,__missing__,dat
+8.7,90.0,4.0,4.0,5.0,Nha_Be,nha rieng
+5.5,160.0,,,8.0,Binh_Chanh,dat
+0.85,253.0,,,5.1,Cu_Chi,dat
+0.58,1189.0,,,,__missing__,dat
+500.0,,,,,__missing__,dat
+5.49,150.0,,,,__missing__,dat
+12.0,806.0,,,,__missing__,dat
+10.0,170.0,3.0,1.0,5.9,Q12,nha rieng
+0.5,250.0,,,5.0,__missing__,dat
+3.79,76.0,3.0,,,Tan_Phu,can ho chung cu
+165.0,393.0,,5.0,16.4,Q5,nha rieng
+0.68,274.7,,,,__missing__,dat
+16.0,147.0,3.0,,,Q7,can ho chung cu
+1.68,108.0,,,,__missing__,dat
+1.65,34.0,,,3.0,Q9,can ho chung cu
+3.9,674.1,,,15.0,__missing__,dat
+3.1,55.0,,,4.0,Binh_Thanh,dat
+7.3,100.2,,,,__missing__,dat
+1.1,63.4,,,4.5,__missing__,dat
+15.0,75.0,,,5.0,TP_Thu_Duc,dat
+835.0,717.0,,,12.0,Binh_Chanh,dat
+34.0,69.0,2.0,,,Q7,can ho chung cu
+2.7,125.0,,,,__missing__,dat
+84.0,,,4.0,25.0,Binh_Chanh,dat
+3.78,100.0,,,5.0,Q9,dat
+30.4,160.0,,,8.0,Q2,dat
+77.0,311.0,,,11.0,TP_Thu_Duc,dat
+2.5,88.0,2.0,,,__missing__,nha rieng
+8.0,83.0,2.0,,,Q3,can ho chung cu
+135.0,,,,,Hoc_Mon,"kho, nha xuong"
+0.7,200.0,,,5.0,Cu_Chi,dat
+1.5,70.0,,,,Q9,dat
+200.0,659.0,,3.0,11.0,Q2,dat
+9.3,117.0,4.0,2.0,9.0,Binh_Thanh,nha rieng
+1.55,129.7,,,4.0,__missing__,dat
+18.5,250.0,,3.0,10.0,Q12,nha tro
+172.0,74.0,2.0,,,Tan_Phu,can ho chung cu
+4.85,80.0,,,5.0,Nha_Be,dat
+6.7,76.0,4.0,1.0,4.5,TP_Thu_Duc,nha rieng
+375.0,102.0,,,4.0,Q12,dat
+489.0,67.0,,,6.0,Q8,dat
+1.6,150.0,,,5.0,__missing__,dat
+11.0,45.0,4.0,3.0,4.5,Binh_Thanh,nha rieng
+40.0,1230.0,,,18.0,Q12,"kho, nha xuong"
+1.7,70.0,2.0,,5.0,__missing__,dat
+0.96,87.0,,,5.0,Cu_Chi,dat
+11.5,130.0,,7.0,5.0,Q9,dat
+6.6,70.0,5.0,5.0,5.7,Tan_Phu,nha rieng
+3.55,26.0,2.0,2.0,4.2,Go_Vap,nha rieng
+12.5,850.0,,,16.0,Cu_Chi,dat
+5.95,61.0,,,4.2,TP_Thu_Duc,dat
+1.52,61.0,2.0,,,Q4,can ho chung cu
+6.77,50.0,3.0,3.0,5.0,Q12,nha rieng
+4.1,999.0,3.0,,,Q9,can ho chung cu
+26.25,250.0,,,10.0,Q9,dat
+3.25,61.0,,,4.0,Q9,dat
+6.2,123.2,,,,__missing__,dat
+2.4,282.3,,,4.0,__missing__,dat
+2.5,143.0,,,,__missing__,dat
+1.76,69.2,2.0,,4.0,__missing__,nha rieng
+15.0,100.0,,,5.0,__missing__,nha rieng
+53.0,95.0,,,8.0,Q9,dat
+4.5,156.5,,,6.0,__missing__,dat
+32.0,73.0,2.0,,,Q9,can ho chung cu
+3.39,81.6,3.0,2.0,,__missing__,nha rieng
+35.0,2281.0,,1.0,47.0,Cu_Chi,"kho, nha xuong"
+1.65,900.0,,,13.0,Cu_Chi,dat
+11.2,98.0,2.0,,,Binh_Thanh,can ho chung cu
+3.59,118.2,3.0,2.0,4.0,__missing__,nha rieng
+7.5,86.5,,2.0,,__missing__,nha rieng
+2.5,161.0,,,5.0,__missing__,dat
+9.2,72.0,,,4.0,Binh_Thanh,dat
+15.0,160.0,,,8.0,Q9,dat
+30.0,1500.0,,,,Q9,dat
+4.2,65.0,4.0,2.0,4.7,Q7,nha rieng
+5.5,97.0,,,7.0,Q9,dat
+13.5,260.0,,,10.0,Q12,dat
+238.0,75.0,2.0,,,Nha_Be,can ho chung cu
+5.5,58.0,2.0,,,Q3,can ho chung cu
+1.45,245.0,,,5.0,__missing__,dat
+1.6,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+239.0,110.0,3.0,,,Q1,can ho chung cu
+2.4,229.8,2.0,1.0,4.3,__missing__,nha rieng
+2.95,709.0,,,15.0,__missing__,dat
+13.2,52.0,8.0,4.0,3.6,Binh_Thanh,nha rieng
+0.81,115.0,,,5.0,__missing__,dat
+7.45,50.0,4.0,5.0,,Q12,nha rieng
+346.0,54.0,1.0,,,Q7,can ho chung cu
+243.0,267.0,,,14.0,Q9,dat
+3.17,162.0,,,9.0,Hoc_Mon,dat
+7.2,82.0,,,4.0,Go_Vap,dat
+4.0,400.3,,,,Cu_Chi,dat
+338.0,50.0,,,4.5,Q9,dat
+23.0,,,,40.0,Binh_Chanh,dat
+7.0,370.2,,,,__missing__,dat
+5.62,,,,,__missing__,dat
+10.5,136.7,,5.0,6.0,Q9,dat
+12.48,80.0,,6.0,4.0,__missing__,nha rieng
+9.2,1300.0,,,27.0,__missing__,dat
+3.05,150.0,,,,__missing__,dat
+23.0,204.8,,5.0,10.3,TP_Thu_Duc,can ho chung cu
+1.3,227.2,,,5.0,__missing__,dat
+4.1,150.7,,,,__missing__,dat
+33.0,120.0,5.0,3.0,6.0,__missing__,nha rieng
+0.93,180.0,,,6.0,Cu_Chi,dat
+5.3,136.0,,,5.0,Binh_Chanh,dat
+3.25,50.0,1.0,,,Binh_Tan,can ho chung cu
+12.0,52.0,4.0,4.0,4.4,Q3,nha rieng
+8.8,176.0,14.0,2.0,9.5,Q12,nha rieng
+4.2,73.0,2.0,,,Q7,can ho chung cu
+5.0,1084.6,,,10.0,__missing__,dat
+28.9,140.0,15.0,4.0,7.8,Q7,khach san
+25.8,969.0,,,20.0,Hoc_Mon,dat
+25.0,250.0,,,10.0,Q9,dat
+6.6,55.0,,,4.3,TP_Thu_Duc,dat
+6.5,84.0,,,4.0,Q7,dat
+0.668,200.0,,,7.0,Cu_Chi,dat
+298.0,59.0,2.0,,,Q9,can ho chung cu
+15.5,220.0,2.0,1.0,5.0,TP_Thu_Duc,nha rieng
+14.5,100.0,5.0,,5.0,Q12,nha rieng
+15.0,600.0,,,,__missing__,dat
+3.45,113.0,,4.0,6.5,TP_Thu_Duc,dat
+2.2,60.0,2.0,15.0,6.0,Q2,can ho chung cu
+2.5,92.0,2.0,,,Binh_Chanh,can ho chung cu
+4.85,50.0,2.0,1.0,4.0,Binh_Tan,nha rieng
+0.93,380.0,,,5.0,__missing__,dat
+3.5,55.0,,,5.0,Nha_Be,dat
+5.0,140.0,3.0,1.0,5.0,__missing__,nha rieng
+10.3,291.0,,,13.6,Hoc_Mon,dat
+3.8,41.0,1.0,,,Binh_Thanh,nha tro
+45.0,124.0,3.0,,4.5,Q7,can ho chung cu
+2.5,93.0,,,5.5,Hoc_Mon,dat
+5.5,71.0,,,4.02,Nha_Be,dat
+16.9,392.0,,,14.5,Hoc_Mon,dat
+49.0,54.0,,2.0,4.3,Q7,dat
+2.3,74.0,2.0,,,Q12,can ho chung cu
+15.0,500.0,,,14.0,Q9,dat
+15.0,200.0,,,8.0,Q9,dat
+0.68,199.7,,,,__missing__,dat
+5.2,4054.6,,,,Binh_Chanh,dat
+14.0,1400.0,,,,Nha_Be,dat
+5.4,72.0,2.0,39.0,,Q9,can ho chung cu
+2.79,70.0,2.0,,,Q9,can ho chung cu
+16.5,89.0,,4.0,6.0,Tan_Binh,can ho chung cu
+137.98,,,,,Can_Gio,dat
+11.99,200.0,,,10.0,Q12,dat
+229.0,67.0,2.0,,,Q7,can ho chung cu
+3.0,73.0,2.0,,,TP_Thu_Duc,nha tro
+100.0,,,,38.0,Can_Gio,dat
+3.9,28.0,2.0,3.0,3.0,Q10,nha rieng
+6.0,125.0,4.0,3.0,5.0,Q12,nha rieng
+15.0,1152.7,,,,Cu_Chi,dat
+12.0,121.0,3.0,,,Q7,can ho chung cu
+8.3,595.6,,,10.0,__missing__,dat
+1.7,98.0,,,4.5,__missing__,dat
+2.15,76.0,2.0,,,Q9,can ho chung cu
+1.98,83.0,,,5.0,__missing__,dat
+10.5,160.0,6.0,2.0,7.0,Binh_Tan,nha rieng
+2.0,500.0,,,18.0,__missing__,dat
+9.8,82.0,,,4.0,Binh_Tan,dat
+28.0,846.0,,,,Binh_Tan,dat
+147.0,117.0,,,7.75,TP_Thu_Duc,dat
+8.99,58.0,5.0,4.0,4.0,Tan_Phu,nha rieng
+7.5,58.0,4.0,3.0,4.5,TP_Thu_Duc,nha rieng
+3.6,55.0,1.0,,,Q7,can ho chung cu
+24.0,505.0,,,12.0,Hoc_Mon,dat
+54.0,150.0,,,5.0,Q12,dat
+1.45,154.0,,,7.0,Cu_Chi,dat
+62.0,79.0,2.0,,,Q7,can ho chung cu
+64.0,91.0,2.0,,,Q7,can ho chung cu
+2.5,105.5,,,4.0,__missing__,dat
+24.3,520.0,,,10.0,Q12,dat
+4.2,33.0,2.0,3.0,3.0,Binh_Tan,nha rieng
+3.0,68.0,,,,Binh_Chanh,can ho chung cu
+8.0,353.4,,,,__missing__,dat
+9.73,2432.0,,,28.0,Can_Gio,dat
+3.75,84.0,,,5.0,Q12,dat
+12.5,200.0,,,20.0,Binh_Chanh,dat
+4.2,78.0,2.0,,,Q7,can ho chung cu
+271.0,43.0,1.0,,,Q9,can ho chung cu
+9.9,71.0,3.0,3.0,5.05,Binh_Tan,nha rieng
+1.6,55.0,2.0,2.0,,Phu_Nhuan,can ho chung cu
+1.32,251.0,,,6.0,__missing__,dat
+1.6,83.0,,,6.0,__missing__,dat
+17.44,1744.4,,,42.0,__missing__,dat
+1.95,130.0,,,5.0,Binh_Chanh,dat
+4.25,66.0,,,4.6,Q12,dat
+0.82,350.0,,,10.0,Hoc_Mon,dat
+2.5,1032.0,,,22.0,__missing__,dat
+5.0,612.0,,,10.78,Cu_Chi,dat
+70.0,,,,12.0,__missing__,dat
+31.0,52.0,,,4.0,Q9,dat
+249.0,732.0,,,12.0,Q12,dat
+7.0,2308.7,,,,Can_Gio,dat
+9.9,226.0,,,5.2,Binh_Tan,"kho, nha xuong"
+96.0,958.0,,,15.0,Q9,dat
+1.28,297.2,,,,__missing__,dat
+59.8,880.0,,,25.0,Tan_Binh,nha rieng
+5.0,80.0,2.0,,,Q4,can ho chung cu
+0.6820700000000001,1515.0,,,17.0,__missing__,dat
+8.9,136.0,,,6.0,Go_Vap,dat
+0.75,727.0,,,15.0,__missing__,dat
+24.0,703.0,,,21.0,TP_Thu_Duc,dat
+23.9,110.0,,7.0,5.0,Tan_Binh,dat
+1.45,200.3,,,5.0,__missing__,dat
+4.99,110.0,2.0,2.0,4.15,Q12,dat
+4.6,77.0,,,4.2,TP_Thu_Duc,dat
+6.55,89.0,3.0,,,Q7,can ho chung cu
+8.2,78.0,2.0,2.0,5.0,TP_Thu_Duc,nha rieng
+27.5,,,,60.0,Nha_Be,dat
+5.65,54.0,5.0,4.0,4.0,Binh_Tan,nha rieng
+6.3,67.5,4.0,2.0,5.0,__missing__,nha rieng
+11.0,,,,91.0,__missing__,dat
+9.0,844.3,,,,Cu_Chi,dat
+7.4,117.0,3.0,,,Tan_Phu,can ho chung cu
+12.9,125.0,,6.0,5.0,Tan_Phu,nha rieng
+2.7,74.0,3.0,,,Q9,can ho chung cu
+0.55,208.0,,,5.0,__missing__,dat
+13.0,183.0,,,13.0,Can_Gio,dat
+2.8,67.5,,,,__missing__,dat
+0.81,410.0,,,12.0,Cu_Chi,dat
+1.75,74.4,,,,__missing__,dat
+24.5,126.0,,5.0,7.0,Q9,nha rieng
+43.0,77.0,3.0,,,Q5,can ho chung cu
+102.0,,,,62.0,Cu_Chi,dat
+0.95,104.5,,,,Cu_Chi,dat
+1.99,94.0,,,5.0,Binh_Chanh,dat
+7.9,70.0,4.0,4.0,4.5,Go_Vap,nha rieng
+0.58,,,,,__missing__,nha rieng
+7.0,300.0,,,,__missing__,dat
+8.2,85.0,,,4.3,Q9,dat
+5.0,89.6,,,5.0,__missing__,dat
+3.5,336.3,,,,__missing__,dat
+13.6,85.0,4.0,3.0,4.2,Tan_Binh,nha rieng
+1.5,522.6,,,,__missing__,dat
+1.85,75.0,2.0,,,Q4,can ho chung cu
+6.5,125.0,,,5.0,Q12,dat
+2.35,1000.0,,,14.5,Cu_Chi,dat
+41.0,1162.0,,,25.0,Q12,dat
+70.0,,,,60.0,Cu_Chi,dat
+235.0,70.0,2.0,,,Q8,can ho chung cu
+38.0,10.5,,,61.0,__missing__,dat
+28.0,184.0,,5.0,8.0,Go_Vap,can ho chung cu
+9.6,160.0,,,8.0,Q9,dat
+11.8,2021.0,,,40.0,Cu_Chi,dat
+16.5,1928.0,,,,Binh_Chanh,dat
+3.1,79.0,2.0,,,Q9,can ho chung cu
+1.4,120.0,,5.0,6.0,Hoc_Mon,dat
+26.5,100.0,,1.0,5.0,Q1,van phong
+45.0,483.0,,,17.8,Q9,dat
+4.3,100.0,3.0,,,Q9,can ho chung cu
+43.0,354.0,,,,__missing__,dat
+8.5,262.0,3.0,2.0,7.0,Hoc_Mon,nha rieng
+23.0,590.0,,,9.0,Q12,dat
+7.48,32.0,2.0,2.0,3.1,Q10,nha rieng
+6.0,94.0,2.0,,,Q1,can ho chung cu
+27.0,1392.0,,,14.22,Q12,dat
+2.2,147.0,,,5.0,__missing__,dat
+10.0,79.3,3.0,3.0,4.0,Tan_Phu,nha rieng
+3.9,82.0,3.0,,,Q9,can ho chung cu
+10.5,120.0,3.0,,,Q7,can ho chung cu
+2.65,67.0,2.0,,,Q12,can ho chung cu
+4.0,48.1,,2.0,4.0,Go_Vap,nha rieng
+8.49,80.0,4.0,4.0,5.0,Go_Vap,nha rieng
+14.0,144.0,,,8.0,TP_Thu_Duc,dat
+3.5,105.0,,,6.6,Hoc_Mon,dat
+6.0,44.3,,,4.0,Tan_Phu,nha rieng
+45.0,1764.0,,3.0,21.0,Hoc_Mon,dat
+17.5,48.0,4.0,4.0,4.0,Phu_Nhuan,nha rieng
+1.5,260.0,,,6.0,__missing__,dat
+278.0,75.0,,,4.0,Q12,dat
+3.09,56.0,,,4.0,Q9,dat
+8.0,3536.3,,,,Can_Gio,dat
+20.7,345.0,,,40.0,Binh_Chanh,"kho, nha xuong"
+0.85,236.6,,,9.0,__missing__,dat
+23.0,110.0,,,8.5,Phu_Nhuan,dat
+0.459,59.0,1.0,,,TP_Thu_Duc,can ho chung cu
+5.4,93.0,2.0,,,Phu_Nhuan,can ho chung cu
+8.9,165.0,1.0,1.0,8.0,__missing__,nha rieng
+795.0,84.0,2.0,,,Q4,can ho chung cu
+25.0,480.0,,,12.0,Hoc_Mon,dat
+3.0,52.3,3.0,2.0,,Nha_Be,nha rieng
+3.9,160.0,,,8.0,Binh_Chanh,"kho, nha xuong"
+60.0,880.0,4.0,3.0,15.0,__missing__,nha rieng
+10.5,1000.0,,,18.0,Binh_Chanh,dat
+15.0,627.0,,,10.0,Hoc_Mon,dat
+115.0,100.0,,,4.0,TP_Thu_Duc,dat
+2.63,3454.0,,,,__missing__,dat
+13.0,2245.0,,,,__missing__,dat
+45.0,96.0,3.0,,,Binh_Chanh,can ho chung cu
+7.0,65.0,6.0,4.0,3.5,__missing__,nha rieng
+1.5,125.0,,,5.0,__missing__,dat
+39.0,371.0,,,12.0,TP_Thu_Duc,dat
+0.78,60.0,,,5.0,__missing__,dat
+41.0,50.0,,,4.0,Q12,dat
+8.4,120.0,3.0,,10.0,Nha_Be,can ho chung cu
+335.0,65.0,2.0,,,Tan_Phu,can ho chung cu
+58.0,48.0,1.0,,,Q7,can ho chung cu
+1.89,90.0,,,,__missing__,dat
+0.268,52.0,1.0,,,Binh_Chanh,can ho chung cu
+10.5,83.0,,,12.0,Binh_Thanh,dat
+739.0,96.0,2.0,,,Tan_Phu,can ho chung cu
+33.0,78.0,2.0,,,Q1,can ho chung cu
+5.3,80.0,,,,Q9,dat
+2.0,47.0,2.0,,,Tan_Binh,can ho chung cu
+1.89,90.0,,,4.5,Q9,dat
+13.0,1344.7,,,,__missing__,dat
+0.7,140.0,,,20.0,Binh_Chanh,dat
+185.0,379.0,,,14.0,Q1,dat
+7.0,163.0,,4.0,5.0,TP_Thu_Duc,dat
+105.0,155.0,,,8.0,Q12,dat
+1.2,83.0,,,5.0,Cu_Chi,dat
+6.8,1181.0,,,27.0,__missing__,nha rieng
+1.62,70.0,2.0,,,TP_Thu_Duc,can ho chung cu
+22.0,199.0,,4.0,6.5,Q7,dat
+5.5,511.0,,,9.5,__missing__,dat
+12.5,466.7,,,,__missing__,dat
+32.0,1585.0,,,21.0,Can_Gio,dat
+3.3,68.0,,,,Q8,can ho chung cu
+1.48,95.3,,,5.0,__missing__,dat
+1.2,50.0,2.0,,5.0,Q12,can ho chung cu
+3.85,72.0,,,4.0,Q12,dat
+4.5,75.0,2.0,,,Tan_Binh,can ho chung cu
+6.2,80.0,,,10.0,Binh_Thanh,dat
+17.0,492.0,,,9.87,Binh_Chanh,dat
+125.0,100.0,,3.0,5.0,Q7,dat
+1.29,36.0,,,6.0,Tan_Phu,can ho chung cu
+2.69,85.0,,,,Binh_Chanh,can ho chung cu
+0.3,199.4,,,,__missing__,dat
+12.2,100.0,,3.0,5.0,Binh_Thanh,dat
+14.0,,,,,__missing__,dat
+2.6,85.0,2.0,,,Binh_Chanh,can ho chung cu
+3.68,110.0,,,,__missing__,nha rieng
+21.0,68.0,2.0,,,Q4,can ho chung cu
+3.05,455.9,,,,__missing__,dat
+3.65,54.0,,,,Q9,dat
+4.0,63.0,2.0,,,Tan_Phu,can ho chung cu
+2.2,100.0,,,5.0,Cu_Chi,dat
+4.0,100.0,3.0,,,Q9,can ho chung cu
+5.2,115.0,3.0,,,Q4,can ho chung cu
+17.5,729.4,,,12.0,__missing__,dat
+3.5,102.0,,,5.0,Hoc_Mon,dat
+76.0,99.0,2.0,,,Q7,can ho chung cu
+13.5,190.0,,1.0,10.0,Q12,nha rieng
+53.0,103.0,3.0,,,Q4,can ho chung cu
+4.95,330.0,,,7.5,Can_Gio,dat
+3.2,2942.0,,,,Cu_Chi,dat
+4.99,110.0,2.0,2.0,4.15,Q12,dat
+18.0,600.0,4.0,,30.0,TP_Thu_Duc,can ho chung cu
+6.5,102.0,3.0,,,Q7,can ho chung cu
+3.8,187.0,2.0,,,Nha_Be,can ho chung cu
+13.6,195.0,,,6.0,Q9,dat
+9.7,303.4,,,,Q9,dat
+1.25,167.0,,,100.0,__missing__,dat
+258.0,84.0,2.0,,,Binh_Chanh,can ho chung cu
+1.45,82.0,,,5.0,Cu_Chi,dat
+21.0,2000.0,,,40.0,Binh_Chanh,dat
+1.65,803.0,,,10.0,__missing__,dat
+25.0,1024.2,,,27.0,__missing__,dat
+74.5,,,,,__missing__,dat
+5.0,132.0,,6.0,6.0,Q12,dat
+1.7,220.0,,,6.0,Cu_Chi,dat
+1.5,56.0,,,4.0,Q12,dat
+1.3,75.0,2.0,,7.0,Hoc_Mon,can ho chung cu
+22.0,47.0,1.0,,,Q9,can ho chung cu
+27.0,195.0,,,8.3,Q9,dat
+5.37,59.0,3.0,2.0,4.5,Q7,nha rieng
+4.0,1017.9,,,20.0,Cu_Chi,dat
+12.5,4200.0,,,75.0,__missing__,dat
+74.0,117.0,3.0,,,Tan_Phu,can ho chung cu
+54.52,,,,93.8,Hoc_Mon,dat
+97.0,76.0,2.0,,,Q7,can ho chung cu
+8.0,85.0,,,5.0,TP_Thu_Duc,dat
+50.0,210.0,,8.0,9.0,Phu_Nhuan,nha rieng
+32.0,,,,62.0,__missing__,dat
+5.8,80.0,,4.0,5.6,Q6,"kho, nha xuong"
+3.5,425.2,,,,__missing__,dat
+90.0,,,,,Nha_Be,dat
+12.0,293.8,,,,__missing__,dat
+52.0,1100.0,,,31.0,Go_Vap,dat
+7.0,694.0,,,20.0,Cu_Chi,dat
+7.2,95.0,,5.0,19.0,Nha_Be,dat
+5.8,57.0,2.0,2.0,4.2,Go_Vap,nha rieng
+1.9,292.0,,,10.0,__missing__,dat
+19.0,1050.0,,1.0,15.0,Hoc_Mon,"kho, nha xuong"
+18.5,340.0,,,10.0,Binh_Chanh,"kho, nha xuong"
+84.6,168.0,9.0,4.0,8.0,Phu_Nhuan,nha rieng
+19.0,1000.0,,,11.0,Binh_Chanh,dat
+0.95,,,,15.0,__missing__,dat
+39.5,1437.0,,,35.0,Q9,dat
+256.0,83.0,2.0,,,Q10,can ho chung cu
+2.78,86.0,2.0,,,Q5,can ho chung cu
+4.75,50.0,,,,TP_Thu_Duc,dat
+2.3,80.0,2.0,,,Tan_Phu,can ho chung cu
+16.0,500.0,,,10.0,Cu_Chi,dat
+3.7,48.0,,2.0,4.0,Binh_Tan,nha rieng
+7.22,112.0,,,,Tan_Phu,can ho chung cu
+9.99,170.0,,,10.0,Q12,dat
+3.9,221.0,,,7.0,__missing__,dat
+1.2,80.0,,,5.0,Cu_Chi,dat
+28.0,366.7,,4.5,11.6,Tan_Binh,dat
+475.0,90.0,3.0,,,Q9,can ho chung cu
+4.65,77.0,,,5.3,TP_Thu_Duc,dat
+13.0,125.0,,4.0,5.1,Q12,dat
+36.0,,,,50.0,Cu_Chi,dat
+4.47,76.0,,,4.0,Binh_Tan,dat
+29.0,80.0,,,,Q7,can ho chung cu
+175.0,62.0,2.0,,,Q6,can ho chung cu
+21.0,35.0,1.0,,,Nha_Be,can ho chung cu
+39.0,3900.0,,,45.0,Binh_Chanh,dat
+86.0,120.0,3.0,,,Tan_Phu,can ho chung cu
+3.9,130.4,,,5.0,Hoc_Mon,dat
+3.1,69.0,2.0,,,Binh_Chanh,can ho chung cu
+3.0,231.0,,,4.0,Cu_Chi,dat
+30.0,100.0,3.0,4.0,9.7,Q9,nha rieng
+87.0,204.0,,6.0,6.0,Q3,khach san
+26.0,,,,72.0,__missing__,dat
+295.0,59.0,2.0,,,Q9,can ho chung cu
+4.95,326.0,,,15.0,Cu_Chi,dat
+4.0,62.0,2.0,,,Q7,nha tro
+5.85,69.0,2.0,,,Q4,can ho chung cu
+2.7,64.0,2.0,1.0,,__missing__,nha rieng
+36.0,89.0,,,,Binh_Chanh,can ho chung cu
+285.0,65.0,2.0,,,Q9,can ho chung cu
+8.4,106.0,,,5.0,TP_Thu_Duc,dat
+1.6,243.0,,,6.0,__missing__,dat
+219.0,2057.0,,1.0,30.0,Tan_Binh,nha rieng
+3.85,462.6,,,7.0,__missing__,dat
+0.65,128.0,,,8.0,Cu_Chi,dat
+2.2,48.0,1.0,,,Nha_Be,can ho chung cu
+6.5,53.0,5.0,4.0,4.0,Tan_Phu,nha rieng
+105.0,135.0,3.0,,,Q7,can ho chung cu
+75.0,103.0,,,4.0,Go_Vap,dat
+33.5,2239.6,,,,__missing__,dat
+3.8,91.0,2.0,,,Binh_Chanh,can ho chung cu
+46.0,300.0,,,10.0,Q2,dat
+3.93,569.0,,,4.0,Binh_Tan,dat
+9.2,815.0,,,15.0,Cu_Chi,dat
+15.0,855.0,,,18.0,__missing__,dat
+55.0,150.0,,,6.0,Q1,dat
+12.5,500.0,,,8.0,Hoc_Mon,dat
+3.0,2993.6,,,93.0,__missing__,dat
+21.98,293.0,,,,Q9,dat
+117.0,,,,,Binh_Chanh,"kho, nha xuong"
+58.0,58.0,2.0,,,Q3,can ho chung cu
+5.0,349.7,,,10.0,__missing__,dat
+8.9,3700.0,,,50.0,Hoc_Mon,dat
+4.9,80.8,,,5.0,Q9,dat
+4.69,62.0,,,4.69,Q9,dat
+2.95,82.0,,,5.0,Nha_Be,dat
+7.1,99.0,3.0,1.0,11.5,__missing__,nha tro
+15.0,162.0,,,9.0,Go_Vap,dat
+8.3,78.0,2.0,,,Q7,can ho chung cu
+12.5,87.0,5.0,4.0,5.0,Tan_Phu,nha rieng
+133.0,126.0,,,,Q7,can ho chung cu
+7.5,4443.5,,,20.0,__missing__,dat
+3.79,80.0,,,7.0,Nha_Be,dat
+3.6,57.0,,1.0,3.7,Binh_Thanh,nha rieng
+12.5,915.3,,,10.0,__missing__,dat
+8.3,464.0,,,10.0,__missing__,dat
+165.0,127.0,3.0,,,Q7,can ho chung cu
+67.0,,,,,Cu_Chi,"kho, nha xuong"
+11.4,136.0,,,6.5,Tan_Binh,dat
+4.95,150.0,,,7.5,__missing__,dat
+2.6,615.0,,,,Binh_Thanh,can ho chung cu
+12.6,1422.0,,,44.0,Hoc_Mon,dat
+17.9,680.0,,,,__missing__,dat
+2.1,790.0,,,25.0,Cu_Chi,dat
+6.0,69.0,2.0,2.5,5.5,Q6,nha rieng
+13.8,132.0,,,6.0,Binh_Thanh,dat
+65.0,,,,,__missing__,dat
+7.7,612.0,,,17.0,Hoc_Mon,"kho, nha xuong"
+6.0,160.0,,,,__missing__,dat
+6.0,,,,70.0,__missing__,dat
+3.79,43.0,2.0,3.0,4.0,Hoc_Mon,nha rieng
+22.9,229.0,,,11.0,Tan_Binh,dat
+2.3,62.0,,,4.1,Q9,dat
+6.1,62.0,,,4.0,Q9,dat
+53.7,316.0,,,17.0,TP_Thu_Duc,dat
+1.87,55.0,2.0,,,Binh_Chanh,can ho chung cu
+46.0,1539.0,,,5.0,__missing__,dat
+0.68,571.8,,,,__missing__,dat
+2.7,19.0,2.0,2.0,3.0,Q7,nha rieng
+20.0,430.0,,2.0,14.0,Hoc_Mon,"kho, nha xuong"
+2.3,99.4,,,6.0,__missing__,dat
+8.5,400.0,,,10.0,__missing__,dat
+6.5,300.0,,1.0,10.0,Hoc_Mon,"kho, nha xuong"
+14.5,65.7,,,,__missing__,dat
+10.5,163.0,3.0,3.0,8.8,Binh_Tan,"kho, nha xuong"
+3.0,723.0,,,12.0,Cu_Chi,dat
+5.2,1605.0,,,12.0,__missing__,dat
+4.7,88.0,,,4.0,Binh_Tan,dat
+14.0,140.0,,,8.0,Q2,dat
+2.55,132.6,,,,__missing__,dat
+12.0,200.0,,,10.0,Q12,dat
+0.145,452.0,,,,__missing__,dat
+3.68,110.0,,,,__missing__,nha rieng
+6.5,71.0,,,5.0,Tan_Phu,nha rieng
+25.5,327.0,4.0,,8.0,Binh_Tan,nha rieng
+14.9,81.0,5.0,2.0,4.0,__missing__,nha rieng
+2.45,85.0,2.0,,,Binh_Chanh,can ho chung cu
+225.0,49.0,1.0,18.0,3.2,Q12,can ho chung cu
+2.6,149.0,,,5.0,Cu_Chi,dat
+16.5,1000.0,,1.0,20.0,Hoc_Mon,"kho, nha xuong"
+6.5,171.5,,,10.0,Hoc_Mon,dat
+6.0,688.0,,,20.0,Cu_Chi,"kho, nha xuong"
+110.0,,,,10.0,Cu_Chi,dat
+5.78,48.0,3.0,2.0,20.0,Tan_Phu,nha rieng
+29.5,124.4,,3.0,6.5,Binh_Thanh,nha rieng
+2.38,61.0,2.0,5.0,,Q9,can ho chung cu
+8.5,520.0,4.0,2.0,10.0,__missing__,nha rieng
+3.8,246.0,,,8.0,Cu_Chi,dat
+7.3,38.0,3.0,3.0,3.5,Phu_Nhuan,nha rieng
+20.0,122.0,3.0,24.0,8.0,Tan_Phu,can ho chung cu
+109.0,624.0,,7.0,24.0,Q11,nha rieng
+85.0,254.0,,7.0,10.0,Q7,khach san
+4.3,65.0,,,4.0,Q12,dat
+5.95,50.0,5.0,5.0,,Q12,nha rieng
+2.5,226.7,,,5.0,__missing__,dat
+11.9,75.0,,,,Q1,can ho chung cu
+7.1,90.0,,,4.6,Go_Vap,dat
+8.0,4428.2,,,23.0,__missing__,dat
+15.2,1000.0,,,20.0,Nha_Be,dat
+60.0,748.0,,,18.0,Q9,dat
+1.59,220.0,,,18.0,__missing__,dat
+4.1,73.0,2.0,,,Tan_Binh,can ho chung cu
+320.5,3735.4,,,48.0,Hoc_Mon,dat
+8.3,200.0,,,10.0,__missing__,dat
+2.2,130.0,,,7.0,Tan_Phu,dat
+11.0,302.6,,,10.0,__missing__,dat
+255.0,140.0,,,7.0,Q7,dat
+4.25,72.0,2.0,,,Q9,can ho chung cu
+15.8,118.0,6.0,3.0,5.5,Tan_Phu,nha rieng
+10.8,141.0,,,6.5,Nha_Be,dat
+3.5,125.0,,,5.0,__missing__,dat
+320.0,,,,,TP_Thu_Duc,dat
+4.75,40.0,3.0,3.0,3.0,Tan_Phu,nha rieng
+258.0,84.0,2.0,,1.7,Binh_Chanh,can ho chung cu
+20.0,1439.0,,,,Binh_Chanh,dat
+3.95,82.0,3.0,2.0,7.0,Q12,nha rieng
+10.0,250.0,,,6.0,Nha_Be,dat
+7.0,220.5,,,5.0,__missing__,dat
+10.19,336.0,,,7.0,Q12,dat
+25.0,4234.4,,,,__missing__,dat
+4.72,40.0,4.0,3.0,4.0,Go_Vap,nha rieng
+14.5,1403.7,,,34.0,Q12,dat
+65.0,74.0,2.0,,,Q4,can ho chung cu
+11.5,180.0,,,4.6,Binh_Thanh,dat
+2.7,989.0,2.0,,,Binh_Thanh,nha tro
+4.3,104.0,,,4.0,__missing__,dat
+169.0,74.0,2.0,,,Q9,can ho chung cu
+4.0,560.0,,,11.0,__missing__,dat
+2.75,275.0,,,9.8,__missing__,dat
+4.5,70.0,2.0,,,Nha_Be,can ho chung cu
+7.2,,,,50.0,__missing__,dat
+732.0,120.0,2.0,,14.0,Tan_Phu,can ho chung cu
+5.2,71.0,,,4.1,TP_Thu_Duc,dat
+15.5,40.0,,3.0,3.4,Q1,nha rieng
+6.05,262.0,,,6.0,__missing__,dat
+12.0,96.0,,4.0,4.0,Q11,dat
+10.0,107.0,3.0,,,Q7,can ho chung cu
+13.5,1458.0,,,,Binh_Chanh,"kho, nha xuong"
+4.2,120.0,,,,__missing__,dat
+2.65,65.0,2.0,,,Q12,can ho chung cu
+103.0,165.0,2.0,,61.0,Tan_Phu,can ho chung cu
+8.29,160.0,,,10.0,Q12,dat
+266.8,,,,,Binh_Tan,"kho, nha xuong"
+3.65,1573.0,,,6.0,__missing__,dat
+8.9,84.0,,5.0,4.1,Go_Vap,can ho chung cu
+6.6,63.0,,,5.0,TP_Thu_Duc,dat
+1.15,327.1,,,,__missing__,dat
+15.6,105.0,7.0,4.0,4.5,Q11,nha rieng
+150.0,,,,97.0,Binh_Chanh,"kho, nha xuong"
+10.6,99.0,7.0,5.0,4.6,Binh_Tan,nha rieng
+5.3,,,,23.0,__missing__,dat
+70.0,,,,,Cu_Chi,"kho, nha xuong"
+3.75,75.0,2.0,,,Binh_Tan,can ho chung cu
+3.3,82.0,3.0,,,Q9,can ho chung cu
+61.0,87.0,3.0,,,Q7,can ho chung cu
+25.0,336.0,,,7.0,Q12,dat
+1.8,94.9,,,,__missing__,dat
+3.28,85.0,2.0,,,Binh_Chanh,can ho chung cu
+15.0,,,,30.0,__missing__,dat
+19.0,1862.0,,,50.0,Hoc_Mon,dat
+14.0,427.0,,,12.0,Nha_Be,dat
+2.35,70.0,,,5.0,Q9,dat
+5.85,111.0,,,4.2,__missing__,dat
+2.2,934.0,,,12.0,__missing__,dat
+8.3,83.0,,,7.0,TP_Thu_Duc,dat
+13.5,1827.2,,,20.0,__missing__,dat
+23.5,75.0,3.0,1.0,6.0,Q12,can ho chung cu
+628.0,72.0,3.0,,,Q7,can ho chung cu
+8.9,116.0,,,5.1,Go_Vap,dat
+5.0,102.6,,4.0,6.8,Q9,dat
+38.5,295.0,,3.0,14.0,Q9,dat
+1.9,3121.0,,,,__missing__,dat
+135.0,135.0,,,7.5,TP_Thu_Duc,dat
+1.7,100.0,,,4.0,__missing__,dat
+55.0,210.0,,8.0,6.0,Binh_Thanh,nha rieng
+0.95,517.9,,,,__missing__,dat
+0.9,176.2,,,,__missing__,dat
+2.45,86.0,2.0,,,Q7,can ho chung cu
+3.3,98.0,,,5.0,Hoc_Mon,dat
+13.0,73.0,,,4.0,Tan_Phu,nha rieng
+65.0,1822.0,,,50.0,Q2,dat
+27.0,135.7,,,4.0,Q3,dat
+4.6,140.0,,,5.0,Nha_Be,dat
+7.65,72.0,,7.0,4.0,Tan_Phu,dat
+73.5,,,,,__missing__,dat
+40.0,856.0,,,20.0,Hoc_Mon,dat
+25.0,4234.4,,,,__missing__,nha rieng
+4.81,76.0,2.0,,,Q9,can ho chung cu
+2.45,59.0,2.0,,,Binh_Chanh,can ho chung cu
+1.41,2823.4,,,27.0,__missing__,dat
+11.5,320.0,,,8.0,Binh_Chanh,dat
+40.0,,,,,__missing__,dat
+5.0,784.0,,,,Binh_Chanh,dat
+1.1,842.1,,,15.0,Binh_Chanh,dat
+418.0,92.0,3.0,,,Nha_Be,can ho chung cu
+21.0,100.0,16.0,7.0,5.0,__missing__,khach san
+22.0,323.8,,,,__missing__,nha rieng
+7.0,104.0,3.0,,,Nha_Be,can ho chung cu
+18.5,250.0,,3.0,10.0,Q12,nha tro
+3.6,80.7,,,5.0,Hoc_Mon,dat
+5.0,82.0,2.0,,,Q9,can ho chung cu
+38.5,498.0,,,12.0,Q9,dat
+1.58,200.0,,,10.0,Q7,dat
+22.0,370.0,11.0,1.0,10.0,TP_Thu_Duc,nha rieng
+385.0,68.0,2.0,,,Q7,can ho chung cu
+0.94,806.6,,,,__missing__,dat
+2.65,85.0,,,,Binh_Chanh,can ho chung cu
+1.99,50.0,,2.5,6.0,Q9,dat
+45.0,330.0,,,10.0,Q9,dat
+17.0,784.0,,,,Q9,dat
+35.0,204.0,5.0,4.0,11.0,TP_Thu_Duc,nha rieng
+8.0,56.0,5.0,5.0,4.0,__missing__,nha rieng
+9.0,108.0,2.0,1.0,5.5,Q2,nha rieng
+7.8,56.0,7.0,4.0,4.0,Tan_Phu,nha rieng
+60.0,400.0,,6.0,18.0,Go_Vap,nha rieng
+6.8,100.0,,,5.0,TP_Thu_Duc,dat
+3.75,43.0,2.0,2.0,3.8,Tan_Phu,nha rieng
+1.1,194.1,,,,__missing__,dat
+2.1,50.0,1.0,,5.0,Q7,can ho chung cu
+8.47,605.0,,,30.0,Can_Gio,dat
+2.65,75.0,2.0,,,Binh_Thanh,can ho chung cu
+6.5,280.0,,,10.0,Binh_Chanh,dat
+5.0,80.0,,,5.0,Nha_Be,dat
+5.19,166.0,,,7.0,Hoc_Mon,dat
+3.6,61.0,,,,Binh_Tan,can ho chung cu
+2.9,122.1,,,,__missing__,dat
+2.2,139.7,,,,__missing__,dat
+8.83,96.0,2.0,1.0,,Tan_Phu,can ho chung cu
+2.85,79.0,2.0,,,Binh_Tan,can ho chung cu
+2.15,151.0,,,5.0,__missing__,dat
+5.44,555.0,,,,Q1,can ho chung cu
+618.0,92.0,,65.0,5.0,Q9,dat
+3.0,132.0,,,,__missing__,dat
+15.99,52.0,,4.0,30.0,Go_Vap,nha rieng
+1.95,130.0,,,14.0,Binh_Chanh,dat
+0.699,226.0,,,5.0,__missing__,dat
+0.58,140.0,,,8.0,Cu_Chi,dat
+3.0,68.0,,,4.0,Hoc_Mon,dat
+4.8,162.1,,,5.0,Nha_Be,dat
+4.55,57.0,3.0,3.0,4.0,Q9,nha rieng
+39.5,945.0,,,13.5,TP_Thu_Duc,"kho, nha xuong"
+2.8,400.0,,,8.0,Cu_Chi,dat
+3.5,59.0,2.0,,,TP_Thu_Duc,can ho chung cu
+0.57,1780.3,,,5.0,__missing__,dat
+11.0,500.0,,,10.0,Cu_Chi,dat
+19.5,114.0,,4.0,5.12,Q4,dat
+6.5,41.0,3.0,4.0,4.0,Binh_Thanh,nha rieng
+98.0,86.0,2.0,,,Q10,can ho chung cu
+1.84,66.0,2.0,,,Tan_Binh,can ho chung cu
+5.28,100.0,2.0,2.0,5.0,Hoc_Mon,nha rieng
+6.2,119.0,,,9.2,Q9,dat
+3.0,100.0,,,5.0,Binh_Chanh,dat
+405.0,102.0,,,8.0,Hoc_Mon,dat
+6.8,77.0,2.0,,,Q7,nha tro
+2.25,100.0,,,5.0,Q9,dat
+9.9,274.9,,,12.0,__missing__,dat
+2.45,57.0,2.0,,,Q7,can ho chung cu
+40.0,4471.0,,,50.0,Q9,dat
+59.2,216.0,18.0,5.0,8.0,Phu_Nhuan,nha rieng
+4.4,357.0,,,15.0,Binh_Chanh,dat
+235.0,50.0,1.0,1.0,,Tan_Phu,can ho chung cu
+24.7,,,,87.0,__missing__,dat
+5.0,132.0,,6.0,6.0,Q12,dat
+10.4,125.0,,,5.6,Go_Vap,dat
+7.6,65.0,2.0,3.0,3.8,__missing__,nha rieng
+44.0,80.0,,,6.0,Q9,dat
+3.25,67.0,2.0,,,Tan_Phu,can ho chung cu
+1.85,95.0,2.0,,5.0,__missing__,nha rieng
+20.43,2554.0,,,39.0,Cu_Chi,dat
+40.0,2035.4,,,,__missing__,dat
+1.65,143.0,2.0,,5.0,__missing__,nha rieng
+1.98,85.0,2.0,,,Binh_Chanh,can ho chung cu
+2.6,55.0,,,5.0,Hoc_Mon,dat
+7.9,118.0,3.0,,,Q7,can ho chung cu
+4.5,71.0,2.0,,,Nha_Be,can ho chung cu
+5.15,372.0,,,26.0,__missing__,dat
+6.0,79.0,2.0,,,Binh_Thanh,can ho chung cu
+4.5,80.0,2.0,,,Binh_Thanh,can ho chung cu
+0.58,343.9,,,,__missing__,dat
+11.8,77.0,,1.5,4.0,Tan_Phu,nha rieng
+11.0,80.0,5.0,4.0,4.0,__missing__,nha rieng
+25.0,420.0,,,16.0,TP_Thu_Duc,dat
+1.75,42.3,1.0,4.0,4.0,__missing__,nha rieng
+35.0,280.0,,,,Q6,"kho, nha xuong"
+795.0,81.0,2.0,,,Q7,can ho chung cu
+12.5,181.0,,5.0,8.0,Binh_Chanh,dat
+0.95,135.6,,,6.0,__missing__,dat
+2.8,50.0,2.0,,,Nha_Be,can ho chung cu
+365.0,,,,,Q9,dat
+6.6,1355.8,,,26.0,__missing__,dat
+178.0,50.0,2.0,,,Binh_Chanh,can ho chung cu
+0.79,339.1,,,,__missing__,dat
+8.5,51.0,4.0,5.0,4.1,Q7,nha rieng
+2.8,179.2,2.0,,10.0,__missing__,nha rieng
+3.5,48.0,1.0,,,Q9,can ho chung cu
+3.7,218.6,,,6.0,__missing__,dat
+1.3,245.0,,,,__missing__,dat
+25.0,1600.0,,,28.0,__missing__,dat
+42.0,91.0,,,5.0,Nha_Be,dat
+5.5,103.0,,,5.0,Q9,dat
+2.39,150.0,2.0,,5.0,Cu_Chi,nha rieng
+8.2,1863.0,,,36.0,Hoc_Mon,dat
+33.0,222.0,5.0,3.0,12.9,Nha_Be,nha rieng
+2.99,234.0,,,12.0,Hoc_Mon,dat
+3.8,72.0,,,4.0,Q9,dat
+38.0,145.0,4.0,,,Q1,can ho chung cu
+35.0,80.0,2.0,,,Q7,can ho chung cu
+1.2,432.0,,,10.0,__missing__,dat
+1.56,68.0,2.0,,,Q9,can ho chung cu
+2.27,52.0,2.0,,,TP_Thu_Duc,can ho chung cu
+4.4,100.0,3.0,,,__missing__,nha rieng
+4.0,134.0,,,11.0,Binh_Chanh,dat
+425.0,68.0,2.0,,,Q7,can ho chung cu
+14.3,90.0,4.0,5.0,4.2,Tan_Phu,nha rieng
+6.0,56.0,,,20.0,Q12,dat
+4.45,919.0,,,25.0,Cu_Chi,dat
+1.92,88.2,,,,__missing__,dat
+2.95,142.0,2.0,,6.0,__missing__,nha rieng
+9.49,165.0,8.0,2.0,6.0,Tan_Binh,nha rieng
+5.0,71.0,2.0,,,Q10,can ho chung cu
+54.29,3619.0,,,36.0,Q9,dat
+3.7,42.0,2.0,2.0,3.5,Q8,nha rieng
+6.5,97.0,,,4.0,TP_Thu_Duc,dat
+5.3,54.0,4.0,4.0,4.0,Binh_Tan,nha rieng
+3.2,561.2,,,11.0,__missing__,dat
+4.5,297.0,,,4.0,__missing__,dat
+3.5,504.0,,,,__missing__,dat
+8.0,4170.4,,,20.0,__missing__,dat
+2.99,697.0,2.0,,,TP_Thu_Duc,can ho chung cu
+30.0,,,,86.0,Binh_Chanh,dat
+3.0,48.0,,,4.0,Q12,dat
+4.0,63.0,3.0,3.0,4.5,__missing__,nha rieng
+2.6,55.0,1.0,,,Q9,can ho chung cu
+2.49,589.0,2.0,,,Q9,nha tro
+40.0,,,,,Can_Gio,dat
+1.95,180.0,,,5.0,Cu_Chi,dat
+33.0,461.0,,1.0,12.5,Q12,dat
+105.0,118.0,3.0,,,Q7,can ho chung cu
+5.25,94.5,2.0,1.0,5.0,__missing__,nha rieng
+3.5,438.2,,,,__missing__,dat
+7.2,110.0,,,5.0,Hoc_Mon,dat
+19.0,2870.8,,,,__missing__,nha rieng
+335.0,1080.0,,,15.0,Q9,dat
+0.98,51.0,1.0,,,TP_Thu_Duc,can ho chung cu
+2.85,213.0,,,8.5,Cu_Chi,dat
+2.0,91.9,,,5.7,Binh_Chanh,dat
+28.0,1000.0,,,30.0,Can_Gio,dat
+2.1,405.0,,,10.0,__missing__,dat
+24.0,37.0,,,,Q7,can ho chung cu
+30.0,,,,85.0,__missing__,dat
+150.0,,,,23.0,Q12,dat
+5.9,48.0,2.0,2.0,4.0,__missing__,nha rieng
+124.61,639.0,,,23.0,TP_Thu_Duc,dat
+15.5,105.0,4.0,5.0,4.0,Binh_Tan,nha rieng
+1.85,116.0,,,5.0,__missing__,dat
+1.95,104.7,,,5.0,Binh_Chanh,dat
+7.6,243.0,9.0,1.0,7.6,TP_Thu_Duc,nha tro
+2.7,100.0,3.0,2.0,5.0,__missing__,nha rieng
+34.0,115.0,,,5.0,Binh_Chanh,dat
+55.8,,,,,__missing__,dat
+6.2,100.0,,4.0,5.0,Binh_Chanh,dat
+30.0,3528.0,,,,Cu_Chi,dat
+7.5,915.0,,,28.1,__missing__,dat
+6.0,96.0,,,,Tan_Phu,can ho chung cu
+1.6,115.0,,,6.0,__missing__,dat
+7.5,135.0,3.0,,7.0,Q7,can ho chung cu
+13.7,1050.0,2.0,,39.0,Cu_Chi,"kho, nha xuong"
+16.8,120.0,,,6.0,TP_Thu_Duc,dat
+1.35,98.8,,,5.0,__missing__,dat
+6.55,85.0,,,5.0,Binh_Tan,dat
+16.5,4424.0,,,12.0,Q9,dat
+9.5,,,,50.5,__missing__,dat
+19.9,363.0,,,10.0,Nha_Be,dat
+1.76,66.0,2.0,,,Q9,can ho chung cu
+13.2,100.0,,4.0,4.2,Binh_Thanh,dat
+3.9,98.0,,,7.0,Nha_Be,dat
+3.0,99.0,,3.0,5.0,Hoc_Mon,dat
+2.95,497.0,,,10.0,__missing__,dat
+22.5,881.6,,,25.0,Can_Gio,dat
+22.0,874.0,,,40.0,Q9,dat
+25.0,2541.2,,,,Cu_Chi,dat
+72.0,105.0,,,4.2,Go_Vap,dat
+10.0,90.1,4.0,1.0,5.0,__missing__,nha rieng
+1.85,249.0,,,7.0,Cu_Chi,dat
+10.2,108.0,,2.0,4.0,__missing__,nha rieng
+73.0,,,,,Tan_Binh,dat
+5.8,1009.0,,,17.0,__missing__,dat
+5.4,492.0,,,10.0,Cu_Chi,dat
+3.2,75.0,2.0,,7.3,Q5,can ho chung cu
+4.47,75.0,,4.0,4.0,Binh_Tan,dat
+0.42,610.5,,,,__missing__,dat
+45.0,500.0,,,25.0,TP_Thu_Duc,dat
+32.0,78.0,1.0,,,Q1,can ho chung cu
+7.1,89.0,,,,__missing__,nha rieng
+3.3,110.0,,,5.0,Tan_Binh,dat
+31.2,2080.0,,,25.0,__missing__,dat
+2.85,248.8,3.0,,6.0,__missing__,nha rieng
+3.2,1000.0,,,10.0,Binh_Chanh,dat
+1.3,480.0,7.0,3.5,10.0,Hoc_Mon,nha rieng
+28.0,1468.0,,,15.0,Cu_Chi,dat
+2.4,620.0,,,10.0,__missing__,dat
+3.3,90.0,2.0,,,Tan_Binh,can ho chung cu
+60.0,680.0,,,17.0,Q12,dat
+1.1,81.0,,,10.0,Cu_Chi,dat
+2.95,60.0,2.0,,,Q9,can ho chung cu
+16.5,1000.0,,1.0,20.0,Q12,"kho, nha xuong"
+1.7,106.1,,,,Cu_Chi,dat
+2.38,34.0,1.0,,,Tan_Binh,can ho chung cu
+28.5,103.0,3.0,4.0,5.0,Q1,nha rieng
+1.8,1282.0,,,15.0,__missing__,dat
+238.0,136.0,2.0,21.0,,Binh_Tan,can ho chung cu
+3.3,435.2,,,,Tan_Binh,dat
+4.8,477.0,,,,__missing__,dat
+35.0,89.0,2.0,,,Tan_Phu,can ho chung cu
+330.0,750.0,,10.0,15.0,Q1,dat
+2.5,235.0,,,5.0,Cu_Chi,dat
+3.57,74.5,,,,__missing__,nha rieng
+3.05,53.0,1.0,6.0,,Q7,can ho chung cu
+378.0,60.0,,3.0,4.0,Q12,dat
+24.25,57.0,1.0,,,Q1,can ho chung cu
+13.5,2014.0,,,10.0,__missing__,dat
+6.2,495.0,,,10.0,Cu_Chi,dat
+18.5,1200.0,,,20.0,__missing__,dat
+15.0,100.0,6.0,4.0,5.0,__missing__,nha rieng
+24.0,156.0,,,6.0,TP_Thu_Duc,dat
+0.125235,,,,,Can_Gio,dat
+13.5,448.0,,,10.0,Cu_Chi,dat
+7.2,76.0,,1.0,4.0,Q9,nha rieng
+2.3,318.0,,,6.0,__missing__,dat
+5.7,53.0,2.0,2.0,6.0,Q12,nha rieng
+11.0,371.0,,1.0,16.0,Hoc_Mon,"kho, nha xuong"
+1.86,210.0,,,11.0,Cu_Chi,dat
+9.2,176.0,,,8.0,Nha_Be,dat
+3.05,409.9,,,6.0,__missing__,dat
+2.75,65.0,2.0,,,Binh_Chanh,can ho chung cu
+30.72,768.0,,,30.0,Can_Gio,dat
+17.0,1507.0,,,12.0,Hoc_Mon,dat
+279.0,2400.0,,,24.0,Binh_Chanh,"kho, nha xuong"
+23.0,68.0,2.0,,,Q5,can ho chung cu
+355.0,76.0,2.0,,,Q7,can ho chung cu
+115.0,133.0,3.0,,,Q7,can ho chung cu
+6.8,1257.6,,,,__missing__,dat
+53.0,960.0,,,16.0,Q12,dat
+1.65,115.0,,,11.0,__missing__,dat
+38.0,126.0,,4.0,6.0,TP_Thu_Duc,dat
+10.5,64.0,,4.0,4.0,Tan_Phu,nha rieng
+4.2,217.0,,,5.0,Binh_Chanh,dat
+1.2,196.0,,,7.0,__missing__,dat
+6.5,37.0,4.0,3.0,3.6,Q11,nha rieng
+0.9,1440.0,,,5.0,__missing__,dat
+5.2,118.2,,,,__missing__,dat
+4.45,814.0,,,66.0,Cu_Chi,dat
+1.65,820.0,,,,__missing__,dat
+1.67,70.0,,,,__missing__,dat
+1.2,95.0,,,5.0,__missing__,dat
+5.0,454.0,,,6.0,Hoc_Mon,dat
+1.8,443.5,,,,__missing__,dat
+1.9,50.0,1.0,,,Q7,can ho chung cu
+3.2,1200.0,,,24.0,Binh_Chanh,dat
+4.7,75.0,,,4.8,Q12,dat
+48.0,225.0,5.0,5.0,13.0,Tan_Phu,nha rieng
+0.92,128.0,,,,Binh_Chanh,dat
+32.0,264.0,,,11.5,Q7,dat
+0.98,212.0,,,6.5,Cu_Chi,dat
+2.95,36.0,1.0,,,Binh_Thanh,can ho chung cu
+36.0,170.0,,6.0,4.2,Q8,nha rieng
+9.5,83.0,5.0,5.0,4.0,Tan_Binh,nha rieng
+3.4,100.0,,,4.0,Q12,dat
+1.8,155.0,,,,__missing__,dat
+1.65,376.7,,,10.0,__missing__,dat
+4.2,83.0,2.0,,,Binh_Thanh,can ho chung cu
+1.15,60.0,,,4.0,Binh_Chanh,dat
+1.1,191.3,,,,__missing__,dat
+11.0,158.0,,,10.0,Q9,dat
+99.0,164.0,2.0,,,Tan_Phu,can ho chung cu
+5.3,459.0,,,10.0,__missing__,dat
+3.2,503.2,,,10.0,Cu_Chi,dat
+5.6,60.0,1.0,2.0,4.0,Binh_Tan,nha rieng
+12.99,376.8,,,6.0,__missing__,dat
+3.4,61.0,2.0,,,Q12,can ho chung cu
+2.9,52.0,,,,Nha_Be,can ho chung cu
+6.8,122.0,,,5.0,TP_Thu_Duc,dat
+90.0,1810.0,,,8.0,TP_Thu_Duc,dat
+6.8,550.0,,,11.0,Q12,dat
+7.0,78.0,5.0,3.0,8.0,Binh_Tan,nha rieng
+13.3,,,,100.0,__missing__,dat
+5.2,191.0,,,8.5,Q9,dat
+64.0,,,,70.0,Hoc_Mon,dat
+218.0,60.0,2.0,,,Q6,can ho chung cu
+2.01,57.0,2.0,,,Q8,can ho chung cu
+1.3,150.0,,,5.0,__missing__,dat
+3.2,70.0,,6.0,5.0,Q9,dat
+14.5,727.0,2.0,,12.0,Cu_Chi,dat
+0.51,109.0,,,,Cu_Chi,dat
+10.5,91.0,,2.0,6.1,Tan_Phu,nha rieng
+6.35,101.0,,,4.2,Q12,dat
+32.0,216.0,5.0,3.0,12.0,TP_Thu_Duc,nha rieng
+3.75,81.5,,,7.5,Nha_Be,dat
+9.0,71.0,,4.0,4.0,Binh_Thanh,dat
+2.6,37.0,,,,Q7,nha tro
+6.2,127.0,,,5.0,Hoc_Mon,dat
+9.75,100.0,4.0,3.0,4.0,Tan_Binh,nha rieng
+15.9,62.0,,4.0,20.0,Q7,nha rieng
+3.5,350.0,,,6.1,__missing__,dat
+0.45,332.3,,,,__missing__,dat
+15.0,4000.0,,,,__missing__,dat
+6.49,98.0,3.0,,,Q9,can ho chung cu
+14.5,210.0,,,9.0,TP_Thu_Duc,dat
+94.0,121.0,3.0,,,Q7,can ho chung cu
+7.2,63.0,,,6.8,Q11,dat
+5.8,55.0,,2.0,4.2,Q7,nha rieng
+115.0,,,,,__missing__,dat
+4.1,83.9,,,5.0,__missing__,dat
+30.0,,,,50.0,__missing__,dat
+1.75,105.0,,,5.0,Cu_Chi,dat
+289.0,97.0,3.0,,,Q7,can ho chung cu
+12.9,145.4,4.0,1.0,6.0,__missing__,nha rieng
+60.0,262.0,,,9.0,Q1,dat
+178.0,76.0,2.0,3.0,,Q7,can ho chung cu
+16.0,64.4,5.0,3.0,4.0,__missing__,nha rieng
+79.0,758.0,,14.0,16.2,Binh_Thanh,dat
+5.9,862.7,,,5.8,__missing__,dat
+30.0,110.0,3.0,,,Q1,can ho chung cu
+10.5,62.3,,,,Q12,dat
+9.5,244.0,,,,__missing__,dat
+2.4,100.0,,,5.0,__missing__,dat
+7.0,331.2,,,,__missing__,dat
+2.3,68.0,,,,Binh_Tan,can ho chung cu
+3.75,140.0,3.0,1.0,5.0,Cu_Chi,nha rieng
+8.0,202.0,,,5.19,Q12,dat
+3.85,34.0,2.0,1.0,3.0,Tan_Phu,nha rieng
+2.3,100.0,,,5.0,Hoc_Mon,dat
+2.5,150.0,,,,__missing__,dat
+6.7,4600.0,,,,__missing__,dat
+17.9,80.0,8.0,5.0,5.2,Q3,nha rieng
+18.0,400.0,,,22.0,TP_Thu_Duc,dat
+8.5,574.0,,,39.0,__missing__,dat
+14.4,129.0,,,5.8,TP_Thu_Duc,dat
+25.5,65.8,,,4.0,TP_Thu_Duc,dat
+3.15,733.8,,,17.0,__missing__,dat
+36.0,300.0,16.0,4.0,6.5,Q9,khach san
+2.8,143.2,,,6.0,__missing__,dat
+95.0,147.0,,,5.0,Hoc_Mon,dat
+6.5,171.5,,,10.0,Hoc_Mon,dat
+3.2,1193.0,,,20.0,__missing__,dat
+225.0,500.0,,,12.0,Binh_Tan,"kho, nha xuong"
+5.75,416.0,,,30.0,Cu_Chi,dat
+85.0,150.0,,,5.0,Q12,dat
+5.75,124.0,4.0,3.0,4.0,Q12,can ho chung cu
+2.9,144.5,,,,__missing__,dat
+7.9,100.0,,,5.5,Q9,dat
+4.8,970.0,,,27.0,Q12,dat
+8.6,80.0,,3.0,4.0,Binh_Tan,nha rieng
+1.75,52.0,,,4.0,Binh_Chanh,dat
+3.5,80.0,3.0,,,Tan_Phu,can ho chung cu
+16.25,200.0,,,10.0,Q7,dat
+2.6,120.6,,,6.0,__missing__,dat
+10.0,501.5,,,12.0,__missing__,nha rieng
+6.6,100.0,,3.0,,__missing__,nha rieng
+2.24,171.0,,,7.5,__missing__,dat
+4.85,57.0,,3.5,,Q9,dat
+2.3,113.0,,,5.0,Binh_Chanh,dat
+1.2,71.0,,,3.8,__missing__,dat
+32.5,1259.0,,,11.0,Binh_Chanh,dat
+5.2,245.0,4.0,1.0,5.0,Binh_Tan,"kho, nha xuong"
+14.4,1100.0,,,20.0,Cu_Chi,dat
+1.2,1115.2,,,62.0,__missing__,dat
+4.85,56.0,1.0,,4.0,Binh_Tan,nha rieng
+30.0,134.0,,4.0,13.0,TP_Thu_Duc,dat
+4.2,196.0,5.0,,,Binh_Tan,can ho chung cu
+221.0,170.0,,5.0,,Binh_Thanh,dat
+4.9,80.0,,,,__missing__,dat
+6.99,60.0,3.0,3.0,4.0,Nha_Be,nha rieng
+3.0,115.0,,,5.0,Hoc_Mon,dat
+48.0,79.0,2.0,,,Nha_Be,can ho chung cu
+8.5,1727.1,,,,__missing__,dat
+0.51,300.2,,,,__missing__,dat
+5.9,151.0,3.0,2.0,,Q8,can ho chung cu
+2.85,62.4,,,,Q9,dat
+6.7,88.0,4.0,3.0,4.0,Q6,nha rieng
+7.0,120.0,,,6.0,Q9,dat
+9.3,80.0,9.0,5.0,7.0,Tan_Phu,nha tro
+3.6,320.0,,,17.0,Nha_Be,dat
+26.0,66.0,2.0,,,Q9,can ho chung cu
+2.55,154.0,,,7.6,Cu_Chi,dat
+1.68,295.0,,,6.0,__missing__,dat
+2.1,72.0,2.0,,,Q7,can ho chung cu
+2.5,191.0,,,6.0,__missing__,dat
+25.5,344.0,,,16.0,TP_Thu_Duc,dat
+4.5,62.0,,,,Q9,dat
+68.0,1034.0,1.0,1.0,23.0,Tan_Phu,nha rieng
+13.8,370.0,5.0,3.0,12.0,Can_Gio,nha rieng
+15.3,130.0,,,5.5,Q9,dat
+385.0,88.0,2.0,,,Q1,can ho chung cu
+0.9,151.0,,,5.0,__missing__,dat
+4.6,60.0,,3.0,,__missing__,nha rieng
+265.0,,,,,Cu_Chi,"kho, nha xuong"
+12.2,121.0,3.0,,,Q7,can ho chung cu
+7.2,84.0,,,4.2,Q12,dat
+6.5,85.0,4.0,3.0,5.0,Hoc_Mon,nha rieng
+12.0,120.0,,,6.0,Binh_Thanh,nha rieng
+122.0,106.0,2.0,,,Binh_Thanh,can ho chung cu
+1.4,69.0,2.0,,7.0,Hoc_Mon,can ho chung cu
+24.0,370.0,,,,Q12,dat
+23.5,372.0,,1.0,16.0,Q12,"kho, nha xuong"
+4.8,69.0,4.0,2.0,4.3,Binh_Tan,nha rieng
+3.38,70.0,2.0,,,Q7,can ho chung cu
+2.7,60.0,2.0,,,Tan_Phu,can ho chung cu
+10.5,66.0,6.0,5.0,4.4,Tan_Binh,nha rieng
+14.0,220.0,4.0,,,Q11,can ho chung cu
+14.5,91.0,4.0,4.0,4.6,Go_Vap,nha rieng
+120.0,,,,53.0,__missing__,dat
+16.29,325.86,,,,Binh_Tan,dat
+1.55,202.4,,,5.0,__missing__,dat
+505.0,65.0,2.0,,,Q7,can ho chung cu
+5.0,3542.0,,,39.0,__missing__,dat
+63.0,78.0,,4.0,4.0,TP_Thu_Duc,dat
+6.95,49.3,2.0,1.0,4.0,Binh_Tan,nha rieng
+4.6,1275.0,,,24.0,Cu_Chi,dat
+3.75,92.0,3.0,1.0,5.0,__missing__,nha rieng
+36.0,,,,80.0,Binh_Chanh,dat
+13.0,300.0,,,6.0,Cu_Chi,dat
+22.5,190.0,4.0,4.0,10.0,Binh_Tan,nha rieng
+5.6,90.0,,,5.0,Q12,dat
+2.15,52.0,2.0,,,Go_Vap,can ho chung cu
+23.0,3543.0,,,,Cu_Chi,dat
+6.2,68.0,,2.0,4.0,__missing__,nha rieng
+207.0,90.0,2.0,,,Q1,can ho chung cu
+3.25,50.0,1.0,,,Q9,can ho chung cu
+8.5,118.0,3.0,,,Tan_Phu,can ho chung cu
+18.0,600.0,,,15.0,Binh_Tan,dat
+36.9,622.3,,,,__missing__,dat
+24.0,67.0,2.0,,,Binh_Chanh,can ho chung cu
+1.69,31.0,,,,Q10,nha tro
+5.2,72.0,,,4.0,Binh_Tan,dat
+4.0,80.0,3.0,,,Q7,can ho chung cu
+19.0,263.0,2.0,1.0,8.0,TP_Thu_Duc,nha rieng
+12.99,133.0,3.0,,,Binh_Thanh,can ho chung cu
+8.6,72.0,4.0,4.0,4.0,__missing__,nha rieng
+15.0,1112.1,,,15.0,__missing__,dat
+3.89,107.0,3.0,2.0,6.0,__missing__,nha rieng
+2.8,46.0,1.0,,,Nha_Be,can ho chung cu
+4.8,,,,,__missing__,dat
+2.1,1340.0,,,42.0,__missing__,dat
+4.23,90.0,,,5.0,Q9,dat
+1.35,80.0,,,5.0,TP_Thu_Duc,dat
+12.0,200.0,,,8.0,TP_Thu_Duc,nha rieng
+6.0,70.0,2.0,,,Q7,can ho chung cu
+1.75,80.0,,,,Q9,dat
+7.99,100.0,,,5.0,Q7,dat
+3.65,96.0,,,4.0,Q12,dat
+2.75,123.4,,,5.0,__missing__,dat
+38.5,1100.0,,,20.0,Hoc_Mon,dat
+4.05,85.0,3.0,,,Q8,can ho chung cu
+0.75,250.0,,,5.0,__missing__,dat
+75.0,92.0,3.0,,,Q4,can ho chung cu
+3.4,59.0,,,4.0,Q9,dat
+13.9,62.0,6.0,4.0,3.7,Binh_Thanh,nha rieng
+3.25,203.0,,,5.0,Q1,dat
+115.0,96.0,,,,__missing__,dat
+25.37,99.5,,,7.0,TP_Thu_Duc,dat
+21.5,190.0,,5.0,12.0,Tan_Phu,nha rieng
+4.0,68.0,2.0,,,Q7,can ho chung cu
+11.0,160.0,3.0,,,Binh_Thanh,can ho chung cu
+8.5,64.0,,2.0,4.0,Binh_Thanh,nha rieng
+22.0,278.0,,,14.0,TP_Thu_Duc,dat
+16.0,,,,15.5,Q9,dat
+4.25,80.0,3.0,,,Tan_Phu,can ho chung cu
+23.0,300.0,,,10.0,Can_Gio,dat
+14.7,300.0,,,10.0,__missing__,dat
+47.0,4149.0,,,,Hoc_Mon,"kho, nha xuong"
+6.0,2175.9,,,,Can_Gio,dat
+4.0,1034.0,,,10.0,Cu_Chi,dat
+14.5,,,,22.0,Hoc_Mon,dat
+300.0,,,,52.0,Binh_Tan,dat
+4.8,86.0,2.0,6.0,,Q6,can ho chung cu
+17.5,1000.0,,,,__missing__,dat
+5.9,101.4,,,5.0,__missing__,dat
+2.7,4766.8,,,100.0,__missing__,dat
+6.9,80.0,,,,Q5,can ho chung cu
+56.5,437.0,,,12.0,Tan_Binh,dat
+6.13,1750.0,,,38.0,__missing__,dat
+3.79,100.0,,4.0,5.0,Q9,dat
+2.5,60.1,,,4.0,Binh_Tan,nha rieng
+7.59,200.0,3.0,2.0,5.0,__missing__,nha rieng
+7.5,3567.0,,,67.0,Cu_Chi,dat
+49.0,1200.0,,,40.0,Hoc_Mon,dat
+290.0,,,,100.0,__missing__,dat
+2.18,57.4,2.0,,7.0,__missing__,nha rieng
+1.2,85.0,,,5.0,Cu_Chi,dat
+4.7,70.0,2.0,,,Q9,nha tro
+0.5,250.0,,,5.0,__missing__,dat
+5.2,100.0,,,5.0,Hoc_Mon,dat
+50.0,299.0,,,8.5,Binh_Thanh,dat
+3.2,210.0,,,10.0,Cu_Chi,dat
+0.75,140.0,,,7.0,Cu_Chi,dat
+10.0,3291.0,,,33.0,__missing__,dat
+3.85,70.0,,,,__missing__,dat
+3.0,150.0,,,7.5,__missing__,dat
+27.0,70.0,2.0,,,Q7,can ho chung cu
+5.3,160.0,,,8.0,Binh_Chanh,dat
+4.5,1000.0,,,15.0,Binh_Chanh,dat
+20.0,,,,8.0,__missing__,dat
+4.5,100.0,,,5.0,Hoc_Mon,dat
+4.5,110.0,,,5.5,Q12,dat
+7.4,140.0,,,7.0,Nha_Be,dat
+4.38,73.0,2.0,,,Q9,can ho chung cu
+4.3,601.0,,,10.0,Cu_Chi,dat
+2.1,60.0,,,,Binh_Tan,can ho chung cu
+575.0,99.0,3.0,,,Q4,can ho chung cu
+11.8,183.0,2.0,1.0,6.0,TP_Thu_Duc,nha rieng
+12.0,482.1,,3.0,12.0,Nha_Be,nha rieng
+16.0,230.0,,,11.5,TP_Thu_Duc,dat
+7.2,707.0,,,50.0,Q12,dat
+127.0,160.0,3.0,2.0,,Tan_Phu,can ho chung cu
+2.5,68.0,2.0,,,Q12,can ho chung cu
+2.7,1403.3,,,,__missing__,dat
+24.0,973.0,,,17.5,Hoc_Mon,dat
+4.5,106.0,,,4.2,Binh_Tan,dat
+2.3,670.0,,,15.0,__missing__,dat
+1.2,272.2,,,6.0,__missing__,dat
+3.45,108.0,,,,__missing__,dat
+13.5,57.3,,,4.0,Tan_Binh,nha rieng
+7.5,81.0,,4.0,,Tan_Phu,can ho chung cu
+6.0,184.7,,,4.0,Hoc_Mon,dat
+7.9,152.0,4.0,,,Tan_Phu,can ho chung cu
+15.0,100.0,,,5.0,__missing__,nha rieng
+6.1,99.0,,,5.5,Q12,dat
+1.7,155.1,,,,__missing__,dat
+10.5,76.0,8.0,4.0,4.0,Tan_Phu,nha rieng
+216.0,4323.0,,,32.0,Q12,dat
+1.65,91.3,,,5.0,__missing__,dat
+2.9,75.0,3.0,,7.0,Q7,can ho chung cu
+138.0,270.0,3.0,,,Q7,can ho chung cu
+6.7,100.0,2.0,2.0,4.0,TP_Thu_Duc,nha rieng
+22.0,874.0,,,8.0,Q9,dat
+3.3,508.3,,,,__missing__,dat
+16.0,157.0,3.0,,,Q7,can ho chung cu
+8.0,,,,,__missing__,dat
+1.5,156.0,,,6.0,__missing__,dat
+7.4,124.0,,1.0,,Q4,can ho chung cu
+1.7,90.0,,,7.0,__missing__,dat
+28.0,350.0,,,7.0,Q11,"kho, nha xuong"
+6.2,1000.0,,,42.0,Can_Gio,dat
+2.0,109.0,,,5.4,__missing__,dat
+0.65,597.7,,,,__missing__,dat
+6.5,116.0,,,5.3,TP_Thu_Duc,dat
+7.99,160.0,,,5.8,Q12,dat
+13.8,105.0,19.0,5.0,4.5,Go_Vap,can ho chung cu
+11.0,126.0,,1.0,,Hoc_Mon,dat
+11.9,108.0,4.0,4.0,5.4,Tan_Phu,nha rieng
+11.0,103.0,,,5.0,Cu_Chi,dat
+25.5,372.0,3.0,2.0,16.0,Q12,"kho, nha xuong"
+37.0,161.0,3.0,,,Q7,can ho chung cu
+13.5,500.0,,,10.0,Hoc_Mon,"kho, nha xuong"
+2.0,85.0,,,4.5,Binh_Chanh,can ho chung cu
+33.6,240.0,,3.0,12.0,TP_Thu_Duc,dat
+1.9,1017.7,,,,__missing__,dat
+4.55,30.0,3.0,3.0,4.1,Q7,nha rieng
+0.52,250.0,,,10.0,Tan_Phu,dat
+8.9,41.2,,,,Go_Vap,nha rieng
+7.25,2082.1,,,,Tan_Binh,dat
+0.5,250.0,,,5.0,__missing__,dat
+3.75,53.0,,,4.0,Q9,nha rieng
+8.8,44.0,,4.0,4.4,Q11,can ho chung cu
+42.0,1765.0,,,20.0,Hoc_Mon,dat
+939.0,121.0,3.0,,,Q7,can ho chung cu
+628.0,80.0,2.0,,80.0,Q4,can ho chung cu
+3.6,61.0,2.0,,,Binh_Tan,can ho chung cu
+12.0,115.0,,,8.0,Binh_Thanh,dat
+13.0,300.0,20.0,1.0,19.0,TP_Thu_Duc,nha rieng
+6.8,184.9,4.0,3.0,4.8,__missing__,nha rieng
+5.0,132.0,,1.0,6.0,Q12,dat
+2.3,63.0,,3.0,,Q9,dat
+6.0,118.0,3.0,,6.0,Q7,can ho chung cu
+5.9,55.0,,,6.0,TP_Thu_Duc,dat
+3.25,55.0,1.0,,,Q9,can ho chung cu
+1.15,96.0,,,5.0,__missing__,dat
+25.0,59.0,2.0,7.0,,Q9,can ho chung cu
+1.45,100.2,,,,__missing__,dat
+5.2,3698.0,,,28.0,__missing__,dat
+28.0,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+3.6,110.0,,,6.0,Q7,dat
+5.85,51.0,,2.0,3.5,Q10,nha rieng
+10.1,,3.0,5.0,,Q7,nha tro
+42.5,3536.0,,,35.0,Q9,dat
+3.0,115.0,,,5.0,Binh_Chanh,dat
+105.0,140.0,,7.0,5.5,Q1,nha rieng
+1.9,100.0,,,5.0,Nha_Be,dat
+6.89,45.0,3.0,4.0,5.0,Go_Vap,nha rieng
+4.1,72.0,,,4.0,Q12,dat
+0.55,118.0,,,12.0,Cu_Chi,dat
+8.4,196.0,,,8.0,Hoc_Mon,dat
+4.3,85.0,,,7.5,Q9,dat
+3.8,60.0,2.0,,,Tan_Binh,can ho chung cu
+5.5,100.0,,,4.5,Binh_Tan,dat
+4.35,100.0,,,5.0,Binh_Chanh,dat
+1.95,89.6,,,,__missing__,dat
+6.0,140.0,3.0,,,Tan_Binh,can ho chung cu
+9.5,106.0,3.0,1.0,,Q7,can ho chung cu
+7.2,80.0,,5.0,4.0,Binh_Tan,dat
+8.0,119.0,,,7.0,Q8,dat
+16.95,376.0,,,10.0,Nha_Be,dat
+110.0,542.0,5.0,2.0,10.0,Q7,nha rieng
+7.5,500.0,,,20.0,Cu_Chi,dat
+182.0,,,,60.0,Q9,dat
+14.5,970.0,,,16.0,Hoc_Mon,"kho, nha xuong"
+7.9,1317.0,,,18.0,Cu_Chi,dat
+355.0,75.0,2.0,,,Binh_Tan,can ho chung cu
+9.9,169.0,,,7.7,Q12,dat
+1.2,64.0,3.0,2.0,4.0,Binh_Chanh,nha rieng
+28.0,75.0,,2.0,4.0,Q1,nha rieng
+2.78,60.0,,4.0,4.0,Q9,dat
+15.9,4561.5,,,65.0,__missing__,dat
+3.6,120.0,,,5.0,Nha_Be,dat
+6.5,99.0,2.0,,,Q7,can ho chung cu
+2.0,21.0,2.0,2.0,3.0,__missing__,nha rieng
+47.0,200.0,,6.0,10.0,Q7,nha rieng
+1.85,117.0,,,5.0,__missing__,dat
+3.0,150.0,,,5.0,__missing__,dat
+4.47,76.0,,,5.0,Binh_Tan,dat
+185.0,208.0,,,5.2,Go_Vap,dat
+20.5,,,,28.0,Can_Gio,dat
+3.2,59.0,2.0,,,Q9,can ho chung cu
+21.0,600.0,,,24.0,Nha_Be,"kho, nha xuong"
+2.2,38.0,,,,Binh_Thanh,nha tro
+1.5,1073.2,,,,__missing__,dat
+16.5,200.0,,,10.0,Q7,dat
+5.07,80.4,,,6.7,Nha_Be,dat
+26.0,144.0,6.0,3.0,9.0,Q8,nha rieng
+168.0,65.0,2.0,,,Binh_Chanh,can ho chung cu
+608.0,88.0,2.0,,,Phu_Nhuan,can ho chung cu
+3.95,87.0,3.0,2.0,4.6,__missing__,nha rieng
+739.0,90.0,3.0,2.0,,Q4,can ho chung cu
+25.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+3.8,313.5,,,,__missing__,dat
+7.5,90.0,,,4.0,TP_Thu_Duc,dat
+17.0,31.0,,,,Q9,can ho chung cu
+10.0,245.9,,,,Tan_Binh,dat
+3.75,70.0,2.0,,,Tan_Phu,can ho chung cu
+1.85,100.6,,,5.26,__missing__,dat
+3.65,85.0,,,5.0,Hoc_Mon,dat
+21.0,277.6,,50.0,8.4,__missing__,dat
+23.0,750.0,,,12.0,Hoc_Mon,dat
+180.0,1300.0,,12.0,35.0,TP_Thu_Duc,dat
+45.0,121.0,3.0,,,Q1,can ho chung cu
+3.4,148.6,,,11.0,__missing__,dat
+3.4,200.0,,,8.0,__missing__,dat
+3.5,161.0,2.0,,8.0,__missing__,nha rieng
+34.0,5000.0,,,50.0,Cu_Chi,dat
+892.0,121.0,3.0,81.0,3.0,Q7,can ho chung cu
+6.0,130.0,,,7.0,Q12,dat
+15.3,240.0,4.0,,,Q7,can ho chung cu
+7.5,271.4,2.0,1.0,10.6,Cu_Chi,nha rieng
+3.25,126.0,,,5.05,Binh_Chanh,dat
+4.4,80.0,,,5.0,Q7,dat
+2.7,98.0,2.0,,,Binh_Thanh,can ho chung cu
+4.45,150.0,,,5.0,Hoc_Mon,dat
+13.5,,,,77.0,__missing__,dat
+9.0,160.0,,,8.0,TP_Thu_Duc,dat
+44.0,107.0,2.0,,,Nha_Be,can ho chung cu
+0.73,200.0,,,,__missing__,dat
+3.0,92.0,,,4.0,Hoc_Mon,dat
+12.5,4380.0,,,49.0,Cu_Chi,dat
+2.7,160.0,,,8.0,__missing__,dat
+0.95,574.2,,,,__missing__,dat
+20.0,248.0,,,12.4,Q9,dat
+26.0,64.0,2.0,,,Q12,can ho chung cu
+7.5,100.0,3.0,,,Q9,can ho chung cu
+4.35,74.0,2.0,,,Q9,can ho chung cu
+2.0,280.0,,,,Binh_Chanh,"kho, nha xuong"
+132.0,189.0,4.0,,,Q7,can ho chung cu
+12.0,700.0,,1.0,8.0,Hoc_Mon,"kho, nha xuong"
+11.0,280.0,,2.0,14.0,Binh_Tan,"kho, nha xuong"
+3.9,71.0,,,,Q7,"kho, nha xuong"
+10.5,1272.0,,,20.0,__missing__,dat
+17.0,56.0,,2.0,4.0,Q1,nha rieng
+4.99,122.0,,,4.6,Hoc_Mon,dat
+0.565,135.0,,,5.0,__missing__,dat
+28.0,145.0,4.0,,,Q1,can ho chung cu
+7.0,100.0,3.0,,,Q7,can ho chung cu
+2.6,194.2,,,6.7,__missing__,dat
+58.0,626.0,,,10.0,Cu_Chi,dat
+1.75,244.0,2.0,,5.5,Cu_Chi,nha rieng
+19.0,299.9,5.0,1.0,15.0,__missing__,nha rieng
+3.2,322.0,,,11.0,__missing__,dat
+25.5,448.0,,,16.0,TP_Thu_Duc,dat
+4.99,341.0,,,7.3,Tan_Phu,dat
+3.9,71.0,,,6.0,TP_Thu_Duc,nha rieng
+8.5,126.0,3.0,,,Q5,can ho chung cu
+8.3,110.0,3.0,,,Q10,can ho chung cu
+64.0,160.0,,6.0,,TP_Thu_Duc,dat
+1.89,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+5.6,50.0,3.0,3.0,4.0,Tan_Phu,nha rieng
+19.0,2724.0,,,30.0,Binh_Chanh,dat
+1.62,122.0,,,6.0,__missing__,dat
+18.0,120.0,,7.0,6.0,Go_Vap,can ho chung cu
+1.9,133.3,,,,__missing__,dat
+8.3,188.9,,,7.0,__missing__,dat
+46.5,1300.0,,,37.0,Binh_Chanh,dat
+23.0,208.0,,,,TP_Thu_Duc,dat
+17.3,300.0,,,10.0,Q12,dat
+1.35,170.0,,,5.0,__missing__,dat
+15.0,262.0,,,7.0,Q9,dat
+5.2,55.0,,,4.0,Q11,nha rieng
+355.0,281.0,,,18.0,Binh_Thanh,dat
+20.0,240.0,,3.0,11.0,Binh_Chanh,nha rieng
+11.0,500.0,3.0,1.0,10.8,Q12,nha rieng
+20.0,,,,20.0,Can_Gio,dat
+4.6,100.0,,3.0,5.54,TP_Thu_Duc,dat
+2.1,30.0,1.0,,,Nha_Be,can ho chung cu
+16.5,865.4,,,,__missing__,dat
+9.5,367.2,,,6.8,Binh_Chanh,nha rieng
+6.2,41.0,6.0,4.0,2.8,Phu_Nhuan,nha rieng
+3.65,67.0,,,,Q7,can ho chung cu
+48.0,288.0,7.0,2.0,4.3,Tan_Binh,nha rieng
+15.4,355.0,,,,__missing__,dat
+14.0,170.0,,,8.0,TP_Thu_Duc,dat
+6.2,155.0,5.0,2.0,5.5,Q12,nha rieng
+3.62,78.0,3.0,,,Tan_Phu,can ho chung cu
+26.0,270.0,,,5.2,Q12,dat
+0.85,229.2,,,,__missing__,dat
+3.2,706.8,,,24.0,__missing__,dat
+22.5,161.6,,,,__missing__,dat
+3.7,1899.0,,,20.0,__missing__,dat
+9.6,96.0,,,,Tan_Phu,can ho chung cu
+130.0,,,,,__missing__,dat
+6.7,116.2,,,9.0,__missing__,dat
+1.62,122.0,,,6.0,__missing__,dat
+40.0,140.0,,5.0,7.0,Binh_Thanh,nha rieng
+3.2,1217.0,,,22.0,Cu_Chi,dat
+2.85,68.0,,,4.0,Q12,dat
+3.4,49.0,1.0,,,Binh_Thanh,can ho chung cu
+105.0,5000.0,,2.0,,Q12,"kho, nha xuong"
+10.5,110.0,,6.0,5.0,Q9,dat
+3.2,978.0,,,22.0,__missing__,dat
+20.0,200.0,,,11.0,TP_Thu_Duc,dat
+13.0,70.0,,6.0,4.0,Q7,dat
+25.0,4250.0,,,32.0,Cu_Chi,"kho, nha xuong"
+62.0,100.0,,,4.0,Q6,dat
+11.6,1270.0,,,,__missing__,dat
+8.2,80.0,,,,Q7,nha tro
+4.6,71.5,,,,__missing__,dat
+4.6,248.0,,,5.0,Nha_Be,dat
+7.2,60.0,5.0,3.0,4.0,Binh_Tan,nha rieng
+1.35,200.0,,,5.0,__missing__,dat
+1.7,274.0,3.0,1.0,7.5,__missing__,nha rieng
+7.3,58.5,4.0,4.0,4.0,Binh_Tan,nha rieng
+9.5,380.0,,,9.8,Nha_Be,dat
+5.3,68.0,4.0,2.0,4.0,Binh_Tan,nha rieng
+25.0,,,,75.0,__missing__,dat
+5.8,80.0,,,6.3,Go_Vap,dat
+33.0,69.0,2.0,,,Tan_Phu,can ho chung cu
+0.55,1088.6,,,,__missing__,dat
+4.69,72.0,,,4.8,Binh_Tan,dat
+4.5,677.1,,,20.0,__missing__,dat
+10.4,1991.0,,,20.0,Cu_Chi,dat
+9.5,150.0,,3.0,5.0,Go_Vap,dat
+1.78,68.0,2.0,,,Binh_Thanh,can ho chung cu
+15.0,61.0,,2.0,4.0,Q1,nha rieng
+9.2,90.0,2.0,,,Binh_Thanh,can ho chung cu
+59.0,289.0,,2.0,15.0,Q2,dat
+9.8,125.1,,,7.0,TP_Thu_Duc,dat
+3.6,150.0,,,7.0,__missing__,dat
+6.54,109.0,,,6.0,TP_Thu_Duc,dat
+4.5,150.8,,3.0,,__missing__,nha rieng
+2.28,87.4,3.0,1.0,4.0,__missing__,nha rieng
+0.6,87.0,,,,__missing__,dat
+12.0,1212.0,,1.0,,Cu_Chi,dat
+3.25,114.0,,,,Q12,dat
+3.5,80.0,,,5.0,Hoc_Mon,dat
+15.0,75.0,,4.0,4.1,Binh_Thanh,nha rieng
+61.0,103.0,3.0,,,Q7,can ho chung cu
+32.0,500.0,,3.0,9.8,Binh_Tan,nha rieng
+179.0,90.0,2.0,,,Q7,can ho chung cu
+2.35,134.0,,,5.0,Tan_Phu,dat
+6.5,137.0,,,6.0,Q12,"kho, nha xuong"
+50.0,380.0,,,15.5,Binh_Tan,nha rieng
+2.1,962.2,,,8.11,__missing__,dat
+32.0,70.0,2.0,3.0,,Q9,can ho chung cu
+3.95,206.2,,,,Tan_Binh,dat
+21.0,2950.0,,,30.0,Hoc_Mon,dat
+3.7,86.0,,,5.0,Hoc_Mon,dat
+8.0,97.0,3.0,,,Q7,can ho chung cu
+29.0,165.0,,,8.0,Go_Vap,nha rieng
+4.25,1557.0,,,15.0,__missing__,dat
+0.529,209.0,,,5.0,__missing__,dat
+4.65,90.0,,,6.0,Q12,dat
+63.0,2330.0,,,,__missing__,dat
+3.88,36.0,2.0,2.0,6.0,Nha_Be,nha rieng
+12.0,114.0,3.0,,,Phu_Nhuan,can ho chung cu
+5.15,55.0,2.0,2.0,4.9,Tan_Phu,nha rieng
+22.0,1669.0,,,13.0,Cu_Chi,dat
+3.1,268.0,,,19.0,__missing__,dat
+2.1,65.3,,,4.0,Binh_Chanh,dat
+4.8,80.0,,5.0,5.0,Q8,dat
+4.25,110.0,,,4.66,Hoc_Mon,dat
+9.4,68.0,,3.0,4.5,Binh_Thanh,nha rieng
+2.1,105.0,,,5.0,__missing__,dat
+18.0,,,,,__missing__,dat
+41.0,84.0,2.0,24.0,,Q6,can ho chung cu
+6.1,87.0,,,7.0,Nha_Be,dat
+18.5,773.6,,,,__missing__,dat
+2.75,100.0,2.0,1.0,,__missing__,nha rieng
+4.4,75.0,2.0,,,Q7,can ho chung cu
+115.0,1715.0,,,24.0,Hoc_Mon,dat
+9.75,600.0,,,12.34,Binh_Chanh,dat
+12.0,121.0,3.0,,,Q7,can ho chung cu
+2.45,150.0,,,,__missing__,dat
+1.27,135.0,,,5.0,__missing__,dat
+3.79,28.0,5.0,4.0,3.5,Binh_Tan,nha rieng
+18.7,1537.0,,,,Q9,dat
+10.8,252.0,,4.0,6.0,Hoc_Mon,dat
+13.2,100.0,,,5.0,Q9,dat
+3.2,70.0,,,4.0,Q9,dat
+31.0,73.0,2.0,,,Q9,can ho chung cu
+2.4,125.0,,,5.0,Cu_Chi,dat
+39.0,80.0,,,,Binh_Thanh,can ho chung cu
+315.0,85.0,2.0,,,Tan_Phu,can ho chung cu
+13.0,159.0,,,5.0,Q9,dat
+3.5,105.0,,,5.0,Nha_Be,dat
+4.9,95.3,,,5.5,Nha_Be,dat
+3.3,65.0,2.0,4.0,,Tan_Binh,can ho chung cu
+15.0,3115.1,,,,__missing__,dat
+6.9,100.0,,,5.0,Q2,dat
+12.5,117.0,2.0,,,Binh_Thanh,can ho chung cu
+7.35,78.0,2.0,,,Q7,can ho chung cu
+2.28,65.0,2.0,,,Binh_Thanh,can ho chung cu
+415.0,99.0,3.0,,,Q9,can ho chung cu
+16.0,,,,70.0,Hoc_Mon,dat
+4.75,160.0,4.0,2.0,5.0,__missing__,nha rieng
+140.0,1578.0,,,11.0,Q7,dat
+15.5,203.0,,,10.0,TP_Thu_Duc,dat
+6.2,1087.0,,,5.0,Nha_Be,dat
+2.9,66.0,2.0,,,Binh_Tan,can ho chung cu
+1.45,117.0,,,7.0,Cu_Chi,dat
+240.0,400.0,,,13.5,Q1,dat
+33.0,80.0,,,4.0,Hoc_Mon,dat
+7.4,100.0,,,5.0,Binh_Chanh,dat
+5.15,66.6,,6.0,5.0,__missing__,dat
+8.5,125.0,4.0,2.0,4.0,__missing__,nha rieng
+269.0,35.0,1.0,3.0,,Q9,can ho chung cu
+8.0,59.0,4.0,4.0,5.5,TP_Thu_Duc,nha rieng
+13.2,176.0,,,8.0,Q9,dat
+495.0,71.0,2.0,,,Q7,can ho chung cu
+13.4,1000.0,,,35.0,Binh_Chanh,"kho, nha xuong"
+1.55,62.0,,,4.0,__missing__,dat
+0.92,253.0,,,5.1,Cu_Chi,dat
+9.5,70.0,,4.0,5.0,Tan_Phu,nha rieng
+1.1,140.0,,,11.0,__missing__,dat
+9.2,635.1,,,15.0,__missing__,dat
+2.2,82.5,,,6.0,__missing__,dat
+315.0,73.0,2.0,,,Q9,can ho chung cu
+7.75,54.0,5.0,4.0,8.7,__missing__,nha rieng
+5.5,96.6,,,,__missing__,dat
+195.0,,,,55.0,Cu_Chi,dat
+1.65,100.0,,,5.0,__missing__,dat
+8.99,71.0,,,5.0,Q10,dat
+2.2,465.1,,,,__missing__,dat
+9.4,610.8,,,10.0,__missing__,dat
+8.0,512.9,,,,__missing__,dat
+4.8,90.0,,,,Q7,can ho chung cu
+64.8,144.0,,,8.0,TP_Thu_Duc,dat
+11.5,128.0,,,8.0,Binh_Tan,dat
+4.5,52.0,2.0,,,Q7,can ho chung cu
+49.0,50.0,,,5.0,TP_Thu_Duc,dat
+2.0,388.0,,,9.6,Cu_Chi,dat
+2.9,45.0,,,,Binh_Chanh,can ho chung cu
+6.75,105.0,3.0,,,Q7,can ho chung cu
+4.9,55.0,,,5.0,TP_Thu_Duc,dat
+3.35,31.0,2.0,2.0,3.55,TP_Thu_Duc,nha rieng
+87.0,84.0,,,4.6,Q12,dat
+4.35,72.0,2.0,,,Q9,can ho chung cu
+2.1,68.0,2.0,,,Binh_Thanh,nha tro
+2.65,80.5,2.0,,5.0,__missing__,nha rieng
+3.5,1000.0,,,21.0,Binh_Chanh,dat
+3.0,66.0,2.0,,,Tan_Binh,can ho chung cu
+1.59,86.0,2.0,,,Tan_Phu,khach san
+23.0,51.0,2.0,,,Q6,can ho chung cu
+405.0,68.0,,,4.0,Q12,dat
+6.5,134.0,,,7.3,Hoc_Mon,dat
+3.59,53.0,1.0,,,Q9,can ho chung cu
+518.5,85.0,,,6.5,Q9,dat
+1.89,65.0,2.0,,,Q8,can ho chung cu
+23.0,50.0,1.0,,,Q9,can ho chung cu
+7.4,130.0,6.0,1.0,10.0,TP_Thu_Duc,nha rieng
+9.45,135.0,3.0,,,Tan_Phu,can ho chung cu
+7.5,76.4,3.0,1.0,4.2,Q5,nha rieng
+10.8,120.0,,3.0,8.0,TP_Thu_Duc,nha rieng
+3.8,150.0,,,5.0,__missing__,dat
+3.5,300.0,,,10.0,__missing__,dat
+5.0,118.0,,,5.0,Binh_Tan,dat
+12.0,75.0,,,5.0,TP_Thu_Duc,dat
+14.5,323.0,,,,__missing__,dat
+15.2,980.2,,,12.66,Binh_Chanh,dat
+1.79,85.0,2.0,,,Q4,can ho chung cu
+3.95,85.0,3.0,,,Q8,can ho chung cu
+2.55,36.0,,,,Q7,can ho chung cu
+6.7,90.0,,,5.0,Nha_Be,dat
+19.8,1026.9,,,10.0,__missing__,dat
+2.29,78.0,2.0,,5.0,__missing__,nha rieng
+3.35,602.0,,,41.0,__missing__,dat
+9.5,342.4,,,8.0,__missing__,dat
+17.5,80.0,21.0,6.0,4.0,Binh_Thanh,nha rieng
+7.8,42.0,,4.0,3.8,Binh_Thanh,dat
+1.7,250.0,,,11.0,__missing__,dat
+10.5,90.3,,,5.0,__missing__,dat
+7.9,90.0,4.0,2.0,6.0,Go_Vap,nha rieng
+12.0,534.0,,,20.0,__missing__,dat
+7.9,89.0,,,4.0,Q9,dat
+1.52,80.0,,,5.0,Binh_Chanh,dat
+276.0,56.0,,,,Q9,can ho chung cu
+4.15,78.0,2.0,,7.0,Q1,can ho chung cu
+13.5,106.0,5.0,4.0,5.0,Q8,nha rieng
+1.75,154.0,,,9.0,Cu_Chi,dat
+72.0,84.0,2.0,,,Q7,can ho chung cu
+385.0,82.0,3.0,,,Q9,can ho chung cu
+3.62,67.0,2.0,,,Q7,can ho chung cu
+2.3,72.0,2.0,,,Q9,can ho chung cu
+56.0,50.0,,,5.02,TP_Thu_Duc,dat
+2.5,1187.0,,,20.0,__missing__,dat
+74.0,180.0,,3.0,9.0,Q10,nha rieng
+118.0,160.0,3.0,,3.0,Tan_Phu,can ho chung cu
+0.395,153.5,,,,__missing__,dat
+11.0,200.0,,,10.0,Binh_Tan,dat
+25.0,1913.1,,,43.0,__missing__,dat
+11.2,100.0,,,5.0,Binh_Thanh,dat
+2.3,65.0,1.0,25.0,,TP_Thu_Duc,can ho chung cu
+12.5,85.0,5.0,3.0,4.5,Binh_Tan,nha rieng
+2.0,110.0,,,5.0,Cu_Chi,dat
+8.2,86.0,,,4.0,TP_Thu_Duc,dat
+145.0,,,,60.0,Hoc_Mon,dat
+27.5,100.0,,6.0,5.0,Q7,nha rieng
+27.0,420.8,,,15.2,__missing__,dat
+1.55,1715.0,,,,__missing__,dat
+10.0,90.1,4.0,1.5,5.0,__missing__,nha rieng
+19.46,556.0,,,10.0,Q9,dat
+3.5,60.0,2.0,,,Binh_Chanh,can ho chung cu
+5.0,72.0,,,4.5,Q12,dat
+1.95,584.4,,,15.0,__missing__,dat
+0.11111,456.0,,,20.0,TP_Thu_Duc,dat
+6.5,35.0,4.0,3.0,3.6,Q10,nha rieng
+10.8,112.0,3.0,,,Q7,can ho chung cu
+0.85,339.0,,,6.0,__missing__,nha rieng
+7.7,142.0,2.0,1.0,6.0,Q12,nha rieng
+22.5,191.0,4.0,2.0,7.5,TP_Thu_Duc,nha rieng
+15.5,3545.1,,,10.0,__missing__,dat
+3.9,226.0,,,,__missing__,dat
+9.0,90.0,,,6.0,Q9,dat
+7.85,117.0,,6.0,5.0,Q9,dat
+18.5,717.0,,,18.0,Q12,dat
+4.2,80.0,,,6.3,Q7,dat
+5.9,422.0,,8.0,9.0,__missing__,dat
+2.95,80.0,,,5.0,TP_Thu_Duc,dat
+8.0,2107.4,,,80.0,Binh_Chanh,dat
+7.4,135.0,3.0,,7.0,Q7,can ho chung cu
+3.8,84.0,,,5.0,Q12,dat
+3.98,815.0,3.0,,,Q9,can ho chung cu
+15.0,57.0,2.0,,,Q8,can ho chung cu
+2.5,128.4,,,,__missing__,dat
+24.0,80.0,3.0,20.0,,Binh_Chanh,can ho chung cu
+14.5,223.0,,,10.0,TP_Thu_Duc,dat
+25.0,859.0,,,,__missing__,dat
+9.7,85.0,1.0,,,Q4,can ho chung cu
+105.0,105.0,,,5.0,Q9,dat
+17.5,900.0,,,15.0,Cu_Chi,dat
+3.89,68.0,2.0,,,Binh_Tan,can ho chung cu
+16.0,700.0,,,15.0,Q12,dat
+8.15,126.0,2.0,1.0,6.7,Q9,nha rieng
+16.33,4665.0,,,,Nha_Be,dat
+89.9,,,,45.0,__missing__,dat
+3.7,258.4,,,6.0,__missing__,dat
+5.7,81.0,2.0,,5.0,Q7,can ho chung cu
+1.9,1009.4,,,,__missing__,dat
+58.0,182.0,,,11.0,Q2,dat
+180.0,1100.0,,,,Q7,dat
+4.5,300.0,,,7.0,Cu_Chi,dat
+7.0,45.0,,4.0,3.0,Q6,nha rieng
+1.55,105.0,,,5.0,__missing__,dat
+22.0,38.0,,,,Q7,can ho chung cu
+0.72,1003.0,,,10.0,__missing__,dat
+152.0,225.0,,,12.0,Q7,dat
+12.5,76.0,,,4.0,Q7,dat
+4.7,91.0,,3.0,5.0,__missing__,dat
+1.73,86.0,2.0,,,Q6,can ho chung cu
+5.95,113.0,,,7.0,Q9,dat
+4.5,100.0,,3.0,5.0,Nha_Be,dat
+7.5,106.0,,,5.6,TP_Thu_Duc,dat
+9.0,225.9,,,,__missing__,dat
+1.68,90.7,,,7.0,__missing__,dat
+2.4,535.0,,,9.0,__missing__,dat
+22.0,196.0,20.0,5.0,7.4,TP_Thu_Duc,nha rieng
+6.3,70.0,6.0,2.0,3.0,Phu_Nhuan,nha tro
+2.6,139.3,,,5.0,__missing__,dat
+416.0,78.0,2.0,,,Binh_Tan,can ho chung cu
+25.0,177.0,,,,Binh_Thanh,can ho chung cu
+45.0,,,,43.0,__missing__,dat
+1.75,94.6,3.0,,5.0,__missing__,nha rieng
+0.875,175.0,,,5.0,Cu_Chi,dat
+7.25,71.0,2.0,,,Phu_Nhuan,nha tro
+4.55,89.0,,,5.0,Q12,dat
+26.0,1000.0,,,6.5,Q9,dat
+75.0,71.0,2.0,,,Q4,can ho chung cu
+6.5,150.0,4.0,2.0,,TP_Thu_Duc,can ho chung cu
+3.5,64.0,,,4.0,Hoc_Mon,dat
+3.1,67.9,,,,__missing__,dat
+19.0,170.0,4.0,,,Q7,can ho chung cu
+34.9,,,,,__missing__,dat
+410.8,205.4,,,11.0,TP_Thu_Duc,dat
+120.0,1400.0,,12.0,28.0,Go_Vap,dat
+2.8,150.0,,,5.0,__missing__,dat
+23.0,1000.0,,,12.0,Binh_Chanh,"kho, nha xuong"
+4.8,82.0,2.0,1.0,8.5,TP_Thu_Duc,nha rieng
+2.5,71.0,2.0,11.0,,Go_Vap,can ho chung cu
+0.75,148.0,,,9.0,__missing__,dat
+4.0,181.0,,,6.0,__missing__,dat
+3.5,105.7,3.0,,4.85,__missing__,nha rieng
+8.5,477.0,,,10.0,Binh_Chanh,dat
+31.0,1600.0,,,15.0,Cu_Chi,dat
+6.7,88.0,2.0,2.0,4.1,Tan_Phu,nha rieng
+1.68,62.0,2.0,,,Binh_Thanh,can ho chung cu
+14.5,100.0,,4.0,5.0,__missing__,nha rieng
+325.0,69.0,2.0,,,Q9,can ho chung cu
+19.0,3645.9,,,,__missing__,dat
+1.43,150.0,,,5.0,__missing__,dat
+16.0,100.0,,,5.0,Cu_Chi,dat
+6.6,55.0,,,4.2,TP_Thu_Duc,dat
+7.5,80.0,,,9.0,TP_Thu_Duc,dat
+1.1,53.0,2.0,,,Hoc_Mon,can ho chung cu
+1.2,44.0,2.0,1.0,5.0,Cu_Chi,nha rieng
+22.0,50.0,1.0,,,Q6,can ho chung cu
+1.69,66.0,2.0,,,Binh_Thanh,can ho chung cu
+6.8,77.5,2.0,2.0,5.2,Binh_Tan,nha rieng
+6.8,127.0,3.0,,6.0,Q7,can ho chung cu
+6.0,87.0,3.0,,,Q11,can ho chung cu
+390.0,4587.0,,,45.0,TP_Thu_Duc,dat
+12.0,1100.0,,,36.0,Cu_Chi,dat
+7.4,68.0,2.0,,,Q7,can ho chung cu
+2.5,173.0,1.0,,7.4,Cu_Chi,nha rieng
+2.3,110.0,,,5.0,__missing__,dat
+1.2,764.0,,,10.0,__missing__,dat
+3.8,100.0,,,5.0,Binh_Chanh,dat
+4.85,726.0,,,15.0,__missing__,dat
+2.2,2281.6,,,,Cu_Chi,dat
+2.8,115.1,,,5.0,__missing__,dat
+27.0,100.0,,4.0,5.0,TP_Thu_Duc,dat
+1.7,245.0,,,6.0,Cu_Chi,dat
+4.95,110.5,,,4.0,Q12,dat
+2.5,60.4,,,4.0,Binh_Tan,dat
+11.99,180.0,,1.0,5.5,Q12,dat
+86.0,121.0,3.0,,,Tan_Phu,can ho chung cu
+3.6,91.8,,,7.0,Nha_Be,dat
+6.0,3763.0,,,65.0,__missing__,dat
+17.0,103.0,7.0,3.0,4.5,Q12,nha rieng
+28.0,50.0,1.0,,,Tan_Phu,can ho chung cu
+6.9,,,,73.0,__missing__,dat
+5.0,150.0,,,5.0,__missing__,nha rieng
+16.0,499.0,,,10.0,Cu_Chi,dat
+8.9,105.0,,2.0,5.0,TP_Thu_Duc,dat
+6.5,56.0,6.0,5.0,4.0,__missing__,nha rieng
+6.85,64.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+11.5,180.0,,,4.6,Binh_Thanh,dat
+1.55,63.0,,,,__missing__,dat
+5.5,90.0,2.0,,,TP_Thu_Duc,nha tro
+88.48,2528.0,,,40.0,Can_Gio,dat
+95.0,3957.0,,,40.0,TP_Thu_Duc,"kho, nha xuong"
+30.0,378.0,,6.0,,TP_Thu_Duc,dat
+18.0,135.0,,3.0,4.5,Tan_Binh,"kho, nha xuong"
+15.0,90.0,,5.0,9.0,Binh_Thanh,dat
+6.2,108.0,,,7.0,Nha_Be,dat
+65.0,210.0,8.0,7.0,6.0,Binh_Thanh,nha rieng
+35.8,118.0,3.0,,,Q1,can ho chung cu
+7.9,113.7,,,5.0,__missing__,dat
+12.5,1441.0,,,16.0,__missing__,dat
+7.9,70.0,,,4.0,Tan_Binh,dat
+3.4,175.1,,,5.0,__missing__,dat
+13.6,38.0,6.0,3.0,3.5,Q10,nha rieng
+11.0,268.0,,,6.5,Q9,dat
+52.0,112.0,,,8.0,Q9,dat
+53.0,100.0,,,5.0,Q12,dat
+1.35,109.2,,,4.0,__missing__,dat
+11.0,180.0,,,15.0,__missing__,dat
+3.25,60.0,2.0,,,Phu_Nhuan,can ho chung cu
+47.0,945.0,,,20.0,__missing__,dat
+7.6,80.0,,6.0,4.0,Q12,dat
+5.35,,2.0,,,Q6,can ho chung cu
+2.5,165.0,,,5.5,__missing__,dat
+2.6,36.0,2.0,2.0,4.0,Q12,nha rieng
+42.0,344.0,,7.0,8.0,Tan_Binh,khach san
+16.5,180.0,1.0,1.0,8.0,TP_Thu_Duc,nha rieng
+9.0,128.0,,,,Q12,dat
+3.7,107.0,,,5.0,Nha_Be,dat
+2.87,70.0,2.0,,7.0,Q7,can ho chung cu
+92.0,120.0,3.0,,,Tan_Phu,can ho chung cu
+4.69,52.0,3.0,2.0,4.0,Binh_Tan,nha rieng
+1.75,93.0,,,4.0,__missing__,dat
+385.0,70.0,2.0,,,Q9,can ho chung cu
+14.0,1556.0,,,27.0,__missing__,dat
+174.0,56.0,1.0,,,Q4,can ho chung cu
+3.0,55.0,2.0,,,Q7,can ho chung cu
+9.8,80.0,,,4.0,Q12,dat
+3.6,125.0,,,,__missing__,dat
+22.0,356.0,,,17.5,Binh_Tan,"kho, nha xuong"
+0.85,132.0,,,6.0,Cu_Chi,dat
+10.0,72.0,9.0,5.0,5.0,TP_Thu_Duc,nha rieng
+115.0,188.8,,,10.0,Hoc_Mon,dat
+19.0,432.5,,2.0,9.0,__missing__,dat
+8.0,162.0,1.0,,,Q7,can ho chung cu
+2.68,463.0,1.0,,,Q9,can ho chung cu
+2.45,47.0,1.0,,,Q9,can ho chung cu
+1.67,70.0,2.0,,,Binh_Thanh,can ho chung cu
+6.9,96.0,2.0,,,Tan_Phu,can ho chung cu
+2.95,24.0,3.0,3.0,3.5,Q4,nha rieng
+3.4,85.0,3.0,,,Binh_Chanh,can ho chung cu
+2.4,45.0,,,,Q7,can ho chung cu
+4.7,107.0,2.0,,,TP_Thu_Duc,can ho chung cu
+1.02,1096.0,,,17.0,__missing__,dat
+1.75,140.0,,,6.5,Cu_Chi,dat
+2.75,60.5,,,,__missing__,dat
+1.85,101.8,,,6.0,__missing__,dat
+5.0,86.0,2.0,,,Binh_Thanh,can ho chung cu
+2.65,150.0,,,5.0,__missing__,dat
+2.8,223.0,,,5.0,__missing__,dat
+10.5,110.0,,,5.0,Q9,dat
+2.3,150.0,,,,__missing__,dat
+16.0,1500.0,,,,TP_Thu_Duc,dat
+11.5,110.0,,,5.0,Q9,dat
+11.0,108.0,1.0,,,Binh_Thanh,can ho chung cu
+0.555,251.0,,,5.0,__missing__,dat
+2.3,73.0,2.0,,6.0,Q12,can ho chung cu
+15.5,398.0,,,14.5,Q12,dat
+4.9,100.0,2.0,1.0,4.0,__missing__,nha rieng
+1.79,79.5,,,,__missing__,dat
+1.85,4301.0,,,47.0,__missing__,dat
+10.0,866.1,,,,__missing__,dat
+9.5,56.0,1.0,37.0,40.0,Q1,can ho chung cu
+4.5,78.0,,,4.24,Q12,dat
+125.0,360.0,,7.0,10.0,Q7,khach san
+2.4,100.0,,,5.0,__missing__,dat
+5.0,55.0,,,4.0,TP_Thu_Duc,dat
+1.29,135.1,,,5.0,__missing__,dat
+9.5,65.0,5.0,3.0,3.5,Q7,nha rieng
+21.0,3520.0,,,52.0,Q9,dat
+8.5,103.0,,,6.0,TP_Thu_Duc,dat
+4.98,68.0,,,4.0,Binh_Tan,dat
+4.9,30.0,,3.0,,Q5,nha rieng
+3.5,100.0,,,5.0,Hoc_Mon,dat
+9.3,165.0,,,7.5,Q12,dat
+7.72,780.0,,,10.0,Binh_Chanh,dat
+148.0,680.0,,9.0,13.0,Binh_Thanh,dat
+8.05,60.0,,2.0,9.82,Q7,dat
+41.0,330.0,,5.0,8.0,TP_Thu_Duc,can ho chung cu
+70.0,214.5,,,7.5,TP_Thu_Duc,dat
+4.5,96.0,,,4.0,Q12,dat
+2.85,502.0,,,20.0,Q9,dat
+13.7,244.0,,,6.0,Q12,dat
+21.0,407.0,,,15.0,__missing__,dat
+35.0,,,,,Can_Gio,dat
+8.4,177.0,,2.0,9.0,Binh_Tan,"kho, nha xuong"
+62.0,157.0,,,12.0,Binh_Chanh,dat
+2.05,100.0,4.0,1.0,4.0,Q12,nha rieng
+23.0,191.0,,,10.0,Q7,dat
+6.5,76.0,,,4.1,Q7,nha rieng
+5.3,66.0,2.0,,,Q7,can ho chung cu
+24.0,460.0,,,17.0,Nha_Be,dat
+4.5,106.0,,,4.0,Q12,dat
+68.0,82.0,3.0,,,Q9,can ho chung cu
+2.95,100.0,,,,Binh_Tan,can ho chung cu
+5.45,100.0,,,4.0,Q9,dat
+48.0,124.0,3.0,,,Q7,can ho chung cu
+17.0,147.0,,,7.0,TP_Thu_Duc,dat
+16.5,2043.0,,,40.0,Can_Gio,dat
+5.9,32.0,,4.0,3.2,Q11,nha rieng
+2.05,468.0,3.0,21.0,,Binh_Tan,can ho chung cu
+13.0,814.0,,,10.0,__missing__,dat
+26.0,591.0,,,20.0,TP_Thu_Duc,dat
+5.65,76.0,2.0,,,Q1,can ho chung cu
+8.2,100.0,8.0,4.0,5.0,Binh_Tan,nha rieng
+3.7,62.0,2.0,1.0,4.6,Q12,nha rieng
+3.5,65.7,,,,__missing__,dat
+0.9,139.0,,,5.0,__missing__,dat
+2.37,62.0,,,,Q9,dat
+2.2,109.2,,,5.47,__missing__,dat
+80.0,508.5,,7.0,13.0,TP_Thu_Duc,dat
+535.0,137.0,,,5.0,Q12,dat
+45.0,210.0,,7.0,12.0,Q3,nha rieng
+5.5,199.4,,,,__missing__,dat
+7.55,1252.0,,,20.0,Tan_Phu,dat
+8.1,67.0,,,4.0,Binh_Thanh,dat
+12.5,950.0,,,25.0,__missing__,dat
+2.35,85.0,2.0,,,Phu_Nhuan,can ho chung cu
+0.8,1068.9,,,,__missing__,dat
+4.1,309.0,,,10.0,__missing__,dat
+7.77,120.0,,,6.0,Go_Vap,dat
+2.2,175.0,,,15.0,Cu_Chi,dat
+2.68,71.0,2.0,,,Binh_Thanh,can ho chung cu
+42.0,75.0,2.0,,,Q9,can ho chung cu
+16.0,247.0,3.0,2.0,6.0,Tan_Phu,nha rieng
+24.5,456.0,,,,Binh_Tan,"kho, nha xuong"
+3.7,51.0,1.0,,3.5,Q8,nha rieng
+3.5,95.0,3.0,,,Q6,can ho chung cu
+3.35,602.1,,,,__missing__,dat
+0.59,1454.4,,,6.0,__missing__,dat
+4.51,3005.0,,,,Can_Gio,dat
+19.95,,,,,__missing__,dat
+6.15,87.0,,5.0,,TP_Thu_Duc,dat
+10.0,1000.0,,,25.0,Cu_Chi,dat
+3.15,100.0,,,5.0,Hoc_Mon,dat
+7.0,,,,86.0,__missing__,dat
+3.03,60.0,2.0,,,TP_Thu_Duc,nha tro
+9.0,,,,,__missing__,dat
+59.0,72.0,3.0,,,Q7,can ho chung cu
+3.9,200.0,,,10.0,__missing__,dat
+2.5,1416.0,,,30.0,Cu_Chi,dat
+1.35,130.0,,,6.0,__missing__,dat
+8.2,97.0,3.0,,,Q7,can ho chung cu
+335.0,90.0,,5.0,6.0,Hoc_Mon,dat
+15.0,655.0,,1.0,,Q12,dat
+11.9,216.0,,,9.4,Q9,dat
+7.45,86.0,2.0,,,Tan_Phu,can ho chung cu
+8.8,143.0,,,6.3,Q12,dat
+0.69,258.8,,,5.0,__missing__,dat
+7.2,114.0,,,7.0,Q9,dat
+38.0,686.0,,,17.0,Q12,"kho, nha xuong"
+51.0,1968.0,,,22.0,Q9,dat
+9.2,56.0,4.0,4.0,4.0,Q12,nha rieng
+10.68,157.0,,,8.0,Nha_Be,dat
+75.0,923.0,,,17.0,Go_Vap,dat
+6.7,80.0,,,4.0,Hoc_Mon,dat
+75.0,240.0,,,12.0,TP_Thu_Duc,dat
+0.9,48.0,,,4.0,Q12,"kho, nha xuong"
+1.35,200.0,,,5.0,__missing__,dat
+4.6,437.0,,,8.0,Cu_Chi,dat
+8.6,218.0,,,7.5,Q12,"kho, nha xuong"
+12.0,96.0,,,4.0,Q6,dat
+8.6,86.0,,,,__missing__,dat
+0.69,273.0,,,5.0,Cu_Chi,dat
+5.1,81.0,3.0,,,Q7,can ho chung cu
+3.2,52.0,,,8.0,Q12,dat
+4.5,86.0,3.0,34.0,,Q7,can ho chung cu
+18.6,150.0,,,8.0,Tan_Phu,dat
+285.0,59.0,2.0,,,Q9,can ho chung cu
+13.2,120.0,,,,Q9,dat
+5.65,105.0,3.0,1.0,,Nha_Be,can ho chung cu
+5.99,710.2,,,,__missing__,dat
+10.9,118.0,3.0,,,Q7,can ho chung cu
+9.3,140.0,,5.0,7.0,Binh_Tan,dat
+3.7,32.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+35.0,675.0,,,15.0,Q9,dat
+0.778,,,,4.0,__missing__,nha rieng
+0.85,173.0,,,6.0,Cu_Chi,dat
+2.5,75.0,2.0,,,Nha_Be,can ho chung cu
+1.9,80.0,,,5.0,Cu_Chi,dat
+54.0,82.0,2.0,,,Q9,can ho chung cu
+6.0,96.0,3.0,6.0,,Q7,can ho chung cu
+4.4,70.0,2.0,,,Go_Vap,can ho chung cu
+11.4,300.0,,,11.9,Can_Gio,dat
+5.92,1444.0,4.0,2.0,,Q9,nha tro
+4.3,126.0,3.0,,,Nha_Be,can ho chung cu
+3.55,66.0,2.0,,,Q11,can ho chung cu
+5.2,350.0,,,6.0,Binh_Chanh,dat
+70.38,782.0,,,14.83,TP_Thu_Duc,dat
+3.95,100.0,2.0,3.0,4.0,Hoc_Mon,dat
+7.85,42.0,5.0,5.0,3.9,Q3,nha rieng
+7.9,106.0,3.0,,,Q7,can ho chung cu
+185.0,1120.0,,10.0,40.0,Q3,dat
+9.0,1744.0,,,53.0,__missing__,dat
+4.5,206.0,,,14.0,Binh_Chanh,dat
+12.0,106.0,,,5.8,TP_Thu_Duc,dat
+0.96,706.8,,,,__missing__,dat
+11.5,,,,6.0,__missing__,dat
+1.27,85.0,,,5.0,Binh_Chanh,dat
+5.65,65.0,,,5.0,Go_Vap,dat
+6.5,106.7,2.0,2.0,4.35,Binh_Tan,nha rieng
+3.65,67.0,2.0,,6.0,Q7,can ho chung cu
+145.0,99.0,2.0,,,Q8,can ho chung cu
+46.0,76.0,,,,Q7,can ho chung cu
+9.2,828.7,,,17.0,__missing__,dat
+13.0,2600.0,,,9.0,Binh_Chanh,dat
+45.0,1600.0,,,30.0,Q12,"kho, nha xuong"
+31.0,370.0,,,19.0,__missing__,dat
+4.9,60.0,3.0,3.0,3.8,Binh_Tan,nha rieng
+7.0,78.0,1.0,,10.0,Q10,can ho chung cu
+3.9,151.0,2.0,1.5,5.0,__missing__,dat
+6.7,40.0,4.0,4.0,3.0,Binh_Thanh,nha rieng
+255.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+23.5,350.0,,,7.0,__missing__,"kho, nha xuong"
+4.3,89.5,,,,__missing__,dat
+28.0,225.0,,,11.2,Q9,nha rieng
+9.42,152.0,3.0,,,Q7,can ho chung cu
+9.9,833.0,,,15.0,Tan_Phu,dat
+2.0,100.0,,,5.0,Can_Gio,dat
+18.0,190.0,6.0,3.0,9.5,Tan_Binh,can ho chung cu
+3.5,50.0,1.0,,,Go_Vap,can ho chung cu
+7.5,222.0,,,5.0,__missing__,dat
+3.1,110.0,4.0,3.0,5.0,TP_Thu_Duc,nha rieng
+11.05,392.0,,,18.0,Binh_Chanh,dat
+139.0,111.0,,,5.0,Q9,dat
+2.4,72.0,2.0,,6.0,Tan_Phu,can ho chung cu
+53.0,90.0,,,6.0,Q12,dat
+14.0,400.0,,,10.0,Q12,"kho, nha xuong"
+1.85,70.0,2.0,,,Q6,can ho chung cu
+15.5,100.0,,,5.0,TP_Thu_Duc,dat
+5.62,78.0,2.0,20.0,,Binh_Chanh,can ho chung cu
+17.32,110.0,12.0,5.0,5.5,Go_Vap,nha rieng
+9.3,90.0,,,4.5,Q9,dat
+2.8,75.0,3.0,,7.0,Q7,can ho chung cu
+15.5,280.0,,5.0,9.0,Binh_Tan,"kho, nha xuong"
+12.0,81.0,,4.0,4.5,Go_Vap,can ho chung cu
+1.47,35.0,1.0,,,Go_Vap,can ho chung cu
+4.0,248.0,,,12.0,Binh_Chanh,dat
+245.0,75.0,2.0,,,Nha_Be,can ho chung cu
+5.5,56.0,,,,Q3,can ho chung cu
+3.95,133.0,,,8.0,Nha_Be,dat
+0.35,593.3,,,24.1,__missing__,dat
+15.5,152.0,4.0,2.0,5.2,Tan_Phu,nha rieng
+3.5,370.0,,,10.0,__missing__,dat
+2.1,75.1,,,,__missing__,dat
+1.8,215.8,,,10.0,__missing__,dat
+5.0,53.0,4.0,3.0,3.8,Q7,nha rieng
+4.39,27.0,2.0,2.0,3.1,Go_Vap,nha rieng
+0.55,920.0,,,20.0,__missing__,dat
+2.25,175.4,,,5.0,__missing__,dat
+100.0,334.0,,7.0,16.5,TP_Thu_Duc,dat
+10.0,90.0,,,4.5,Binh_Tan,dat
+7.0,2334.1,,,11.3,__missing__,dat
+23.5,374.0,,,12.0,TP_Thu_Duc,dat
+15.5,108.0,3.0,,,Binh_Thanh,can ho chung cu
+55.0,456.0,,18.0,12.0,TP_Thu_Duc,dat
+2.0,35.3,,,,Q7,nha rieng
+2.2,55.0,2.0,,8.0,__missing__,can ho chung cu
+5.3,56.0,4.0,3.0,4.0,Q12,nha rieng
+5.1,81.0,2.0,,,Q3,can ho chung cu
+0.625,688.8,,,,__missing__,dat
+4.4,267.3,,,7.0,__missing__,dat
+24.5,843.1,,,,Cu_Chi,dat
+1.29,104.4,,,14.0,__missing__,dat
+16.4,200.0,,,10.0,Q7,dat
+7.3,196.0,,,10.0,Hoc_Mon,dat
+11.5,108.0,3.0,,,Q7,can ho chung cu
+14.5,88.0,,3.0,5.3,Tan_Binh,dat
+9.0,111.0,,,6.0,Q9,dat
+3.8,118.4,,,,__missing__,nha rieng
+5.28,75.0,2.0,,,Q4,can ho chung cu
+7.5,160.0,3.0,2.0,10.0,Hoc_Mon,nha rieng
+9.0,1931.0,,,22.0,Cu_Chi,dat
+27.0,176.0,,,7.0,Q2,dat
+2.65,65.3,2.0,2.0,,__missing__,nha rieng
+3.0,24.2,2.0,2.0,,__missing__,nha rieng
+50.0,753.5,4.0,3.0,14.0,__missing__,nha rieng
+9.5,125.0,,4.0,5.0,TP_Thu_Duc,dat
+8.69,50.0,5.0,4.0,4.0,Phu_Nhuan,nha rieng
+45.0,124.0,3.0,,,Q7,can ho chung cu
+40.0,4666.6,,,50.0,__missing__,dat
+2.65,475.0,,,7.0,Cu_Chi,dat
+29.0,4606.0,,,,Tan_Phu,"kho, nha xuong"
+1.66,67.0,2.0,,,Q11,can ho chung cu
+36.0,72.0,,,4.8,Binh_Tan,dat
+175.6,,,,,Nha_Be,dat
+7.0,3000.0,,,30.0,__missing__,dat
+11.4,200.0,,,10.0,Nha_Be,dat
+2.53,4627.0,,,41.0,__missing__,dat
+16.0,90.0,5.0,3.0,4.0,Binh_Tan,nha rieng
+2.19,34.0,1.0,,,Q9,can ho chung cu
+445.0,90.0,2.0,,,Q7,can ho chung cu
+3.75,80.0,2.0,,,Q7,can ho chung cu
+3.9,82.5,,,6.0,Nha_Be,dat
+9.5,98.0,4.0,4.0,4.5,Q12,nha rieng
+129.0,186.0,,,10.0,Cu_Chi,dat
+3.85,36.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+52.0,1087.0,,,,Binh_Tan,"kho, nha xuong"
+3.55,300.0,,,17.0,Nha_Be,dat
+82.0,96.0,2.0,,,Tan_Phu,can ho chung cu
+16.9,,,,92.0,__missing__,dat
+10.0,821.0,,,10.0,__missing__,dat
+4.4,91.0,3.0,,,Tan_Phu,can ho chung cu
+3.6,70.0,2.0,,,Tan_Phu,can ho chung cu
+2.75,62.0,,,5.0,Q12,dat
+15.63,434.0,,,10.0,__missing__,dat
+1.5,55.0,2.0,,,Binh_Chanh,can ho chung cu
+2.1,1000.4,,,,__missing__,dat
+5.3,2400.0,,,45.0,Hoc_Mon,dat
+25.0,144.0,,7.0,8.0,Q7,dat
+52.5,700.0,,,31.0,__missing__,dat
+1.35,70.0,,,5.0,__missing__,dat
+5.35,94.0,2.0,1.0,94.0,Q7,nha rieng
+3.69,58.0,2.0,,,Q7,can ho chung cu
+33.6,160.0,,,8.0,TP_Thu_Duc,dat
+9.3,122.0,3.0,,,Q4,can ho chung cu
+83.0,300.0,,7.0,15.0,Q3,nha rieng
+2.5,150.0,,,7.0,Cu_Chi,dat
+1.8,255.0,,,6.0,Cu_Chi,dat
+61.0,466.0,,,26.0,Q7,dat
+4.65,64.0,2.0,1.0,5.0,Q12,nha rieng
+3.1,198.0,,,7.0,Q12,dat
+2.55,23.0,1.0,,4.3,Q1,can ho chung cu
+5.0,537.0,,,35.0,__missing__,dat
+7.0,140.0,,,,__missing__,dat
+6.65,58.0,4.0,4.0,4.0,Tan_Phu,nha rieng
+1.1,1096.0,,,13.0,__missing__,dat
+9.0,1560.0,,,19.0,Hoc_Mon,dat
+5.3,64.0,5.0,3.0,4.0,Binh_Tan,nha rieng
+3.95,88.3,,,7.4,Nha_Be,dat
+13.5,192.0,,5.0,7.5,Q12,dat
+65.0,2600.0,,,40.0,Hoc_Mon,dat
+7.0,66.0,4.0,3.0,6.0,__missing__,nha rieng
+16.5,200.0,,,10.0,Q7,dat
+51.0,1000.0,,,17.6,__missing__,dat
+4.5,73.6,,,,__missing__,dat
+7.2,68.0,4.0,4.0,4.0,__missing__,nha rieng
+27.0,895.0,,,20.0,Q9,dat
+3.8,92.0,,,5.0,Hoc_Mon,dat
+3.0,34.0,1.0,,,Q9,can ho chung cu
+24.0,241.0,,,5.0,Cu_Chi,dat
+10.5,220.0,,,7.0,Nha_Be,dat
+48.5,284.0,,,12.0,Q7,dat
+6.95,73.0,,,5.5,TP_Thu_Duc,dat
+3.5,73.0,3.0,,,Tan_Binh,can ho chung cu
+4.3,1279.0,,,30.0,Cu_Chi,dat
+1.1,83.0,,,5.0,Cu_Chi,dat
+1.76,72.0,2.0,,,Go_Vap,can ho chung cu
+4.45,117.0,,,4.5,__missing__,dat
+11.8,1684.0,,,20.0,Hoc_Mon,dat
+7.48,32.5,2.0,2.0,3.1,Q10,nha rieng
+174.0,69.0,2.0,,,Q4,can ho chung cu
+46.0,80.0,17.0,7.0,4.0,Q1,nha rieng
+3.89,109.0,3.0,1.0,5.0,__missing__,nha rieng
+2.45,403.0,,,8.0,Cu_Chi,dat
+31.0,69.0,,,,Q7,can ho chung cu
+2.59,65.0,2.0,,,Q4,can ho chung cu
+2.0,196.0,,,17.0,__missing__,dat
+13.2,69.0,,1.0,10.0,Binh_Thanh,nha rieng
+10.5,180.0,,7.0,6.1,Q9,dat
+7.5,250.0,,,12.5,Binh_Chanh,dat
+6.9,85.0,2.0,,,Q7,can ho chung cu
+2.1,46.0,2.0,,,Q9,can ho chung cu
+90.0,2064.5,,,,__missing__,dat
+2.35,189.8,,,5.0,__missing__,dat
+9.9,100.0,,,4.6,Tan_Binh,dat
+2.98,69.0,2.0,,,Q7,can ho chung cu
+12.8,90.0,,2.0,6.0,Q3,nha rieng
+14.0,83.0,2.0,,,Q1,can ho chung cu
+8.5,190.0,,,9.5,Q12,dat
+12.0,428.0,,,6.5,Q9,dat
+1.2,661.7,,,,__missing__,dat
+2.74,65.0,2.0,17.0,,Q11,can ho chung cu
+6.48,105.0,,,4.3,Q12,dat
+29.0,230.0,,5.0,10.0,TP_Thu_Duc,nha rieng
+13.0,,,,66.0,__missing__,dat
+16.0,1490.0,,,2.0,TP_Thu_Duc,dat
+4.5,120.0,2.0,,7.0,Q9,dat
+22.0,60.0,1.0,,,Q1,can ho chung cu
+60.0,344.9,,,11.0,__missing__,dat
+6.0,1108.0,,,7.0,Can_Gio,dat
+2.15,116.0,,,5.0,__missing__,dat
+1.9,429.1,,,,__missing__,dat
+14.9,207.0,,,14.0,Tan_Binh,nha rieng
+32.0,,,,,Can_Gio,dat
+80.0,2000.0,,,15.0,__missing__,dat
+2.6,85.0,2.0,,,Binh_Chanh,can ho chung cu
+0.29,225.0,,,5.0,__missing__,dat
+150.0,1750.0,,,30.0,TP_Thu_Duc,dat
+6.8,105.0,2.0,,,Phu_Nhuan,can ho chung cu
+35.0,3500.0,,,8.0,Can_Gio,dat
+6.29,81.0,2.0,2.0,,Q4,can ho chung cu
+1.7,60.0,,,5.0,Binh_Chanh,dat
+5.9,120.0,4.0,2.0,4.0,TP_Thu_Duc,nha rieng
+8.5,111.0,,,5.0,TP_Thu_Duc,dat
+29.48,,,,70.0,__missing__,dat
+8.35,79.0,2.0,,,Q7,can ho chung cu
+2.6,300.0,,,10.0,__missing__,dat
+3.2,75.0,2.0,,7.3,Q5,can ho chung cu
+42.0,1600.0,,,,Q12,"kho, nha xuong"
+8.2,107.0,,,5.75,TP_Thu_Duc,dat
+147.49,686.0,,,20.0,TP_Thu_Duc,dat
+6.8,104.0,3.0,,,Tan_Phu,can ho chung cu
+16.2,168.0,6.0,3.0,8.0,Q2,nha rieng
+5.3,112.0,3.0,,,Tan_Phu,can ho chung cu
+20.0,74.0,3.0,2.0,4.0,Q8,nha rieng
+6.0,80.0,,,3.0,__missing__,nha rieng
+0.68,577.0,,,,__missing__,dat
+4.5,100.4,,,40.0,Nha_Be,dat
+35.0,525.0,,8.0,7.5,TP_Thu_Duc,dat
+15.0,600.0,,,11.0,__missing__,nha rieng
+87.0,239.0,,7.0,11.0,Q1,dat
+32.0,90.0,2.0,,,Q7,can ho chung cu
+20.8,720.0,,,14.5,Q12,dat
+1.59,109.0,,,4.0,__missing__,dat
+60.0,,,,72.0,Cu_Chi,dat
+8.1,101.0,2.0,1.0,,TP_Thu_Duc,can ho chung cu
+1.9,37.0,1.0,33.0,,Q7,can ho chung cu
+3.75,38.0,1.0,2.0,3.05,Tan_Phu,nha rieng
+3.5,181.2,,,6.0,__missing__,nha rieng
+25.0,972.0,,1.0,15.0,Hoc_Mon,"kho, nha xuong"
+7.3,162.0,1.0,1.0,6.6,Hoc_Mon,nha rieng
+8.3,370.0,30.0,,10.0,__missing__,nha rieng
+7.7,81.0,2.0,25.0,,Q4,can ho chung cu
+2.8,100.0,3.0,,,Tan_Phu,can ho chung cu
+3.8,60.0,2.0,2.0,5.0,Q7,nha rieng
+4.79,50.0,,,4.4,TP_Thu_Duc,dat
+4.6,87.0,3.0,,,TP_Thu_Duc,can ho chung cu
+1.8,100.7,,,5.0,__missing__,dat
+1.72,68.0,2.0,,,Q7,can ho chung cu
+2.45,85.0,2.0,,,Binh_Chanh,can ho chung cu
+0.6,977.3,,,5.0,__missing__,dat
+0.95,110.0,,,5.5,Cu_Chi,dat
+3.5,350.0,,,,__missing__,dat
+5.4,44.0,4.0,4.0,4.0,Q11,nha rieng
+5.4,1051.7,,,17.0,__missing__,dat
+9.0,113.0,3.0,,2.0,Q7,can ho chung cu
+33.0,80.0,,,6.0,Phu_Nhuan,dat
+3.0,89.0,,,4.0,Cu_Chi,dat
+56.0,88.0,2.0,,,Q10,can ho chung cu
+147.0,320.0,,,10.0,Q3,dat
+2.75,191.0,,,5.0,Cu_Chi,dat
+34.0,61.0,2.0,,,Q6,can ho chung cu
+8.5,2655.0,,,40.0,Binh_Chanh,dat
+25.8,,,,,__missing__,dat
+3.7,93.0,2.0,,,Q6,can ho chung cu
+19.0,246.0,,1.0,7.5,Q12,nha rieng
+6.8,632.0,,,27.0,Hoc_Mon,dat
+5.75,230.0,,,6.0,__missing__,dat
+3.62,95.0,,,5.0,Hoc_Mon,dat
+2.3,225.7,,,6.0,__missing__,dat
+75.6,,,,,__missing__,dat
+68.0,97.0,3.0,,,Q11,can ho chung cu
+9.5,120.0,3.0,,,Phu_Nhuan,can ho chung cu
+28.0,,1.0,,,__missing__,nha rieng
+8.3,62.0,6.0,4.0,3.5,Tan_Phu,nha rieng
+0.895,280.0,,,5.0,__missing__,dat
+2.1,100.0,,,,__missing__,dat
+9.98,486.7,,,15.0,__missing__,dat
+5.75,60.0,4.0,3.0,4.35,Nha_Be,nha rieng
+10.2,304.0,,,12.7,Q12,"kho, nha xuong"
+10.0,550.7,,,,__missing__,dat
+58.0,53.0,1.0,4.0,,Q10,can ho chung cu
+6.5,100.0,,,4.6,Go_Vap,dat
+185.0,87.0,,,,Cu_Chi,dat
+1.55,97.0,,,5.0,__missing__,dat
+7.4,100.0,,,5.0,Binh_Chanh,dat
+1.54,402.3,,,,__missing__,dat
+1.2,75.0,1.0,,5.0,Binh_Chanh,nha rieng
+8.4,207.0,,1.0,9.0,Q12,"kho, nha xuong"
+3.4,80.0,,,4.0,Q12,dat
+4.5,102.6,3.0,1.0,6.0,__missing__,nha rieng
+1.35,38.0,1.0,,3.8,Tan_Binh,can ho chung cu
+6.35,60.0,4.0,4.0,4.0,Tan_Phu,nha rieng
+255.0,52.0,1.0,,,Q9,can ho chung cu
+13.0,152.0,,,5.5,__missing__,dat
+27.99,340.0,,,16.0,TP_Thu_Duc,dat
+13.0,200.0,,,10.0,Q7,dat
+8.2,,,,50.0,__missing__,dat
+20.5,485.0,,,20.0,Q9,dat
+52.0,80.0,3.0,,,Nha_Be,can ho chung cu
+5.3,1583.0,,,15.0,__missing__,dat
+6.8,85.0,2.0,2.0,5.0,Binh_Tan,nha rieng
+5.0,100.0,,,4.0,Q12,dat
+24.0,47.0,1.0,,5.0,Q9,can ho chung cu
+1.65,70.0,2.0,,,Q4,can ho chung cu
+240.0,,,,,Can_Gio,dat
+34.0,350.0,,6.0,8.5,Go_Vap,nha rieng
+1.6,150.0,,,5.0,__missing__,dat
+1.1,50.0,2.0,,,Hoc_Mon,can ho chung cu
+40.0,1467.0,,,25.0,Nha_Be,dat
+49.2,246.0,,,,Q9,dat
+6.5,64.0,,5.0,4.0,Q11,dat
+1.67,100.0,2.0,,5.0,__missing__,nha rieng
+0.6,,,,50.0,Tan_Phu,dat
+1.69,211.9,,,5.0,__missing__,dat
+24.8,121.0,3.0,,,Q1,can ho chung cu
+47.5,,,,93.0,__missing__,dat
+4.0,277.5,,,,__missing__,dat
+11.5,,,,55.0,Can_Gio,dat
+15.0,300.1,,,,__missing__,dat
+6.8,677.7,,,17.7,__missing__,dat
+4.4,114.0,3.0,,,Binh_Chanh,can ho chung cu
+24.9,105.0,,5.0,,Go_Vap,can ho chung cu
+0.98,119.0,,,12.0,Cu_Chi,dat
+6.9,69.2,,,4.0,__missing__,dat
+3.9,71.0,2.0,,,Binh_Thanh,can ho chung cu
+85.0,149.0,,,5.75,Q9,dat
+9.5,145.0,8.0,2.0,16.0,Go_Vap,nha tro
+40.0,,,,,Cu_Chi,dat
+17.0,220.0,2.0,1.0,6.0,Binh_Tan,nha rieng
+4.85,86.0,3.0,,,Q7,nha tro
+32.96,2197.0,,,,Nha_Be,dat
+11.5,768.0,2.0,1.0,31.0,Tan_Phu,nha rieng
+735.0,72.0,,4.0,4.0,Q9,dat
+3.8,80.0,,,4.0,Hoc_Mon,dat
+6.8,68.0,,,4.0,Binh_Tan,dat
+2.3,84.0,,,4.0,__missing__,dat
+228.0,26.0,,2.0,,Q4,can ho chung cu
+1.75,36.0,,,,Q6,"kho, nha xuong"
+3.2,717.0,,,48.0,Cu_Chi,dat
+11.8,126.0,1.0,,,Binh_Thanh,can ho chung cu
+1.25,100.0,,,5.0,Binh_Thanh,dat
+5.4,80.0,,,4.1,TP_Thu_Duc,dat
+4.5,211.8,,,10.0,Cu_Chi,dat
+5.0,58.0,2.0,,,Q3,can ho chung cu
+3.05,85.0,,,5.0,Hoc_Mon,dat
+2.35,55.0,2.0,,,Tan_Binh,can ho chung cu
+3.8,1140.5,,,,__missing__,dat
+2.9,65.0,2.0,,,Q12,can ho chung cu
+185.0,46.0,1.0,,,Q9,can ho chung cu
+4.5,1000.0,,,38.0,Binh_Chanh,dat
+1.99,93.0,,,5.0,Cu_Chi,dat
+14.0,350.0,,,10.0,Hoc_Mon,dat
+79.0,82.0,2.0,,5.6,Q7,can ho chung cu
+65.0,756.0,,1.5,18.0,Binh_Tan,"kho, nha xuong"
+725.0,93.0,3.0,,,Q4,can ho chung cu
+95.0,90.0,2.0,,,Q4,can ho chung cu
+62.0,,,,,__missing__,dat
+7.3,66.0,,,4.0,Tan_Phu,dat
+48.0,98.0,,,,Binh_Thanh,can ho chung cu
+12.99,88.0,1.0,1.0,5.0,Tan_Phu,nha rieng
+17.0,2057.0,,,21.0,Hoc_Mon,dat
+203.0,47.0,1.0,,,Q9,can ho chung cu
+7.5,267.1,,,9.2,Hoc_Mon,dat
+6.6,107.2,2.0,2.0,,__missing__,nha rieng
+0.59,233.0,,,,__missing__,dat
+50.0,477.0,,,24.5,Binh_Chanh,dat
+3.79,81.0,,,6.0,Nha_Be,dat
+5.81,132.0,,,6.0,Nha_Be,dat
+1.65,34.0,,,3.0,Q9,can ho chung cu
+5.6,90.0,4.0,3.0,5.0,__missing__,nha rieng
+3.8,310.0,,,6.0,__missing__,dat
+3.5,100.0,,,5.0,Binh_Chanh,dat
+4.89,87.0,,,5.0,Q12,dat
+5.0,124.0,,,5.5,__missing__,dat
+0.855,300.0,,,,__missing__,dat
+3.37,1343.0,,,34.0,Cu_Chi,dat
+1.68,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+23.0,358.0,,1.0,15.0,Binh_Tan,"kho, nha xuong"
+11.0,110.0,3.0,,,Q7,can ho chung cu
+4.2,75.0,,,,Tan_Binh,can ho chung cu
+2.0,94.0,,,,Cu_Chi,dat
+2.95,365.0,,,8.0,Hoc_Mon,dat
+8.0,104.1,,,,__missing__,dat
+2.25,1133.3,,,,__missing__,dat
+4.55,70.0,,,7.0,Q12,dat
+2.15,157.0,,,5.0,__missing__,nha rieng
+6.7,350.0,,,9.0,Can_Gio,dat
+53.0,89.0,,,6.0,Q12,dat
+3.12,800.0,,,40.0,Cu_Chi,dat
+0.82,160.0,,,5.0,Cu_Chi,dat
+6.0,125.0,,,5.0,Q12,dat
+14.0,1673.0,,,,__missing__,dat
+18.0,40.0,2.0,1.0,5.8,Q11,nha rieng
+6.5,127.0,,,8.0,Q12,dat
+8.8,76.0,4.0,3.0,4.0,Tan_Phu,nha rieng
+4.75,115.0,2.0,,,Q8,can ho chung cu
+12.5,195.0,4.0,2.0,,Q7,can ho chung cu
+1.78,65.0,3.0,,,Binh_Thanh,can ho chung cu
+50.0,1173.0,,,34.5,TP_Thu_Duc,dat
+70.0,1606.0,,,20.0,Q9,dat
+3.4,60.4,,,5.0,Hoc_Mon,dat
+4.4,74.0,2.0,,,Tan_Phu,can ho chung cu
+79.0,484.0,,7.0,22.0,Q1,dat
+9.18,71.0,,,4.0,Binh_Thanh,dat
+5.3,86.0,,,5.0,Binh_Tan,dat
+2.6,65.0,1.0,,,Q9,can ho chung cu
+28.0,176.0,,3.0,4.5,TP_Thu_Duc,can ho chung cu
+10.8,60.0,4.0,3.0,4.0,Binh_Thanh,nha rieng
+133.0,245.0,,,9.2,Q12,dat
+0.8,70.0,,,5.0,__missing__,dat
+635.0,88.0,2.0,,,Tan_Phu,can ho chung cu
+10.8,105.0,5.0,5.0,5.0,Binh_Chanh,nha rieng
+38.5,371.0,,,8.5,TP_Thu_Duc,dat
+9.36,1872.0,,,20.0,Can_Gio,dat
+24.8,372.0,,,16.0,Q12,"kho, nha xuong"
+4.5,110.0,5.0,3.0,5.0,__missing__,nha rieng
+45.0,430.0,,,9.0,Go_Vap,dat
+32.0,535.0,,2.0,,Hoc_Mon,dat
+5.8,686.2,,,13.0,__missing__,dat
+0.895,280.0,,,5.0,__missing__,dat
+71.0,253.0,,,8.0,Q9,dat
+11.9,76.1,4.0,3.0,4.0,Tan_Binh,nha rieng
+190.0,150.0,,3.0,8.2,Q1,nha rieng
+18.5,3700.0,,,35.0,Hoc_Mon,dat
+1.25,300.9,,,6.8,__missing__,dat
+129.0,,,,45.0,Binh_Tan,dat
+2.45,88.8,2.0,,5.0,__missing__,nha rieng
+9.7,121.0,3.0,,,Tan_Phu,can ho chung cu
+160.0,2078.0,,,30.0,Hoc_Mon,dat
+35.0,1900.0,,1.0,35.0,Hoc_Mon,"kho, nha xuong"
+57.0,1600.0,,,50.0,Binh_Tan,"kho, nha xuong"
+7.2,349.0,,,12.0,Q12,dat
+3.4,66.0,2.0,,,Q9,can ho chung cu
+3.5,56.0,,,4.0,Q12,dat
+8.0,82.0,2.0,,,Q7,can ho chung cu
+65.0,1500.0,,,33.0,Q12,dat
+785.0,96.0,2.0,,,Tan_Phu,can ho chung cu
+1.2,45.0,,,,Q1,can ho chung cu
+4.79,69.0,,,4.8,Binh_Tan,dat
+2.9,60.0,2.0,,,Q8,can ho chung cu
+7.5,425.5,,,8.0,__missing__,dat
+3.38,150.1,,,5.0,__missing__,dat
+27.5,442.0,,4.0,11.0,Q12,nha rieng
+81.0,86.0,2.0,,,Binh_Thanh,can ho chung cu
+9.3,130.0,,,8.0,Binh_Thanh,dat
+169.0,67.0,2.0,,,Q6,can ho chung cu
+2.7,65.0,2.0,,,Q12,can ho chung cu
+3.1,194.0,,,7.0,Q12,dat
+0.86,130.0,,,5.0,Cu_Chi,dat
+96.0,170.0,,,10.0,Q12,dat
+3.0,73.0,2.0,,,Q9,can ho chung cu
+5.5,70.0,4.0,3.0,5.0,Go_Vap,nha rieng
+7.5,1164.0,4.0,2.0,20.0,__missing__,nha rieng
+1.85,80.0,,,5.0,Q9,dat
+5.49,76.0,2.0,,,Q9,can ho chung cu
+3.4,59.0,2.0,,,Q9,can ho chung cu
+8.5,95.0,,4.5,4.0,TP_Thu_Duc,dat
+8.9,120.0,3.0,,,Tan_Phu,can ho chung cu
+15.0,819.0,,,,Cu_Chi,dat
+5.5,95.0,3.0,,,Nha_Be,can ho chung cu
+26.0,134.0,,,11.0,TP_Thu_Duc,dat
+2.85,204.9,,,8.2,__missing__,dat
+1.43,69.0,2.0,,,Binh_Thanh,can ho chung cu
+17.5,250.0,,,10.0,Nha_Be,dat
+3.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+4.5,102.0,2.0,,,Q6,nha tro
+16.0,965.9,,,25.0,Cu_Chi,nha rieng
+30.0,110.0,4.0,4.0,6.5,__missing__,nha rieng
+3.0,54.0,2.0,,,Q9,can ho chung cu
+7.5,60.0,,4.0,4.0,Q1,nha rieng
+57.0,1600.0,,,30.0,Binh_Tan,"kho, nha xuong"
+1.25,106.0,,,5.0,Cu_Chi,dat
+30.0,1140.0,,,19.5,Q9,"kho, nha xuong"
+6.9,117.0,,,4.0,TP_Thu_Duc,dat
+3.0,97.0,,,8.5,Q8,can ho chung cu
+5.65,79.0,5.0,2.0,4.0,Go_Vap,nha rieng
+12.5,3120.0,,,33.8,__missing__,dat
+3.68,137.0,,,4.0,__missing__,dat
+267.5,,,,20.0,Binh_Tan,"kho, nha xuong"
+0.98,140.0,,,,Binh_Chanh,dat
+12.5,300.0,,,23.0,__missing__,dat
+5.2,135.2,,,6.0,Hoc_Mon,dat
+6.25,115.0,,5.0,4.0,Q9,dat
+10.3,146.0,3.0,,,Q7,can ho chung cu
+44.0,57.0,,,6.0,TP_Thu_Duc,dat
+9.2,122.0,,,7.2,Q7,dat
+9.9,68.0,2.0,2.0,,Q1,nha rieng
+2.5,400.0,,,4.0,__missing__,dat
+16.3,124.0,3.0,,,Q7,can ho chung cu
+16.39,342.0,,1.0,9.0,Q12,"kho, nha xuong"
+1.65,72.0,2.0,,,Go_Vap,nha tro
+3.35,59.0,,,4.0,Q9,dat
+0.955,90.0,,,5.0,Binh_Chanh,dat
+6.3,300.0,,,10.0,__missing__,dat
+17.0,105.0,7.0,4.0,4.7,__missing__,nha rieng
+1.75,60.0,2.0,,,Binh_Thanh,can ho chung cu
+535.0,60.0,,,4.0,TP_Thu_Duc,dat
+5.3,202.2,,,,__missing__,dat
+2.8,143.8,,,5.0,__missing__,dat
+6.2,2960.0,,,65.0,Cu_Chi,dat
+6.2,494.0,,,10.0,Cu_Chi,dat
+100.0,,,,,__missing__,dat
+14.0,830.0,,,28.0,Q12,"kho, nha xuong"
+4.9,81.0,,,4.5,Q12,dat
+258.0,84.0,2.0,,2.0,Binh_Chanh,can ho chung cu
+1.7,100.0,,,5.0,__missing__,dat
+1.6,150.0,,,5.0,__missing__,dat
+1.02,459.3,,,,__missing__,dat
+1.52,138.0,,,5.0,__missing__,dat
+18.0,255.0,,5.0,10.8,Q9,dat
+32.0,76.0,,,4.0,Q12,dat
+35.0,,,,,Hoc_Mon,"kho, nha xuong"
+11.0,147.0,3.0,,,Q7,can ho chung cu
+2.62,55.0,2.0,,,Tan_Binh,can ho chung cu
+4.0,48.0,2.0,2.0,4.0,Tan_Binh,nha rieng
+2.7,80.0,,,5.0,__missing__,dat
+122.8,4093.0,,,57.99,Q9,dat
+11.5,81.0,3.0,2.0,4.0,Tan_Phu,nha rieng
+12.0,481.0,,4.0,10.0,Q12,nha rieng
+4.9,150.7,,,7.0,__missing__,dat
+6.5,92.0,3.0,,,Binh_Thanh,can ho chung cu
+3.6,118.2,,,4.7,__missing__,dat
+8.13,80.0,3.0,3.0,8.2,Q8,nha rieng
+3.5,1484.0,,,12.0,__missing__,dat
+9.0,209.0,,,13.0,Q12,dat
+52.0,193.0,3.0,,,Q1,can ho chung cu
+145.0,147.0,3.0,,,Q7,can ho chung cu
+6.39,150.0,,,,__missing__,dat
+14.0,59.7,,1.0,4.0,Q1,nha rieng
+11.0,4000.0,,,,Hoc_Mon,dat
+14.0,938.0,,,,Q7,dat
+10.0,150.0,,,8.2,TP_Thu_Duc,dat
+15.5,1000.0,,1.0,25.0,Hoc_Mon,"kho, nha xuong"
+4.2,73.0,2.0,,,Tan_Binh,can ho chung cu
+3.6,52.0,,,4.0,Q9,dat
+1.82,80.0,2.0,,,Q7,can ho chung cu
+2.0,311.0,,,,__missing__,dat
+52.0,4638.0,,,29.0,Hoc_Mon,dat
+3.52,53.0,1.0,,,Tan_Phu,can ho chung cu
+17.0,32.0,,,,Q9,can ho chung cu
+0.75,458.8,,,6.3,__missing__,dat
+275.0,67.0,2.0,,,Q9,can ho chung cu
+113.0,97.0,2.0,,,Binh_Thanh,can ho chung cu
+3.6,61.0,2.0,,,Binh_Chanh,can ho chung cu
+37.0,738.0,,,14.0,Q9,dat
+15.0,1242.0,,,12.0,Q12,"kho, nha xuong"
+5.0,155.0,,,5.0,__missing__,dat
+1.05,2104.1,,,,__missing__,dat
+2.8,1000.0,,,25.0,Binh_Chanh,dat
+2.35,75.0,2.0,,,Go_Vap,can ho chung cu
+6.3,77.0,2.0,,,Q7,can ho chung cu
+4.5,80.0,3.0,,,Tan_Phu,nha tro
+20.5,1315.0,3.0,3.0,15.0,Binh_Chanh,"kho, nha xuong"
+1.55,61.0,,,4.0,Q5,can ho chung cu
+3.5,50.0,,5.0,5.5,Binh_Tan,dat
+0.95,167.5,,,5.0,__missing__,dat
+4.65,89.0,,,6.4,Q9,dat
+6.0,74.0,3.0,,,Q7,can ho chung cu
+8.9,115.0,,,4.1,TP_Thu_Duc,dat
+6.8,102.0,,,7.0,Q12,dat
+13.9,140.0,3.0,,,Q7,can ho chung cu
+4.5,85.0,,,5.0,Hoc_Mon,dat
+2.05,150.0,,,5.0,__missing__,dat
+122.0,221.0,,1.0,10.0,Q12,"kho, nha xuong"
+8.0,106.0,2.0,1.0,6.0,TP_Thu_Duc,nha rieng
+6.5,1454.0,,,36.0,Cu_Chi,dat
+6.55,80.0,,,5.0,Go_Vap,dat
+6.65,97.0,3.0,,,Q9,can ho chung cu
+28.11,385.0,,,14.8,Q9,dat
+16.2,,,,,Cu_Chi,dat
+38.0,62.0,2.0,,,Q7,can ho chung cu
+11.7,72.0,,3.0,4.0,Binh_Tan,nha rieng
+5.2,90.0,4.0,3.0,5.0,__missing__,nha rieng
+4.79,90.0,,,5.0,Q12,dat
+105.0,110.0,,,4.0,Binh_Tan,dat
+5.7,81.0,3.0,,,Q7,can ho chung cu
+7.0,95.2,,,,Tan_Binh,dat
+4.98,32.0,3.0,5.0,4.05,Tan_Phu,nha rieng
+0.67,154.0,,,7.0,__missing__,dat
+595.0,123.0,,,,Q12,dat
+11.0,151.0,3.0,,,Q7,can ho chung cu
+16.0,600.0,,,10.0,Binh_Chanh,"kho, nha xuong"
+2.95,91.4,2.0,1.0,5.0,__missing__,nha rieng
+66.0,200.0,,,6.0,Q9,dat
+2.94,59.0,2.0,,,Q9,can ho chung cu
+475.0,73.0,,4.0,7.0,Q9,dat
+3.9,48.0,2.0,3.0,4.0,Q4,nha rieng
+19.0,119.0,,,7.0,TP_Thu_Duc,dat
+5.0,50.0,1.0,,5.0,Q2,can ho chung cu
+15.0,100.0,5.0,4.0,5.0,Q12,nha rieng
+1.35,65.0,2.0,,,Q12,can ho chung cu
+10.39,90.0,2.0,4.0,,Q4,can ho chung cu
+7.0,69.0,4.0,3.0,4.0,Tan_Phu,nha rieng
+34.0,955.0,,,,Q12,dat
+15.3,1800.0,,,90.0,__missing__,dat
+32.5,5000.0,,,,TP_Thu_Duc,dat
+6.6,212.0,,,9.5,Q12,"kho, nha xuong"
+43.0,2000.0,,,30.0,Binh_Tan,"kho, nha xuong"
+1.6,147.0,,,5.0,__missing__,dat
+1.7,144.9,,,6.0,Can_Gio,dat
+6.7,570.1,,,9.0,Hoc_Mon,dat
+5.89,90.0,,,5.0,Q12,dat
+4.8,480.0,,,16.0,Cu_Chi,dat
+7.6,56.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+5.5,2311.4,,,,__missing__,dat
+10.2,400.0,,,10.0,Binh_Chanh,"kho, nha xuong"
+33.0,3384.6,,,,Cu_Chi,dat
+2.7,60.0,2.0,,,Binh_Thanh,can ho chung cu
+11.0,2703.0,,,57.0,Cu_Chi,dat
+176.0,70.0,2.0,,,Q7,can ho chung cu
+11.5,1456.0,,,22.0,__missing__,dat
+2.6,68.0,2.0,,,Q9,can ho chung cu
+55.0,318.0,,,15.0,Q2,dat
+15.5,326.0,,3.0,6.9,Q12,"kho, nha xuong"
+7.9,40.0,4.0,5.0,4.0,Q3,nha rieng
+4.8,70.0,2.0,,,Q4,can ho chung cu
+2.1,500.0,,,20.0,__missing__,dat
+26.0,1949.0,,,11.0,Cu_Chi,dat
+51.0,88.0,,,4.0,Q12,dat
+6.2,1017.9,,,20.0,Cu_Chi,dat
+2.09,79.0,,,,__missing__,dat
+7.8,400.0,,,10.0,__missing__,dat
+85.0,124.0,3.0,,,Q7,can ho chung cu
+5.0,2497.2,,,,Cu_Chi,dat
+15.0,68.0,7.0,5.0,4.0,Tan_Phu,nha rieng
+0.81,121.0,,,,Cu_Chi,dat
+3.6,379.9,,,10.0,__missing__,dat
+2.1,1161.0,,,48.0,__missing__,dat
+9.5,105.0,,,10.0,Q9,dat
+16.0,736.0,,,13.0,Q12,dat
+10.4,70.0,,4.0,4.2,Q7,dat
+0.79,250.0,,,5.0,__missing__,dat
+8.0,429.7,,,,__missing__,dat
+26.0,1470.0,,,12.0,__missing__,dat
+155.0,143.0,3.0,,,Q7,can ho chung cu
+2.6,610.4,,,,Tan_Binh,dat
+4.5,436.0,,,10.0,__missing__,dat
+1.38,275.0,,,5.0,__missing__,dat
+96.0,1810.0,,,20.0,TP_Thu_Duc,dat
+6.5,3205.8,,,,__missing__,dat
+6.72,1200.0,,,20.0,Can_Gio,dat
+45.0,2785.0,,,32.0,Cu_Chi,dat
+16.3,185.0,,5.0,8.0,Binh_Tan,dat
+0.55,1000.0,,,20.0,__missing__,dat
+30.0,240.0,,,10.0,Tan_Binh,dat
+31.0,243.0,,3.0,12.8,Q7,dat
+3.5,1440.0,,,19.1,Binh_Chanh,dat
+6.7,72.0,,,4.0,Q7,nha rieng
+3.2,69.0,2.0,,,Q7,can ho chung cu
+63.0,99.0,,,4.0,Q6,dat
+3.9,408.4,,,31.0,Cu_Chi,dat
+2.2,80.0,,,5.0,Q9,dat
+13.0,934.0,,,18.7,Q12,dat
+9.2,245.0,,,10.0,TP_Thu_Duc,dat
+5.2,934.0,,,18.0,__missing__,dat
+26.0,85.0,2.0,,,Q7,can ho chung cu
+0.895,200.0,,,8.0,Cu_Chi,dat
+68.0,679.3,,,11.0,__missing__,nha rieng
+3.0,82.0,,,5.5,Binh_Chanh,dat
+11.0,122.0,2.0,,,Q7,can ho chung cu
+1.8,230.2,,,,__missing__,dat
+17.0,111.0,5.0,3.0,4.5,Tan_Binh,nha rieng
+98.0,957.0,,,15.0,Q9,dat
+6.0,501.7,,,11.0,__missing__,dat
+18.0,70.0,2.0,,,Q8,can ho chung cu
+2.5,1000.0,,,20.0,Binh_Chanh,dat
+2.9,36.0,2.0,2.0,4.7,__missing__,nha rieng
+4.3,300.0,,,,Tan_Phu,"kho, nha xuong"
+1.05,90.0,,,5.0,__missing__,dat
+21.0,350.0,2.0,1.0,6.5,Q12,nha rieng
+2.77,56.0,1.0,,,Q9,can ho chung cu
+5.3,65.0,,3.0,4.0,Q9,dat
+3.4,678.0,2.0,,,Q9,can ho chung cu
+170.0,2500.0,3.0,2.0,59.0,Binh_Tan,dat
+6.5,314.5,,,,__missing__,dat
+35.0,40.0,1.0,,,Q1,can ho chung cu
+27.5,898.0,,1.0,18.8,Hoc_Mon,"kho, nha xuong"
+2.7,52.0,,,4.0,Q9,dat
+9.5,4962.0,,,67.0,__missing__,dat
+18.5,250.0,,,12.8,Q9,dat
+12.0,60.0,,3.0,4.0,Binh_Thanh,nha rieng
+4.99,190.3,,,,__missing__,dat
+5.5,165.0,,,5.0,Q12,dat
+2.8,235.0,,,7.1,__missing__,dat
+15.3,,,,50.0,Can_Gio,dat
+2.39,114.0,,,5.0,__missing__,dat
+3.2,150.0,,,5.0,__missing__,dat
+0.85,246.3,,,,__missing__,dat
+71.0,118.0,3.0,,,Q7,can ho chung cu
+4.0,100.0,3.0,,,Q9,can ho chung cu
+15.0,200.0,,,10.0,__missing__,dat
+2.85,100.0,,,5.0,__missing__,dat
+1.84,102.0,2.0,,,Binh_Thanh,can ho chung cu
+2.89,90.8,,,5.0,__missing__,dat
+68.0,4700.0,,,42.0,__missing__,"kho, nha xuong"
+7.0,2700.0,,,,__missing__,dat
+14.9,1007.2,,,,__missing__,dat
+5.2,55.0,,,5.0,__missing__,dat
+2.9,154.3,1.0,3.0,5.0,__missing__,nha rieng
+30.0,250.0,,,14.0,Q7,dat
+9.8,4300.0,,,15.0,Cu_Chi,dat
+27.0,535.0,,,13.0,__missing__,dat
+6.1,99.0,,,5.5,Q12,dat
+23.9,390.0,20.0,,14.5,__missing__,nha tro
+6.0,1027.0,,,7.0,__missing__,dat
+4.25,125.0,,,5.0,Q12,dat
+11.0,80.0,4.0,5.0,7.0,Phu_Nhuan,nha rieng
+6.6,99.0,6.0,2.0,4.0,Go_Vap,nha tro
+5.4,74.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+195.0,423.0,,4.0,20.0,TP_Thu_Duc,dat
+4.69,45.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+8.2,128.0,,,5.5,Q9,dat
+5.5,55.0,5.0,5.0,4.0,Q12,nha rieng
+4.05,99.0,2.0,,4.2,TP_Thu_Duc,nha rieng
+4.3,545.2,,,,__missing__,dat
+13.5,165.0,,,8.2,Tan_Phu,dat
+7.6,96.0,3.0,,,Q7,can ho chung cu
+4.8,104.0,3.0,,,Tan_Phu,can ho chung cu
+1.9,150.0,,,,__missing__,dat
+42.0,306.0,,,12.0,Q7,dat
+55.0,,,2.0,30.0,Binh_Tan,dat
+1.76,70.0,2.0,,,Tan_Binh,can ho chung cu
+2.4,84.0,2.0,,,Binh_Chanh,can ho chung cu
+1.39,109.5,,,5.0,__missing__,dat
+2.5,60.0,,,4.0,__missing__,dat
+13.9,726.0,,,4.9,Q7,dat
+132.0,,,,20.0,Can_Gio,dat
+45.0,308.0,,,10.0,TP_Thu_Duc,dat
+3.0,197.8,,,6.8,__missing__,dat
+2.58,77.0,2.0,,,Nha_Be,can ho chung cu
+3.1,65.0,2.0,,,Binh_Chanh,can ho chung cu
+0.96,253.0,,,8.0,Cu_Chi,dat
+1.6,100.0,,,5.0,Binh_Chanh,dat
+4.68,104.1,,,,Nha_Be,dat
+1.68,68.0,2.0,,,Binh_Thanh,nha tro
+5.2,76.0,2.0,,,Q7,can ho chung cu
+186.82,,,,54.0,Q9,dat
+12.6,61.0,2.0,,4.0,Tan_Phu,nha rieng
+5.5,78.0,,,20.0,Q12,dat
+2.8,1046.0,,,19.0,__missing__,dat
+5.3,150.0,,,6.7,Q9,dat
+7.6,120.0,3.0,,,Binh_Thanh,can ho chung cu
+2.8,543.0,,,10.0,Tan_Binh,dat
+10.39,735.0,,,10.5,Q12,"kho, nha xuong"
+348.0,84.0,,,4.0,Q12,dat
+14.0,,,,,__missing__,dat
+6.0,96.0,3.0,,,Q7,can ho chung cu
+28.0,100.0,,4.0,5.0,Q9,dat
+34.0,52.0,1.0,,,Q9,can ho chung cu
+21.0,96.0,6.0,5.0,4.0,Q6,nha rieng
+5.5,65.0,1.0,2.0,4.0,Tan_Phu,nha rieng
+6.2,45.0,4.0,2.0,3.4,Q4,nha rieng
+253.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+5.0,150.0,,,6.0,Nha_Be,dat
+95.4,900.0,,,30.0,Binh_Tan,dat
+6.75,80.0,,3.0,8.0,Binh_Tan,nha rieng
+65.0,132.0,12.0,6.0,8.0,Q9,nha rieng
+1.85,905.0,,,45.0,Cu_Chi,dat
+0.855,353.7,,,,__missing__,dat
+6.0,70.0,2.0,,,Tan_Binh,can ho chung cu
+5.8,89.6,,,5.0,__missing__,dat
+51.0,796.0,,,,Q7,dat
+115.0,251.0,,,10.0,Cu_Chi,dat
+99.0,833.0,,,15.0,Tan_Phu,dat
+8.5,232.0,,,6.3,__missing__,dat
+2.2,150.0,,,7.0,Cu_Chi,dat
+9.8,69.0,5.0,3.0,5.0,__missing__,nha rieng
+46.0,68.0,1.0,,,Q9,can ho chung cu
+3.4,87.0,,,4.6,Q12,dat
+4.9,69.0,3.0,1.0,4.2,Q7,nha rieng
+11.5,180.0,,,4.6,Binh_Thanh,dat
+3.45,81.0,3.0,,,Q9,can ho chung cu
+1.1,197.0,,,8.0,Cu_Chi,dat
+6.5,810.0,,,20.0,Binh_Chanh,dat
+1.9,91.9,,,5.0,__missing__,dat
+43.0,90.0,3.0,,,Q6,can ho chung cu
+25.0,1200.0,,,43.0,Cu_Chi,dat
+16.9,417.6,10.0,,9.0,__missing__,nha rieng
+4.25,,,,,__missing__,dat
+17.0,1427.0,,,32.0,__missing__,dat
+0.895,300.0,,,5.0,__missing__,dat
+5.5,348.7,,,,__missing__,dat
+4.18,64.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+15.6,64.0,3.0,3.0,3.2,Q10,nha rieng
+1.92,72.0,2.0,,,Go_Vap,can ho chung cu
+4.2,73.0,2.0,,,Tan_Binh,can ho chung cu
+62.0,,,,13.5,Nha_Be,dat
+15.0,126.0,,,6.0,Binh_Thanh,dat
+0.85,200.0,,,4.0,Binh_Chanh,nha tro
+7.5,51.2,,,3.1,Q8,dat
+84.0,162.0,,7.0,8.0,Q1,nha rieng
+6.99,108.0,,,5.0,TP_Thu_Duc,dat
+17.5,125.0,,,8.0,Tan_Binh,dat
+4.0,82.0,3.0,,,Q7,can ho chung cu
+41.0,180.0,,,24.3,Q12,dat
+81.4,2200.0,,,50.0,Q9,dat
+225.0,70.0,2.0,,,Q12,can ho chung cu
+1.55,347.0,,,6.0,__missing__,dat
+8.5,151.0,12.0,1.0,8.2,Binh_Tan,nha rieng
+1.5,76.0,,,4.0,Q12,dat
+4.7,86.0,,,4.2,Q12,dat
+3.4,36.0,2.0,2.0,3.0,Binh_Tan,nha rieng
+8.5,539.0,,,9.0,Binh_Chanh,dat
+3.62,61.0,2.0,,,Binh_Tan,nha tro
+2.15,52.0,,,4.0,TP_Thu_Duc,dat
+185.0,1200.0,,,30.0,Q3,dat
+6.1,74.0,3.0,,,Q7,can ho chung cu
+4.5,1000.0,,,20.0,Binh_Chanh,dat
+1.16,80.0,,,,Q9,dat
+305.0,54.0,2.0,,,Q8,can ho chung cu
+30.0,220.0,,,8.0,TP_Thu_Duc,dat
+0.85,500.0,,,20.0,Cu_Chi,dat
+54.0,159.0,4.0,,,Q1,can ho chung cu
+7.0,100.0,2.0,,,Q7,can ho chung cu
+16.8,344.0,,,11.0,Binh_Tan,"kho, nha xuong"
+175.0,62.0,2.0,,,Binh_Tan,can ho chung cu
+2.15,70.0,2.0,,,Tan_Phu,can ho chung cu
+3.52,41.0,2.0,2.0,6.0,Q12,nha rieng
+34.0,74.0,2.0,,,Tan_Phu,can ho chung cu
+5.5,695.0,,,17.0,Nha_Be,dat
+1.6,150.9,,,5.0,__missing__,dat
+2.08,56.0,,,4.0,Q9,dat
+23.0,208.0,,,14.0,TP_Thu_Duc,dat
+8.3,94.0,3.0,,,Q4,can ho chung cu
+219.0,2057.0,,,34.0,Tan_Binh,dat
+15.0,117.0,,,,Q9,can ho chung cu
+7.6,140.0,2.0,1.0,5.0,Go_Vap,nha rieng
+95.0,3000.0,,1.0,79.0,Q12,"kho, nha xuong"
+1.45,63.0,2.0,,,Binh_Chanh,can ho chung cu
+6.5,59.0,4.0,3.0,5.0,Go_Vap,nha rieng
+30.0,923.0,,,,__missing__,dat
+3.5,248.0,,,10.0,__missing__,dat
+26.0,61.0,2.0,,,Q12,can ho chung cu
+23.5,115.0,6.0,4.0,7.0,TP_Thu_Duc,nha rieng
+6.7,80.0,4.0,4.0,4.0,Binh_Tan,nha rieng
+7.0,117.6,,,4.2,__missing__,dat
+16.0,67.0,,4.0,4.5,__missing__,dat
+85.0,4100.0,,,25.0,Q12,dat
+2.6,119.0,2.0,12.0,,Binh_Tan,can ho chung cu
+14.0,197.0,3.0,2.0,8.0,Q6,nha rieng
+2.1,111.3,,,5.0,__missing__,dat
+5.6,38.0,2.0,4.0,7.5,Binh_Tan,nha rieng
+33.5,1424.7,,,18.6,Cu_Chi,dat
+59.0,1120.0,,,14.0,TP_Thu_Duc,dat
+22.5,3300.0,,,50.0,Cu_Chi,dat
+35.0,69.0,2.0,,,Tan_Phu,can ho chung cu
+30.0,1026.0,,,20.0,Hoc_Mon,dat
+1.98,160.0,,,5.0,__missing__,dat
+59.0,1670.0,,,19.0,Q12,"kho, nha xuong"
+8.0,93.5,2.0,1.0,9.0,Q8,nha rieng
+1.25,100.2,,,5.0,__missing__,dat
+2.3,37.0,,1.0,,Q7,can ho chung cu
+62.0,465.0,,5.0,16.0,Q7,dat
+254.0,78.0,2.0,,,Binh_Thanh,can ho chung cu
+36.0,67.0,,,,Q9,can ho chung cu
+14.5,956.0,,1.0,14.0,Binh_Chanh,"kho, nha xuong"
+4.5,69.0,,,4.0,Q12,dat
+8.4,96.4,,,,__missing__,dat
+8.0,2082.1,,,20.0,Can_Gio,dat
+2.9,63.4,3.0,,,__missing__,nha rieng
+4.55,565.0,2.0,,,Q7,nha tro
+12.0,4795.0,,,26.0,Cu_Chi,dat
+2.25,100.0,,,5.0,Binh_Chanh,dat
+10.5,313.0,,,,Hoc_Mon,dat
+415.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+22.5,162.0,,,5.5,TP_Thu_Duc,khach san
+70.0,1127.0,,,16.0,TP_Thu_Duc,dat
+2.8,50.0,1.0,,,TP_Thu_Duc,can ho chung cu
+6.68,60.0,4.0,4.0,5.0,Q12,dat
+3.1,64.0,2.0,,,Tan_Binh,can ho chung cu
+14.0,120.0,,,6.0,TP_Thu_Duc,dat
+17.5,2700.0,,,50.0,Cu_Chi,dat
+16.3,200.0,,,,Q7,dat
+5.8,96.0,2.0,,,Tan_Phu,can ho chung cu
+3.8,130.0,,,5.0,Binh_Tan,dat
+3.4,53.0,2.0,,,Tan_Phu,can ho chung cu
+4.6,108.3,,,5.0,__missing__,dat
+2.15,70.0,2.0,,,Go_Vap,can ho chung cu
+264.0,48.0,1.0,,,TP_Thu_Duc,can ho chung cu
+6.4,80.0,,5.0,,Q7,dat
+5.95,55.0,4.0,4.0,5.0,Binh_Tan,nha rieng
+17.2,382.5,,,,Q8,nha rieng
+5.0,72.0,,,4.0,Binh_Tan,dat
+25.5,1605.3,,,26.0,__missing__,dat
+4.6,189.0,,,12.0,__missing__,dat
+6.0,58.0,4.0,2.0,5.0,Tan_Binh,nha rieng
+5.0,186.6,,,,__missing__,nha rieng
+15.0,100.0,6.0,4.0,5.0,Q12,nha rieng
+14.0,59.0,5.0,2.0,4.7,Q3,nha rieng
+11.5,281.0,,,6.5,Q12,"kho, nha xuong"
+4.2,78.0,1.0,4.0,,Binh_Chanh,can ho chung cu
+15.5,4749.0,,,34.0,Cu_Chi,dat
+12.7,85.0,,3.0,8.01,Binh_Thanh,dat
+2.6,59.0,2.0,25.0,,Q9,can ho chung cu
+5.55,70.0,2.0,,,Q7,nha tro
+4.5,773.5,,,,__missing__,dat
+1.05,143.0,,,5.0,Cu_Chi,dat
+16.0,159.6,,,14.0,TP_Thu_Duc,dat
+30.0,2758.0,,,45.0,Hoc_Mon,dat
+899.0,160.0,,,10.0,Q12,"kho, nha xuong"
+4.6,119.0,,,19.0,Hoc_Mon,dat
+17.61,618.0,,2.0,,Can_Gio,dat
+29.0,302.0,,,20.0,Tan_Phu,"kho, nha xuong"
+97.0,1266.0,,,30.0,Hoc_Mon,dat
+18.0,960.0,,1.0,16.0,Hoc_Mon,"kho, nha xuong"
+13.5,269.0,,,8.0,Binh_Chanh,dat
+7.5,100.0,,,5.0,Q9,dat
+10.0,190.0,,,9.2,Q12,"kho, nha xuong"
+695.0,148.0,,4.0,5.26,Q9,dat
+2.88,65.0,2.0,,,Q12,can ho chung cu
+175.0,1559.0,,,,Cu_Chi,"kho, nha xuong"
+3.3,138.0,,,5.0,Can_Gio,dat
+23.0,230.0,,,10.0,Cu_Chi,dat
+1.9,276.0,,,5.0,__missing__,dat
+7.0,791.9,,,10.0,__missing__,dat
+58.0,2935.7,,,,__missing__,dat
+390.0,,,,,Hoc_Mon,dat
+23.0,43.0,2.0,,,Q10,can ho chung cu
+447.0,75.0,,,8.0,Binh_Tan,dat
+12.0,2357.4,,,,__missing__,dat
+3.8,92.0,3.0,,,Binh_Chanh,can ho chung cu
+7.0,270.0,,,8.0,Nha_Be,dat
+11.5,,,,51.0,Hoc_Mon,dat
+7.5,452.0,18.0,1.0,15.0,__missing__,nha tro
+3.3,91.7,,,,Nha_Be,dat
+1.2,138.0,,,5.0,__missing__,dat
+85.0,150.0,3.0,,,Nha_Be,can ho chung cu
+8.5,843.0,,,,__missing__,dat
+1.85,60.0,,,,__missing__,dat
+11.6,118.0,3.0,,,Q7,can ho chung cu
+17.5,160.0,21.0,6.0,8.0,Binh_Tan,nha rieng
+1.45,105.0,,,5.0,Cu_Chi,dat
+5.5,1043.8,,,,__missing__,dat
+105.0,300.0,,10.0,20.0,Binh_Thanh,nha rieng
+0.62,500.0,,,15.0,Cu_Chi,dat
+18.0,1579.0,,,25.5,Cu_Chi,dat
+38.0,,,,70.0,Cu_Chi,dat
+6.5,78.0,2.0,2.0,5.2,Q9,nha rieng
+5.8,71.0,2.0,,,Q9,can ho chung cu
+13.0,621.0,,,8.0,__missing__,dat
+4.68,70.0,2.0,3.0,5.0,__missing__,nha rieng
+8.4,90.0,,,4.5,Q9,dat
+5.9,51.0,3.0,3.0,3.8,Tan_Phu,nha rieng
+679.0,120.0,,,5.0,Q12,dat
+4.5,62.0,,,4.88,Q9,dat
+3.3,103.7,,,,__missing__,dat
+39.0,71.0,2.0,,,Q7,can ho chung cu
+279.0,73.0,2.0,,,Nha_Be,can ho chung cu
+16.5,284.0,5.0,2.0,,Q7,can ho chung cu
+11.5,536.0,,2.0,4.5,Q11,"kho, nha xuong"
+7.0,99.0,2.0,,,Q7,can ho chung cu
+69.0,1128.0,,,27.0,__missing__,dat
+3.5,155.0,3.0,2.0,10.0,Cu_Chi,nha rieng
+13.8,549.0,,,10.0,Cu_Chi,dat
+7.4,135.0,,,7.6,Nha_Be,dat
+6.8,55.0,1.0,,,Binh_Thanh,can ho chung cu
+16.0,2336.9,,,30.0,Hoc_Mon,dat
+7.9,110.0,,,5.0,TP_Thu_Duc,dat
+0.48,180.0,,,5.0,Cu_Chi,dat
+30.0,79.0,10.0,5.0,5.2,Q8,nha rieng
+3.2,50.0,1.0,,,Tan_Binh,can ho chung cu
+46.0,,,,,__missing__,dat
+2.85,250.0,,,10.0,__missing__,dat
+5.7,44.7,2.0,2.0,4.0,Tan_Phu,nha rieng
+252.0,105.0,2.0,,,Q1,can ho chung cu
+4.5,72.0,,,4.5,Q12,dat
+12.5,296.0,3.0,2.0,7.0,__missing__,nha rieng
+8.8,82.0,2.0,1.0,,Q7,nha tro
+5.9,115.0,,,7.4,TP_Thu_Duc,dat
+625.0,77.0,,,4.0,Q9,dat
+6.3,79.0,,,4.6,Q9,dat
+18.0,115.0,3.0,,,Q7,can ho chung cu
+56.0,128.0,,,6.0,Q9,dat
+11.35,80.0,4.0,4.0,20.0,Tan_Phu,nha rieng
+74.36,306.0,,,17.0,TP_Thu_Duc,dat
+6.0,82.0,,,,TP_Thu_Duc,dat
+8.8,82.0,2.0,1.0,,Q7,can ho chung cu
+22.0,150.0,,5.0,4.0,Binh_Thanh,can ho chung cu
+0.85,617.0,,,5.0,__missing__,dat
+255.0,76.0,3.0,,,Q8,can ho chung cu
+2.0,16.0,,3.0,4.0,__missing__,nha rieng
+40.0,420.0,,1.0,9.0,Q12,nha tro
+7.5,108.6,2.0,1.0,4.2,__missing__,nha rieng
+57.0,705.0,6.0,3.0,18.0,TP_Thu_Duc,nha rieng
+11.8,113.0,3.0,3.0,5.0,Binh_Tan,nha rieng
+0.85,600.8,,,,__missing__,dat
+6.7,135.0,,,,__missing__,dat
+3.8,96.0,,,4.8,Nha_Be,dat
+6.5,1125.0,,,20.0,Binh_Chanh,dat
+663.0,88.0,,,,Q7,can ho chung cu
+2.5,74.0,2.0,,,Binh_Thanh,can ho chung cu
+3.6,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+92.0,1270.0,10.0,3.0,21.0,TP_Thu_Duc,nha rieng
+3.0,100.0,,,5.0,Nha_Be,dat
+15.2,260.0,,,6.0,Q12,dat
+2.2,180.0,,,5.0,__missing__,dat
+35.0,70.0,,4.0,3.6,Q1,nha rieng
+3.3,35.0,1.0,,,Q5,can ho chung cu
+7.0,75.0,2.0,,,Q7,can ho chung cu
+3.95,85.0,3.0,,,Q8,can ho chung cu
+17.9,151.0,30.0,,,Go_Vap,can ho chung cu
+22.5,73.0,6.0,4.0,3.9,Binh_Thanh,nha rieng
+1.89,82.0,,,,__missing__,dat
+3.4,258.0,,,5.0,Binh_Chanh,dat
+179.0,75.0,2.0,,,Q6,can ho chung cu
+6.0,96.0,3.0,,,Q7,can ho chung cu
+3.2,229.0,,,5.0,__missing__,dat
+14.5,100.0,,5.0,5.0,__missing__,nha rieng
+3.59,108.0,3.0,2.0,4.45,__missing__,nha rieng
+2.2,150.0,3.0,,5.0,__missing__,nha rieng
+19.0,126.0,,,7.0,Q7,dat
+2.55,214.0,,,,__missing__,dat
+4.47,75.0,,,4.1,Binh_Tan,dat
+19.0,192.0,4.0,1.0,6.3,__missing__,nha rieng
+3.5,70.0,2.0,,,Tan_Phu,can ho chung cu
+3.5,144.8,,,,__missing__,nha rieng
+7.7,89.0,2.0,,,Q7,can ho chung cu
+13.8,100.0,4.0,3.0,7.5,Binh_Tan,nha rieng
+15.9,128.0,,,6.0,Go_Vap,khach san
+6.5,60.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+3.6,67.0,,,6.0,Q9,dat
+3.0,142.1,,,10.0,__missing__,dat
+504.0,,,,,__missing__,dat
+7.5,82.0,,,4.0,Binh_Tan,dat
+11.0,60.0,4.0,3.0,7.0,Binh_Thanh,nha rieng
+350.0,,,14.0,50.0,Go_Vap,dat
+220.0,1000.0,,,29.0,Q2,dat
+5.2,611.7,,,11.0,__missing__,dat
+3.7,307.6,,,,__missing__,dat
+3.6,75.0,2.0,,,Go_Vap,can ho chung cu
+4.1,58.0,,,4.0,Q12,dat
+8.9,98.0,4.0,5.0,7.0,Nha_Be,nha rieng
+1.05,311.0,,,7.0,__missing__,dat
+15.0,2000.0,,,,__missing__,dat
+13.0,500.0,,,10.0,Binh_Chanh,"kho, nha xuong"
+38.6,2975.1,,,50.0,__missing__,dat
+8.6,58.0,3.0,4.0,3.7,Q8,nha rieng
+6.9,280.0,,,9.2,Hoc_Mon,"kho, nha xuong"
+7.1,74.0,7.0,4.0,4.0,Binh_Tan,nha rieng
+1.3,260.0,,,8.1,__missing__,dat
+17.0,220.0,2.0,1.0,6.0,Binh_Tan,nha rieng
+2.48,99.5,,,4.5,__missing__,dat
+55.0,3223.0,,,70.0,Cu_Chi,dat
+2.65,100.0,,,,__missing__,dat
+11.0,2218.0,,,33.0,Binh_Chanh,dat
+3.0,599.9,,,,__missing__,dat
+14.5,115.0,12.0,2.0,4.3,__missing__,nha rieng
+6.6,60.0,4.0,3.0,4.0,Binh_Thanh,nha rieng
+7.5,80.0,,,4.0,Q12,dat
+16.5,1000.0,,1.0,20.0,Hoc_Mon,nha rieng
+10.0,1523.0,,,25.0,__missing__,dat
+1.5,1008.4,,,,__missing__,dat
+4.85,52.5,2.0,2.0,4.0,Tan_Phu,nha rieng
+8.5,111.0,,,5.0,TP_Thu_Duc,dat
+4.68,386.0,,,5.0,__missing__,dat
+14.9,138.0,4.0,3.0,8.0,Q7,nha rieng
+2.7,148.0,,,,__missing__,dat
+41.0,108.0,3.0,,,Tan_Phu,can ho chung cu
+18.0,,,,,Hoc_Mon,dat
+37.0,1500.0,,,20.0,Binh_Tan,dat
+4.5,151.1,,,,__missing__,nha rieng
+7.8,175.0,,1.0,7.0,Q12,"kho, nha xuong"
+4.5,112.0,,,4.5,Q12,dat
+1.95,2045.0,,,41.0,Cu_Chi,dat
+9.4,523.0,,,14.6,Can_Gio,dat
+6.5,80.0,2.0,2.0,4.0,Q9,nha rieng
+260.0,,,,,Nha_Be,"kho, nha xuong"
+4.030000000000001,78.0,2.0,,,Binh_Chanh,can ho chung cu
+0.36,287.9,,,5.0,__missing__,dat
+2.95,100.0,,,5.0,Q9,dat
+77.0,97.0,2.0,,,Q7,can ho chung cu
+2.97,72.0,,,4.0,Q12,dat
+6.2,97.0,3.0,39.0,,Q9,can ho chung cu
+8.3,101.0,3.0,,,Q7,can ho chung cu
+2.7,63.0,1.0,,,Q9,can ho chung cu
+1.95,151.7,,,,__missing__,dat
+72.0,3298.0,,,53.0,Q12,dat
+3.7,68.0,2.0,,,Q7,can ho chung cu
+95.0,280.0,,7.0,14.0,Q10,nha rieng
+25.0,125.0,,,5.0,Binh_Chanh,dat
+25.0,2600.0,,,100.0,Cu_Chi,dat
+1.7,116.0,,,5.0,Cu_Chi,dat
+1.15,80.0,,,6.0,Cu_Chi,dat
+5.6,210.0,,,8.0,Nha_Be,dat
+2.0,40.0,1.0,,,Q9,can ho chung cu
+9.0,,,,,__missing__,dat
+3.95,40.0,4.0,2.0,3.0,Q8,nha rieng
+12.0,561.5,,,,__missing__,dat
+16.5,1200.0,,,,Binh_Chanh,dat
+7.8,55.0,3.0,3.0,5.0,Tan_Phu,nha rieng
+45.0,,,,19.0,__missing__,dat
+3.6,22.0,1.0,2.0,4.2,Phu_Nhuan,nha rieng
+699.0,110.0,,,,Q7,can ho chung cu
+0.475,150.0,,,5.0,Tan_Phu,dat
+11.0,90.0,2.0,,,Q1,can ho chung cu
+3.9,60.0,2.0,,,Tan_Phu,can ho chung cu
+2.05,67.0,2.0,,,Binh_Tan,can ho chung cu
+3.8,86.0,2.0,,,Q6,can ho chung cu
+8.3,50.0,3.0,3.0,4.8,Binh_Thanh,nha rieng
+5.0,100.0,2.0,,5.0,Hoc_Mon,dat
+16.84,129.5,,,12.0,TP_Thu_Duc,dat
+32.0,1355.0,,,10.0,__missing__,dat
+2.5,1252.8,,,,__missing__,dat
+2.8,371.0,,,11.6,__missing__,dat
+5.5,30.0,2.0,2.0,3.5,Q11,nha rieng
+61.5,2365.0,,,61.55,Binh_Tan,dat
+9.3,123.0,,,6.0,__missing__,nha rieng
+7.5,242.1,,,,__missing__,dat
+231.0,56.0,1.0,,,Q1,can ho chung cu
+4.2,80.0,,,5.0,Nha_Be,dat
+4.52,71.0,2.0,,,Tan_Phu,can ho chung cu
+18.0,80.0,,7.0,4.0,Phu_Nhuan,can ho chung cu
+33.0,70.0,2.0,,,Tan_Phu,can ho chung cu
+70.0,1039.0,,,,Q12,dat
+2.2,500.0,,,10.0,Tan_Phu,dat
+2.6,134.5,,,4.5,__missing__,dat
+22.0,4740.0,,,55.0,Cu_Chi,dat
+4.7,84.0,,,4.0,Binh_Tan,dat
+75.0,85.0,3.0,,,Phu_Nhuan,can ho chung cu
+8.5,50.0,4.0,4.0,4.0,Q3,nha rieng
+25.0,200.0,,6.0,8.0,Go_Vap,can ho chung cu
+835.0,150.0,,1.0,,Q12,"kho, nha xuong"
+32.0,300.0,,,12.0,Binh_Tan,dat
+9.4,110.0,5.0,4.0,6.0,Tan_Binh,nha rieng
+5.0,1000.0,,,36.48,__missing__,dat
+250.0,,,,100.0,Q8,"kho, nha xuong"
+1.35,109.6,,,5.0,__missing__,dat
+150.0,,,,,Binh_Chanh,dat
+4.75,54.0,2.0,2.0,4.2,TP_Thu_Duc,nha rieng
+0.565,145.4,,,,__missing__,dat
+33.6,800.0,,,,Can_Gio,dat
+355.0,71.0,2.0,,,Q7,can ho chung cu
+1.8,197.6,,,,__missing__,dat
+0.8,263.0,,,7.0,Cu_Chi,dat
+4.2,84.0,,1.0,6.0,Q12,dat
+4.99,56.0,3.0,3.0,4.0,Q12,nha rieng
+128.0,1050.0,,5.0,20.0,Go_Vap,dat
+46.0,3800.0,,,41.0,Binh_Chanh,dat
+75.0,400.0,,,19.0,Q7,dat
+100.0,3527.0,,,,Hoc_Mon,dat
+13.5,140.0,,2.0,7.0,Q9,nha rieng
+3.0,500.0,,,18.0,Cu_Chi,dat
+72.0,105.0,,,5.0,Q9,dat
+0.895,300.0,,,5.0,__missing__,dat
+1.2,136.5,,,7.0,Cu_Chi,dat
+12.5,80.0,,,30.0,Binh_Thanh,dat
+9.0,96.0,,,4.0,Q9,dat
+7.3,143.0,,,5.0,__missing__,dat
+1.5,96.8,,,5.0,__missing__,dat
+15.0,176.6,,,10.0,TP_Thu_Duc,dat
+15.5,150.0,,9.0,6.0,Q7,dat
+5.5,892.0,,,30.0,__missing__,dat
+515.0,100.0,,,5.0,Binh_Tan,dat
+2.65,93.0,,,,__missing__,dat
+51.0,327.0,5.0,3.0,8.0,Q7,nha rieng
+205.0,160.0,,,4.0,Q6,dat
+12.7,91.0,,,5.1,TP_Thu_Duc,dat
+10.0,75.0,,3.0,5.0,Q9,nha rieng
+120.0,,,,53.0,__missing__,dat
+0.5,250.0,,,5.0,__missing__,dat
+9.9,1103.8,,,,__missing__,dat
+3.59,211.8,2.0,1.0,9.0,__missing__,nha rieng
+0.95,226.2,,,,__missing__,dat
+17.0,78.0,25.0,5.0,,Q1,can ho chung cu
+5.8,41.0,3.0,4.0,5.0,TP_Thu_Duc,nha rieng
+7.35,50.0,4.0,4.0,4.0,Tan_Binh,nha rieng
+487.0,65.0,2.0,,,Q7,can ho chung cu
+4.0,100.0,,,5.0,Q2,dat
+28.79,442.0,,4.0,11.0,Q12,khach san
+2.25,53.0,,3.0,5.0,Q9,dat
+6.22,168.5,,,5.5,Can_Gio,dat
+5.5,188.0,,,5.0,__missing__,dat
+7.99,100.0,,,5.0,Q7,dat
+8.8,93.0,3.0,,,Q4,can ho chung cu
+4.6,79.0,3.0,,,Q7,can ho chung cu
+2.2,62.0,2.0,,,Go_Vap,can ho chung cu
+5.4,66.8,22.0,,4.0,TP_Thu_Duc,nha rieng
+6.5,815.0,,,21.0,__missing__,dat
+2.65,100.0,,,5.0,Q9,dat
+4.72,70.0,1.0,,,Q9,can ho chung cu
+2.3,162.7,,,,__missing__,dat
+34.0,255.0,,8.0,10.0,Q12,khach san
+79.0,480.0,,,15.0,TP_Thu_Duc,dat
+15.4,109.0,3.0,,,Q7,can ho chung cu
+1.79,79.5,,,,__missing__,dat
+5.05,88.6,2.0,2.0,5.0,__missing__,nha rieng
+5.5,72.0,2.0,,,Tan_Binh,can ho chung cu
+4.9,160.0,,,7.0,Nha_Be,dat
+3.5,124.0,,,5.0,__missing__,dat
+2.95,181.2,,,,__missing__,dat
+3.75,160.0,,,8.0,TP_Thu_Duc,dat
+31.5,119.0,5.0,4.0,6.3,Q1,nha rieng
+6.6,72.0,,,4.0,TP_Thu_Duc,dat
+5.0,3125.0,,,100.0,__missing__,nha rieng
+11.0,108.0,4.0,3.0,6.0,Q9,nha rieng
+52.0,830.0,,,22.0,Q7,dat
+110.0,700.0,,,,Q6,dat
+14.5,180.0,3.0,,,Q7,nha tro
+2.2,51.0,1.0,,,Q12,can ho chung cu
+6.0,118.8,3.0,2.0,5.0,__missing__,nha rieng
+6.3,100.0,,,5.0,Q12,dat
+1.99,50.0,,,4.7,Q9,dat
+2.5,2412.0,,,61.0,Cu_Chi,dat
+4.15,61.0,,,4.0,Q9,dat
+5.5,107.0,,,5.0,Hoc_Mon,dat
+0.68,733.0,,,,__missing__,dat
+14.5,325.0,,,,__missing__,dat
+29.0,,,,55.0,__missing__,dat
+7.9,56.0,5.0,3.0,4.0,Q10,nha rieng
+3.4,1496.0,,,35.0,__missing__,dat
+10.5,162.0,3.0,,4.1,TP_Thu_Duc,dat
+2.38,108.0,,,6.0,__missing__,dat
+80.0,1307.0,,,39.0,Nha_Be,dat
+15.5,272.0,,,7.0,Go_Vap,dat
+43.2,961.0,,,20.8,Can_Gio,dat
+3.25,65.0,2.0,,,Q12,can ho chung cu
+4.0,65.0,2.0,1.5,,Tan_Phu,can ho chung cu
+2.3,126.0,,,5.0,__missing__,dat
+12.5,84.0,,,,__missing__,dat
+18.4,115.0,,5.0,6.0,Q2,dat
+2.6,131.6,,,5.0,__missing__,dat
+1.8,58.0,2.0,,,Q12,can ho chung cu
+6.8,108.0,,,4.5,__missing__,dat
+4.6,1196.6,,,19.0,__missing__,dat
+0.78,76.0,,,,Can_Gio,dat
+2.1,100.0,,,,__missing__,dat
+24.0,3005.0,,,1.0,Nha_Be,dat
+0.95,310.0,,,12.0,Cu_Chi,dat
+41.0,72.0,2.0,39.0,,Q9,can ho chung cu
+2.45,59.0,2.0,,,Binh_Chanh,can ho chung cu
+5.2,86.0,,,4.0,Q9,dat
+2.95,54.0,1.0,,,Q9,can ho chung cu
+17.0,575.6,,,16.0,__missing__,dat
+3.6,68.0,,,,__missing__,nha rieng
+695.0,56.0,,4.0,3.92,Go_Vap,dat
+18.0,742.0,,,10.0,__missing__,dat
+2.4,278.0,,,7.0,__missing__,dat
+7.9,60.0,4.0,4.0,4.0,Tan_Binh,nha rieng
+3.29,1240.0,,,25.0,Tan_Binh,"kho, nha xuong"
+1.5,300.0,,,6.0,Cu_Chi,dat
+22.8,127.0,,,6.0,TP_Thu_Duc,dat
+43.0,120.0,,7.0,30.0,Q10,nha rieng
+3.1,200.0,,,10.0,__missing__,dat
+1.6,70.0,,,5.0,__missing__,dat
+18.3,116.0,,,6.8,TP_Thu_Duc,dat
+0.39,50.0,,,5.0,Cu_Chi,dat
+117.0,62.0,4.0,,,Q1,can ho chung cu
+25.5,256.0,,,10.0,Q7,dat
+4.3,32.0,2.0,2.0,2.5,Q11,nha rieng
+5.97,263.0,,,7.0,__missing__,dat
+5.2,1700.0,,,18.0,__missing__,dat
+8.6,73.0,,,4.0,Q9,dat
+2.35,47.0,1.0,,,Q9,can ho chung cu
+1.83,82.0,2.0,,,Q6,can ho chung cu
+2.19,80.0,,,5.0,Q9,dat
+6.5,608.0,2.0,,10.0,Nha_Be,dat
+5.5,216.4,,,,__missing__,dat
+4.9,50.0,,,5.0,TP_Thu_Duc,dat
+6.45,112.0,2.0,3.0,4.2,TP_Thu_Duc,nha rieng
+2.8,89.0,3.0,,,Binh_Chanh,can ho chung cu
+60.0,680.0,,,17.0,Q12,dat
+1.59,160.0,,,5.0,__missing__,dat
+18.0,250.0,,3.0,10.0,Q12,nha tro
+13.3,100.0,4.0,4.0,5.0,__missing__,nha rieng
+10.0,,,,,__missing__,dat
+2.2,73.0,,2.0,6.0,Q12,can ho chung cu
+28.0,235.0,,6.0,7.9,TP_Thu_Duc,dat
+45.0,1100.0,,,25.0,Q12,dat
+5.9,110.0,4.0,2.0,5.4,__missing__,nha rieng
+19.2,355.1,,,11.6,Nha_Be,dat
+15.0,700.0,,,,Can_Gio,dat
+47.0,,,,,__missing__,dat
+9.9,169.0,,,7.7,Q12,dat
+15.0,143.0,3.0,,,Q7,can ho chung cu
+5.2,50.0,,,4.0,TP_Thu_Duc,dat
+1.6,153.0,,,4.5,Cu_Chi,dat
+2.4,70.0,2.0,,,Q9,can ho chung cu
+862.0,100.0,3.0,,,Q9,can ho chung cu
+75.0,2620.0,,,45.0,Hoc_Mon,dat
+15.0,109.0,3.0,,,Q7,can ho chung cu
+8.5,232.0,,,6.3,__missing__,dat
+5.5,1987.0,,,33.0,__missing__,dat
+0.8,144.6,,,,__missing__,dat
+30.0,410.0,,,17.0,TP_Thu_Duc,dat
+19.0,387.0,12.0,2.0,6.87,Cu_Chi,nha rieng
+2.05,78.0,2.0,1.0,5.4,__missing__,nha rieng
+14.5,2638.0,,,24.0,__missing__,dat
+3.05,309.0,,,8.0,Cu_Chi,dat
+5.0,263.0,,,8.0,Cu_Chi,dat
+6.2,296.6,,,9.66,Cu_Chi,dat
+50.0,3500.0,,,50.0,Binh_Thanh,dat
+6.3,105.0,,,4.0,Q7,dat
+3.5,100.0,,,5.0,Hoc_Mon,dat
+5.5,64.0,,,4.0,TP_Thu_Duc,dat
+6.85,64.0,3.0,3.0,4.0,Binh_Tan,nha rieng
+0.495,165.7,,,,__missing__,dat
+5.3,364.0,,,12.0,__missing__,dat
+323.0,54.0,2.0,,,Q9,can ho chung cu
+11.0,105.0,,,5.0,Q9,dat
+15.0,150.0,,,8.0,TP_Thu_Duc,dat
+36.0,80.0,,,5.4,Q9,dat
+4.1,134.0,,,6.3,Nha_Be,dat
+3.0,111.0,,,5.0,__missing__,dat
+18.0,240.0,,4.0,12.0,Q12,nha rieng
+0.48,320.0,,,,__missing__,dat
+12.0,293.0,4.0,2.0,15.0,__missing__,nha rieng
+1.9,1035.4,,,14.8,__missing__,dat
+11.5,200.0,,,,Binh_Tan,dat
+130.0,3620.0,,,54.0,Q12,dat
+2.5,206.0,,,10.0,__missing__,dat
+6.2,625.0,,,15.0,Cu_Chi,dat
+2.2,300.0,,,6.0,Cu_Chi,dat
+1.6,230.0,,,8.0,__missing__,dat
+0.72,109.0,,,6.0,Cu_Chi,dat
+37.0,91.0,3.0,,,Nha_Be,can ho chung cu
+18.5,248.0,,,12.6,Q9,dat
+8.5,71.0,2.0,,,Q4,can ho chung cu
+4.3,352.0,,,6.0,Cu_Chi,dat
+233.0,51.0,2.0,,,Q8,can ho chung cu
+17.5,86.0,5.0,5.0,5.0,Tan_Binh,nha rieng
+1.58,212.0,,,7.0,__missing__,dat
+1.1,83.0,,,5.0,Cu_Chi,dat
+3.75,83.0,3.0,3.0,4.5,__missing__,nha rieng
+19.9,491.0,4.0,,,Q7,can ho chung cu
+2.85,70.0,2.0,1.0,,Q11,nha tro
+13.5,100.0,4.0,2.0,4.0,Tan_Phu,nha rieng
+7.79,332.0,,,,Q12,dat
+5.5,779.0,5.0,4.0,20.0,__missing__,dat
+48.0,200.0,,,10.0,TP_Thu_Duc,dat
+4.65,50.0,1.0,,,Q10,can ho chung cu
+3.48,89.1,,,,__missing__,dat
+5.65,100.0,,4.0,5.0,Binh_Chanh,dat
+6.5,430.0,,,21.0,__missing__,dat
+4.05,78.0,2.0,,,Binh_Chanh,can ho chung cu
+1.55,149.9,,,5.0,__missing__,dat
+6.0,1069.8,,,12.0,__missing__,nha rieng
+5.65,74.0,2.0,,,Q9,can ho chung cu
+56.0,61.0,,,5.0,TP_Thu_Duc,dat
+27.0,50.0,1.0,,,Tan_Binh,can ho chung cu
+4.1,69.0,2.0,,,Binh_Tan,can ho chung cu
+0.89,175.0,,,5.0,__missing__,dat
+4.4,80.0,2.0,,1.0,TP_Thu_Duc,can ho chung cu
+8.9,50.0,4.0,4.0,4.0,Tan_Binh,nha rieng
+4.3,95.0,,,5.0,Q12,dat
+1.89,82.0,,,,__missing__,dat
+29.6,,,,,__missing__,dat
+4.6,70.0,2.0,,,Q9,can ho chung cu
+37.88,400.0,,10.0,8.0,Binh_Thanh,dat
+15.8,220.0,,,6.5,TP_Thu_Duc,dat
+1.92,99.0,,,,__missing__,dat
+56.0,1700.0,,1.0,21.2,Q12,"kho, nha xuong"
+75.0,1000.0,,,26.0,TP_Thu_Duc,dat
+3.8,88.0,3.0,2.0,5.0,__missing__,nha rieng
+33.0,55.0,,5.0,5.0,Q12,dat
+5.9,113.0,2.0,1.0,10.0,TP_Thu_Duc,nha rieng
+4.0,100.0,,,10.0,Nha_Be,dat
+6.0,39.0,3.0,5.0,4.0,Q11,nha rieng
+6.9,60.0,4.0,4.0,4.0,Binh_Tan,nha rieng
+19.0,412.0,3.0,2.0,7.5,Nha_Be,"kho, nha xuong"
+5.6,76.0,2.0,22.0,57.0,Q1,can ho chung cu
+15.0,,,,50.0,Cu_Chi,dat
+92.65,712.0,,,25.0,__missing__,dat
+2.1,68.0,2.0,,,Binh_Thanh,can ho chung cu
+16.5,338.0,,,9.0,Q12,"kho, nha xuong"
+5.0,,,,90.0,Binh_Chanh,dat
+49.0,,,,,__missing__,dat
+2.1,60.0,,,,__missing__,dat
+7.5,90.0,,7.0,,TP_Thu_Duc,dat
+9.9,236.0,,,8.0,__missing__,"kho, nha xuong"
+25.0,1212.0,,,,__missing__,dat
+10.9,75.0,4.0,4.0,4.1,Q11,nha rieng
+11.4,155.0,3.0,,,Q7,can ho chung cu
+4.0,1015.0,2.0,1.0,23.0,Cu_Chi,nha rieng
+6.65,104.0,3.0,,,Tan_Phu,can ho chung cu
+6.8,78.0,,,6.0,TP_Thu_Duc,dat
+172.0,68.0,2.0,,,Go_Vap,can ho chung cu
+16.0,260.0,,,13.5,Tan_Phu,"kho, nha xuong"
+4.0,1594.9,,,,__missing__,dat
+2.1,386.0,,,10.0,__missing__,dat
+8.3,397.6,,,,__missing__,dat
+9.6,60.0,,21.0,4.0,Tan_Phu,nha rieng
+8.9,259.9,3.0,,7.5,__missing__,dat
+5.8,150.0,,,5.0,__missing__,dat
+5.65,65.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+4.5,95.0,,,5.0,__missing__,dat
+0.68,299.9,,,,__missing__,dat
+8.2,50.0,3.0,3.0,4.2,Q8,nha rieng
+8.0,232.0,,,6.4,Hoc_Mon,dat
+7.99,110.0,3.0,2.0,5.5,TP_Thu_Duc,dat
+1.7,714.5,,,15.0,__missing__,dat
+1.6,544.0,,,12.0,__missing__,dat
+1.35,966.4,,,20.0,__missing__,dat
+43.0,1262.0,,,,TP_Thu_Duc,nha rieng
+3.05,74.0,3.0,,7.0,Binh_Thanh,can ho chung cu
+40.1,4010.0,,,,Binh_Chanh,"kho, nha xuong"
+27.0,140.0,,3.0,7.0,Q7,dat
+5.5,55.0,1.0,35.0,,TP_Thu_Duc,can ho chung cu
+2.8,143.8,,,5.0,__missing__,dat
+6.7,129.0,,,7.0,Q12,dat
+1.8,164.7,,,6.0,__missing__,nha rieng
+35.0,1500.0,6.0,2.0,8.0,Hoc_Mon,dat
+3.0,3576.4,,,22.0,__missing__,dat
+122.0,,,,,__missing__,dat
+0.99,1116.1,,,,__missing__,dat
+2.6,56.0,,,4.0,Q9,dat
+12.7,85.0,,,8.0,Binh_Thanh,dat
+47.0,,,,,Hoc_Mon,"kho, nha xuong"
+103.0,118.0,3.0,16.0,,Q7,can ho chung cu
+8.8,135.0,3.0,,,Tan_Phu,can ho chung cu
+0.32,142.7,,,5.0,__missing__,dat
+5.68,68.0,,3.0,4.0,Nha_Be,dat
+10.0,118.0,3.0,,,Q7,can ho chung cu
+115.0,270.0,9.0,4.0,18.0,Q7,nha rieng
+2.39,53.5,,,5.0,TP_Thu_Duc,dat
+1.15,63.0,2.0,,,Q9,can ho chung cu
+1.65,71.0,2.0,,,TP_Thu_Duc,can ho chung cu
+135.0,80.0,,,5.0,Q9,dat
+12.0,625.1,,,20.0,__missing__,dat
+1.3,99.6,,,5.0,__missing__,dat
+6.5,102.0,3.0,,,Q7,can ho chung cu
+5.6,60.0,4.0,4.0,4.0,Binh_Tan,nha rieng
+2.43,55.0,2.0,,,TP_Thu_Duc,can ho chung cu
+120.0,750.0,,,18.0,Q12,dat
+105.0,89.0,2.0,,,Q4,can ho chung cu
+309.0,51.0,1.0,,,Q9,can ho chung cu
+14.5,77.5,3.0,1.0,4.0,Tan_Phu,nha rieng
+9.0,105.0,,,5.0,Q9,dat
+11.0,1265.0,,,25.0,__missing__,dat
+7.5,72.0,,,6.0,TP_Thu_Duc,dat
+3.2,90.6,,,,__missing__,dat
+20.0,180.0,,,9.0,Q12,"kho, nha xuong"
+14.0,108.0,3.0,,,Q1,can ho chung cu
+43.0,85.0,2.0,1.0,,Tan_Phu,can ho chung cu
+3.0,68.0,2.0,,,Binh_Chanh,can ho chung cu
+1.2,80.0,,,,Cu_Chi,dat
+215.0,47.0,1.0,,,Q9,can ho chung cu
+9.5,969.0,,,36.0,Tan_Binh,dat
+2.35,116.5,,,7.5,__missing__,dat
+6.5,94.0,,,6.5,Q9,dat
+2.95,82.0,,,5.0,Nha_Be,dat
+135.0,68.0,2.0,,,Q1,can ho chung cu
+2.7,237.6,,,10.0,__missing__,dat
+3.9,38.0,,2.0,4.2,Q7,nha rieng
+16.0,1493.0,,,7.0,Binh_Chanh,dat
+2.25,148.0,,,6.2,Q12,dat
+38.0,71.0,2.0,,,Q7,can ho chung cu
+8.4,69.0,3.0,3.0,4.0,Tan_Phu,nha rieng
+7.8,112.0,,,5.0,__missing__,dat
+16.0,136.0,3.0,,,Q7,can ho chung cu
+3.9,95.0,2.0,,,Q7,can ho chung cu
+31.5,628.0,,,9.0,Hoc_Mon,"kho, nha xuong"
+8.4,1204.0,,,15.0,__missing__,dat
+0.85,200.0,,,10.0,Cu_Chi,dat
+20.0,200.0,,,8.0,Binh_Thanh,dat
+19.9,1030.0,,,25.0,Q12,dat
+15.5,300.0,,,10.0,Hoc_Mon,"kho, nha xuong"
+187.0,70.0,2.0,,,Q6,can ho chung cu
+8.0,,,,80.0,__missing__,dat
+6.0,805.0,,,15.0,__missing__,dat
+4.79,133.0,,,8.0,__missing__,dat
+14.5,253.0,,,20.0,Cu_Chi,dat
+39.0,67.0,,,,Q9,can ho chung cu
+12.0,283.0,3.0,2.0,5.0,TP_Thu_Duc,nha rieng
+25.0,4800.0,,,,Binh_Chanh,dat
+3.0,24.8,2.0,3.0,3.5,Binh_Tan,nha rieng
+20.0,1300.0,,,18.0,Binh_Chanh,dat
+0.52,259.9,,,,__missing__,dat
+41.12,160.0,,6.0,8.0,TP_Thu_Duc,dat
+10.2,,,,,__missing__,dat
+5.65,82.0,2.0,,,Q9,can ho chung cu
+0.93,2616.0,,,,Cu_Chi,dat
+35.0,150.0,,11.0,7.5,TP_Thu_Duc,nha rieng
+1.2,100.0,,,5.0,__missing__,dat
+0.98,45.0,1.0,9.0,4.0,__missing__,nha rieng
+6.5,227.0,,,10.0,Hoc_Mon,nha rieng
+2.65,93.4,,,4.0,__missing__,dat
+6.9,106.0,3.0,,19.0,TP_Thu_Duc,can ho chung cu
+16.0,110.0,3.0,24.0,,Q7,can ho chung cu
+1.75,68.0,2.0,,,Binh_Chanh,can ho chung cu
+3.25,60.0,,,4.0,Q9,dat
+75.0,50.0,,5.0,4.6,Binh_Thanh,dat
+4.0,64.0,,,4.0,Q9,dat
+6.8,114.0,,,,Q7,can ho chung cu
+48.0,4403.4,,,60.0,Binh_Chanh,dat
+13.0,110.0,3.0,3.0,5.0,Q9,nha rieng
+3.8,69.0,2.0,,,Q7,can ho chung cu
+165.0,146.0,3.0,,,Q7,can ho chung cu
+2.7,82.0,,,,__missing__,dat
+4.88,132.0,,,7.0,Nha_Be,dat
+17.1,81.0,3.0,4.0,4.0,Tan_Phu,nha rieng
+1.1,466.8,,,,__missing__,dat
+14.99,76.0,4.0,3.0,4.0,Q9,nha rieng
+2.9,97.0,3.0,1.0,7.86,__missing__,nha rieng
+23.0,215.0,,,,__missing__,dat
+3.0,262.5,,,,__missing__,dat
+66.0,101.0,,,4.0,TP_Thu_Duc,dat
+68.0,1800.0,,,15.0,Q12,dat
+67.0,1419.0,,,43.0,Q12,dat
+7.8,373.0,,,6.0,__missing__,dat
+23.9,166.0,3.0,,,Binh_Thanh,can ho chung cu
+108.0,100.0,,,5.0,Q7,dat
+0.85,83.0,,,5.0,__missing__,dat
+11.5,180.0,,,4.6,Binh_Thanh,dat
+32.0,1600.0,,,16.0,Cu_Chi,dat
+110.0,2400.0,,,24.0,Binh_Tan,"kho, nha xuong"
+43.0,704.0,,,14.0,TP_Thu_Duc,dat
+1.75,101.7,,,5.0,__missing__,dat
+0.828,280.0,,,5.0,__missing__,dat
+2.7,211.0,,,6.0,Cu_Chi,dat
+6.6,826.5,,,,__missing__,dat
+7.5,90.0,,,,__missing__,nha rieng
+1.94,67.0,2.0,,,Q6,can ho chung cu
+3.5,120.0,,,5.0,Nha_Be,dat
+115.0,62.0,2.0,23.0,,Binh_Chanh,can ho chung cu
+135.0,1404.9,,,16.0,Hoc_Mon,dat
+1.65,315.0,,,10.0,__missing__,dat
+7.0,273.0,,,11.0,Q9,dat
+92.0,178.0,,,10.5,Q12,dat
+2.4,1400.0,,,30.0,Cu_Chi,"kho, nha xuong"
+30.0,660.0,,,20.0,Q12,"kho, nha xuong"
+9.5,259.3,,,9.19,__missing__,nha rieng
+2.0,213.3,,,5.0,__missing__,dat
+2.5,346.0,,,41.0,Binh_Chanh,dat
+8.3,198.0,,,6.03,Q12,"kho, nha xuong"
+97.0,86.0,2.0,,3.0,Q10,can ho chung cu
+62.0,97.0,3.0,,,Q9,can ho chung cu
+16.0,492.0,,,12.0,Hoc_Mon,dat
+178.0,66.0,2.0,,,Q4,can ho chung cu
+15.0,584.0,,,10.0,Cu_Chi,dat
+5.1,179.0,,,5.0,__missing__,dat
+0.575,177.2,,,,__missing__,dat
+2.7,430.0,,,,__missing__,dat
+3.0,68.0,2.0,,,TP_Thu_Duc,can ho chung cu
+70.0,375.0,,2.0,18.5,Binh_Thanh,dat
+15.8,100.0,5.0,5.0,,__missing__,nha rieng
+3.69,80.0,3.0,,,Q12,can ho chung cu
+3.9,41.0,,,4.0,Tan_Phu,nha rieng
+4.0,436.0,,,13.0,__missing__,dat
+2.26,45.0,,,,Q7,can ho chung cu
+18.0,1400.0,,,20.0,Binh_Chanh,"kho, nha xuong"
+11.0,115.0,,,4.4,__missing__,dat
+7.45,64.0,5.0,4.0,4.0,Q7,nha rieng
+4.85,95.0,3.0,,,Binh_Chanh,can ho chung cu
+61.0,76.0,2.0,,,Q10,can ho chung cu
+84.0,84.0,2.0,,,Q4,can ho chung cu
+391.0,58.0,2.0,,,Q9,can ho chung cu
+34.5,400.0,,,20.0,TP_Thu_Duc,dat
+11.0,150.0,,,8.3,TP_Thu_Duc,dat
+3.45,778.0,,,19.0,__missing__,dat
+2.65,65.0,1.0,,,Q9,can ho chung cu
+15.2,438.0,,,12.0,Hoc_Mon,"kho, nha xuong"
+9.5,208.0,,,12.0,Binh_Chanh,dat
+4.3,110.0,,,7.0,Nha_Be,dat
+1.49,147.7,,,,__missing__,dat
+2.99,45.0,1.0,1.0,4.0,Q12,nha rieng
+3.95,69.0,2.0,2.0,4.0,Tan_Binh,dat
+7.0,852.7,,,20.0,Hoc_Mon,dat
+8.99,54.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+8.0,545.0,,,15.0,Cu_Chi,dat
+6.3,73.0,2.0,,,Binh_Thanh,can ho chung cu
+4.5,1558.0,,,20.0,__missing__,dat
+14.6,146.0,3.0,,,Q7,can ho chung cu
+7.0,137.0,1.0,1.0,9.0,Q5,nha rieng
+6.3,175.0,,6.0,7.0,Binh_Tan,dat
+7.8,102.0,,,5.0,Q9,dat
+4.0,68.0,1.0,,60.0,Binh_Tan,can ho chung cu
+0.9,320.0,,,10.0,Cu_Chi,dat
+6.3,108.0,5.0,4.0,12.0,Q9,nha rieng
+26.5,160.0,,6.0,,Go_Vap,can ho chung cu
+32.0,177.0,,,8.0,Tan_Phu,dat
+61.0,74.0,,,4.0,TP_Thu_Duc,dat
+3.2,63.0,3.0,1.0,4.0,__missing__,nha rieng
+25.0,332.0,5.0,,,Q9,can ho chung cu
+0.45,40.0,,,4.0,Binh_Chanh,dat
+7.6,86.0,,,5.0,TP_Thu_Duc,dat
+8.2,600.0,,,32.0,Binh_Chanh,dat
+125.0,711.0,,,11.0,__missing__,dat
+12.5,930.0,,,,__missing__,dat
+4.9,74.0,2.0,,,Q7,can ho chung cu
+13.79,144.0,5.0,3.0,9.2,Q12,nha rieng
+85.0,170.0,,,5.0,Q9,dat
+3.7,575.0,,,10.0,Cu_Chi,dat
+8.0,142.0,,,7.5,__missing__,dat
+15.0,26.0,,,,Q9,can ho chung cu
+5.9,56.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+4.98,40.0,2.0,2.0,4.0,Q7,nha rieng
+3.8,66.0,3.0,,8.0,Binh_Thanh,can ho chung cu
+19.0,,,,,__missing__,dat
+3.5,60.0,,,4.0,Q9,dat
+7.5,1000.0,,,20.0,__missing__,dat
+39.68,,,,,__missing__,dat
+27.8,426.4,3.0,2.0,17.0,__missing__,nha rieng
+0.38,209.2,,,,__missing__,dat
+120.0,,,,42.0,Binh_Chanh,dat
+2.8,128.0,3.0,,4.0,__missing__,nha rieng
+13.4,220.0,1.0,1.0,6.5,TP_Thu_Duc,nha rieng
+6.2,115.0,,,7.5,TP_Thu_Duc,dat
+4.0,100.6,,,5.0,__missing__,dat
+2.65,60.5,2.0,,4.0,__missing__,nha rieng
+315.0,67.0,2.0,,,Q7,can ho chung cu
+25.0,900.0,,,15.0,Binh_Chanh,dat
+45.0,1337.0,,,30.0,TP_Thu_Duc,dat
+6.05,96.0,,,6.0,Q12,dat
+4.35,70.0,1.0,,,Nha_Be,can ho chung cu
+4.9,1006.8,,,12.0,__missing__,dat
+12.9,92.0,,7.0,4.0,Go_Vap,dat
+8.7,112.0,,,5.0,TP_Thu_Duc,dat
+1.89,72.0,2.0,,,Q5,can ho chung cu
+43.0,55.0,,,4.0,Q12,dat
+2.93,78.0,3.0,,,Binh_Tan,can ho chung cu
+4.0,79.0,,1.0,73.0,Go_Vap,dat
+1.85,60.0,,3.0,4.0,Q9,dat
+3.5,1423.5,,,,Can_Gio,dat
+130.0,300.0,,,15.0,TP_Thu_Duc,nha rieng
+2.85,129.9,,,6.0,__missing__,dat
+395.0,68.0,2.0,,,Binh_Tan,can ho chung cu
+3.45,52.0,,,4.5,Q9,dat
+1.45,81.4,,,5.0,__missing__,dat
+4.45,96.0,,,,Q7,can ho chung cu
+16.5,130.0,3.0,,,Q7,can ho chung cu
+2.68,105.0,,,,__missing__,dat
+32.0,980.0,,,28.0,Q12,dat
+5.2,528.0,,,10.0,__missing__,dat
+9.6,114.0,3.0,,,Q7,can ho chung cu
+11.5,178.0,,,4.6,Binh_Thanh,dat
+120.0,,,,,Binh_Chanh,dat
+7.9,1135.0,2.0,1.0,12.0,Tan_Binh,"kho, nha xuong"
+3.59,4190.9,,,,__missing__,dat
+6.25,2500.0,,,52.0,Hoc_Mon,dat
+11.5,768.0,,,30.0,Cu_Chi,dat
+5.3,90.0,3.0,,,Q7,can ho chung cu
+4.35,76.0,,,4.0,Q12,dat
+14.0,223.0,,,10.0,TP_Thu_Duc,dat
+4.25,76.0,,,4.0,Nha_Be,dat
+2.23,100.0,,,8.0,Binh_Chanh,dat
+3.0,90.0,,,8.0,Nha_Be,dat
+15.0,332.7,,,14.0,Hoc_Mon,dat
+6.0,56.0,1.0,,,Q7,can ho chung cu
+6.7,52.9,,3.0,5.0,TP_Thu_Duc,nha rieng
+5.7,2700.0,,,32.0,Binh_Chanh,dat
+2.5,268.6,,,8.3,__missing__,dat
+2.4,85.0,2.0,,5.0,Binh_Chanh,can ho chung cu
+12.8,137.0,3.0,,,Q7,can ho chung cu
+4.2,103.3,,,5.0,__missing__,dat
+17.0,104.0,,,2.0,Can_Gio,dat
+465.0,1300.0,3.0,3.0,17.0,Q12,"kho, nha xuong"
+11.0,87.0,,,4.5,__missing__,dat
+17.0,1394.0,,,13.0,Cu_Chi,dat
+7.9,147.0,3.0,,,TP_Thu_Duc,can ho chung cu
+1.85,62.0,2.0,,,Binh_Tan,can ho chung cu
+22.6,189.0,,,,__missing__,dat
+2.37,67.7,,,,__missing__,dat
+32.0,243.0,,,12.8,Q7,dat
+4.79,83.9,,,,__missing__,nha rieng
+3.2,756.5,,,,__missing__,dat
+4.4,81.0,3.0,6.0,,Q9,can ho chung cu
+1.86,69.0,2.0,,,Go_Vap,can ho chung cu
+219.0,2057.0,,,34.0,Tan_Binh,dat
+55.0,80.0,2.0,,30.0,Q9,can ho chung cu
+186.0,68.0,2.0,,,Q7,can ho chung cu
+7.5,51.0,4.0,4.0,4.2,Tan_Phu,nha rieng
+1.6,1100.0,,,20.0,__missing__,dat
+3.4,59.0,1.0,,,Q9,can ho chung cu
+17.0,4241.0,,,19.0,__missing__,dat
+2.6,81.0,,,5.5,Nha_Be,dat
+5.3,80.0,2.0,,,Q10,can ho chung cu
+4.5,73.0,2.0,,,Q7,can ho chung cu
+4.7,850.0,,,10.0,__missing__,dat
+2.8,1089.8,,,,__missing__,dat
+4.8,290.0,8.0,1.0,17.0,__missing__,nha rieng
+1.28,520.2,,,,__missing__,dat
+3.4,80.0,,,4.0,Q12,dat
+3.4,87.0,,5.0,4.5,Q12,dat
+23.0,119.0,4.0,4.0,8.0,Q2,nha rieng
+49.0,450.0,,8.0,9.0,Binh_Thanh,dat
+140.0,3886.0,,1.0,49.5,Q12,"kho, nha xuong"
+9.5,100.0,,,20.0,TP_Thu_Duc,dat
+5.7,258.0,,,6.0,__missing__,dat
+46.5,2128.6,,,8.0,Cu_Chi,dat
+6.0,92.0,5.0,2.0,5.0,Go_Vap,nha tro
+20.7,110.0,3.0,,,Q1,can ho chung cu
+3.0,100.0,,,5.0,__missing__,dat
+4.47,75.0,,,8.0,Binh_Tan,dat
+9.0,90.0,2.0,,,Q10,can ho chung cu
+27.0,176.0,,,7.0,Q2,dat
+35.0,433.9,,,11.0,__missing__,dat
+2.95,82.0,,,5.0,Nha_Be,dat
+11.8,78.0,2.0,,,Q1,can ho chung cu
+7.6,71.0,,,,Q4,can ho chung cu
+6.5,173.0,,,8.0,Hoc_Mon,dat
+7.0,69.0,,,9.0,Binh_Thanh,dat
+2.9,60.0,,,4.6,Q1,dat
+5.83,97.0,3.0,,,Q9,can ho chung cu
+1.5,1122.4,,,,__missing__,dat
+62.0,77.0,3.0,,,Q7,can ho chung cu
+170.0,3727.7,,,70.0,__missing__,dat
+15.8,111.0,6.0,5.0,5.1,Tan_Phu,nha rieng
+110.0,799.6,,,20.0,__missing__,dat
+3.1,105.0,,,,__missing__,dat
+18.0,3362.0,,,61.0,Cu_Chi,dat
+0.31,196.5,,,,__missing__,dat
+60.0,,,,10.0,Q9,"kho, nha xuong"
+8.6,74.0,2.0,,1.0,Binh_Thanh,can ho chung cu
+4.1,138.0,,,5.0,Binh_Chanh,dat
+3.0,90.0,2.0,,,Q7,can ho chung cu
+9.85,289.5,,,5.0,__missing__,dat
+3.65,73.0,2.0,,,Q7,can ho chung cu
+89.0,1045.0,,,19.0,TP_Thu_Duc,dat
+385.0,68.0,,,4.0,Q12,dat
+83.0,150.0,,,,Q7,can ho chung cu
+0.985,225.0,,,5.0,__missing__,dat
+6.5,68.9,3.0,2.0,6.0,Q2,nha rieng
+28.5,,,,,Cu_Chi,dat
+2.5,292.0,,,12.0,__missing__,dat
+54.0,80.0,,3.0,5.4,Q9,dat
+21.6,120.0,,,6.0,TP_Thu_Duc,dat
+190.0,4200.0,,,45.0,Q12,dat
+8.75,91.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+29.0,72.0,2.0,,,TP_Thu_Duc,can ho chung cu
+1.68,68.0,2.0,,,Binh_Thanh,can ho chung cu
+3.6,60.0,2.0,,,Binh_Chanh,can ho chung cu
+2.7,187.0,,,5.0,Cu_Chi,dat
+11.0,166.0,,2.0,8.8,Q9,nha tro
+7.39,135.0,,,5.0,Go_Vap,dat
+0.55,180.0,,,5.0,__missing__,dat
+3.05,100.0,,,5.0,__missing__,dat
+17.9,936.0,,,12.0,__missing__,dat
+6.0,67.1,,,3.7,Q4,nha rieng
+5.7,650.0,,,15.0,Cu_Chi,dat
+6.6,275.0,,,18.6,Nha_Be,dat
+1.6,318.9,,,9.0,__missing__,dat
+7.99,80.0,4.0,4.0,4.0,Binh_Tan,nha rieng
+5.9,96.0,,,4.0,Go_Vap,dat
+5.35,69.0,2.0,,,Q6,can ho chung cu
+12.0,413.5,,,10.0,__missing__,dat
+1.57,150.0,,,5.0,__missing__,dat
+18.0,180.0,,,10.0,Binh_Tan,dat
+15.5,186.0,1.0,1.0,6.6,Binh_Tan,nha rieng
+6.0,300.0,,,13.8,__missing__,dat
+1.75,79.1,,,5.0,__missing__,dat
+9.2,65.0,3.0,2.0,4.2,Tan_Phu,nha rieng
+14.4,1100.0,,,20.0,Cu_Chi,dat
+5.5,100.0,,,100.0,Q12,dat
+438.0,55.0,1.0,,4.2,Q1,can ho chung cu
+62.0,103.0,2.0,,,Q7,can ho chung cu
+55.0,,,,36.58,__missing__,dat
+1.22,52.5,2.0,,7.0,Can_Gio,can ho chung cu
+48.0,3239.0,,,,Cu_Chi,dat
+16.5,780.0,,,14.0,Q12,dat
+2.85,115.6,,,5.0,__missing__,dat
+6.5,125.0,6.0,2.0,5.0,__missing__,nha rieng
+9.9,244.0,,,9.5,__missing__,dat
+152.0,,,,,Hoc_Mon,dat
+2.5,75.0,2.0,,,Binh_Chanh,can ho chung cu
+1.8,115.0,,,4.0,__missing__,dat
+53.0,69.0,,,4.0,TP_Thu_Duc,dat
+5.3,44.0,2.0,2.0,6.0,Tan_Phu,nha rieng
+8.6,80.0,2.0,,,Q7,can ho chung cu
+7.6,113.0,,,6.0,TP_Thu_Duc,dat
+22.0,47.0,1.0,,,Q9,can ho chung cu
+16.0,1573.0,,,,__missing__,dat
+9.5,215.0,,,8.0,TP_Thu_Duc,dat
+219.0,2057.0,,,34.0,Tan_Binh,dat
+145.0,321.0,,,10.0,Q3,dat
+16.0,88.0,10.0,5.0,4.6,Q10,nha rieng
+3.45,115.0,,,5.0,Hoc_Mon,dat
+23.0,75.0,2.0,17.0,,Nha_Be,can ho chung cu
+36.99,403.0,,,6.2,Q12,dat
+42.0,76.0,3.0,,,Tan_Phu,can ho chung cu
+2.9,29.0,,2.0,4.0,Tan_Phu,nha rieng
+18.5,200.0,,,10.0,TP_Thu_Duc,dat
+1.85,125.0,,,5.0,Cu_Chi,dat
+7.0,,,,50.0,Can_Gio,dat
+9.99,200.0,,,20.0,Q9,dat
+1.28,710.5,,,,Tan_Binh,dat
+1.74,62.0,2.0,,,Q4,can ho chung cu
+1.5,1519.0,,,5.0,__missing__,dat
+5.05,88.6,2.0,2.0,5.0,__missing__,nha rieng
+5.61,,,,57.0,__missing__,dat
+10.0,90.0,,,4.0,Binh_Tan,dat
+8.5,70.0,3.0,4.0,7.0,__missing__,nha rieng
+2.85,71.0,2.0,,,TP_Thu_Duc,can ho chung cu
+0.98,569.2,,,,__missing__,dat
+37.0,100.0,,,6.0,Q12,dat
+2.5,44.0,2.0,1.0,,Q3,can ho chung cu
+1.29,36.0,,,6.0,Tan_Phu,can ho chung cu
+1.5,167.0,,,5.0,__missing__,dat
+6.99,68.0,5.0,2.0,4.0,Binh_Tan,nha rieng
+6.8,174.0,,,5.0,Q12,dat
+8.0,510.0,,,10.0,__missing__,dat
+6.3,60.0,7.0,4.0,6.0,Tan_Phu,nha rieng
+4.61,72.0,2.0,,,Q9,can ho chung cu
+51.0,78.0,2.0,,,Q1,can ho chung cu
+4.0,98.0,,,7.0,Nha_Be,dat
+26.0,1832.0,,,15.0,Hoc_Mon,"kho, nha xuong"
+1.6,90.0,,,5.0,Cu_Chi,dat
+1.55,98.0,,,6.0,__missing__,dat
+8.0,232.0,,,6.3,Hoc_Mon,dat
+5.1,156.0,,,5.8,Binh_Chanh,dat
+225.0,54.0,1.0,,,Q9,can ho chung cu
+33.0,78.0,2.0,,,Q1,can ho chung cu
+62.0,153.0,3.0,,,Q6,can ho chung cu
+2.5,49.0,2.0,,,Q9,can ho chung cu
+15.8,316.0,,,10.0,__missing__,dat
+36.0,726.0,,,14.3,__missing__,dat
+3.35,56.0,,,6.0,Binh_Tan,dat
+132.36,133.7,,,7.3,Q9,dat
+15.0,100.0,,,5.0,__missing__,nha rieng
+12.4,111.0,13.0,5.0,5.2,Tan_Binh,khach san
+139.0,215.0,,,6.2,TP_Thu_Duc,dat
+8.0,142.4,,,,__missing__,dat
+8.9,1442.0,,,23.0,Cu_Chi,dat
+3.5,100.0,,,4.0,Q12,dat
+20.5,100.0,,,5.0,TP_Thu_Duc,dat
+9.5,153.0,4.0,2.0,4.6,__missing__,nha rieng
+80.0,4000.0,,,,Binh_Chanh,"kho, nha xuong"
+3.55,575.0,,,,__missing__,dat
+1.1,389.6,,,,__missing__,dat
+1.6,11.0,1.0,2.0,3.0,__missing__,nha rieng
+30.0,2400.0,,,30.0,Binh_Chanh,"kho, nha xuong"
+32.3,,,,,__missing__,dat
+32.5,,,,,__missing__,dat
+5.0,82.0,,,,__missing__,dat
+45.0,2000.0,,,26.0,Hoc_Mon,dat
+2.0,96.0,,,5.0,__missing__,dat
+4.6,82.0,,,5.3,Q9,dat
+5.3,44.0,2.0,2.0,4.0,Q8,nha rieng
+3.25,67.0,,,4.0,__missing__,dat
+0.6,249.3,,,,__missing__,dat
+10.0,144.0,,4.0,6.0,TP_Thu_Duc,dat
+365.0,56.0,,,4.0,Q12,dat
+1.83,50.0,,,,Q8,can ho chung cu
+35.0,95.0,5.0,4.0,7.5,Phu_Nhuan,nha rieng
+7.2,4502.5,,,22.0,__missing__,dat
+2.5,141.0,,,7.0,__missing__,dat
+35.0,1594.0,,,35.0,TP_Thu_Duc,dat
+6.1,252.0,,,7.6,__missing__,dat
+33.0,2385.0,2.0,,29.0,Hoc_Mon,dat
+10.85,2594.0,,,44.0,__missing__,dat
+6.8,447.0,,2.0,10.0,Cu_Chi,nha tro
+13.2,115.0,3.0,,,Q7,can ho chung cu
+8.0,84.0,,,5.6,Go_Vap,dat
+1.2,247.5,,,6.0,__missing__,dat
+6.0,77.0,2.0,1.0,,Q7,can ho chung cu
+29.0,84.0,3.0,3.0,3.3,Q5,can ho chung cu
+16.6,2625.0,16.0,,,Go_Vap,khach san
+7.1,89.0,,,,Q7,can ho chung cu
+519.0,50.0,,,4.5,Go_Vap,dat
+3.7,199.0,,,8.0,Q12,dat
+9.9,70.0,,3.0,4.0,Binh_Thanh,nha rieng
+441.0,210.0,,3.0,10.0,Nha_Be,dat
+70.0,4200.0,,,,Binh_Tan,"kho, nha xuong"
+4.5,76.0,2.0,1.0,,Q3,can ho chung cu
+10.0,1000.0,,,,Binh_Chanh,"kho, nha xuong"
+108.0,133.0,3.0,,,Q7,can ho chung cu
+3.63,640.0,,,11.0,__missing__,dat
+8.3,227.3,,,10.0,Hoc_Mon,dat
+1.0,680.0,,,18.0,Cu_Chi,dat
+4.9,123.9,3.0,2.0,,__missing__,nha rieng
+1.75,100.0,,,5.0,Nha_Be,dat
+1.08,55.0,2.0,,5.0,Binh_Chanh,can ho chung cu
+17.0,76.0,,,4.2,Q1,dat
+2.3,100.1,,,,__missing__,dat
+27.5,160.0,,5.0,8.0,Go_Vap,can ho chung cu
+14.5,80.0,6.0,4.0,5.0,TP_Thu_Duc,dat
+3.8,88.8,3.0,2.0,4.8,__missing__,nha rieng
+15.0,118.0,6.0,4.0,4.3,Tan_Phu,nha rieng
+3.3,142.1,,,,Cu_Chi,dat
+5.5,1025.0,,,5.0,Q9,dat
+2.86,52.0,2.0,,,Nha_Be,can ho chung cu
+12.5,800.0,,,14.0,__missing__,dat
+46.0,92.0,8.0,4.0,4.35,Q3,nha rieng
+8.7,339.0,,,26.0,Binh_Chanh,dat
+33.0,80.0,2.0,,,Q7,can ho chung cu
+108.0,,,2.0,100.0,Q12,"kho, nha xuong"
+3.69,117.4,,,,__missing__,dat
+8.6,99.0,3.0,,,Q9,can ho chung cu
+5.95,44.8,4.0,4.0,4.0,Tan_Phu,nha rieng
+52.0,460.0,,,20.0,Q9,nha rieng
+7.5,81.0,,,6.0,Go_Vap,nha rieng
+19.0,999.0,,1.0,25.0,Hoc_Mon,"kho, nha xuong"
+38.0,195.0,,,9.6,Q7,nha rieng
+26.0,848.0,,,18.0,__missing__,"kho, nha xuong"
+23.5,131.0,,,7.0,TP_Thu_Duc,nha rieng
+14.0,60.0,,5.0,4.0,Binh_Thanh,nha rieng
+3.3,90.0,2.0,,,Tan_Binh,can ho chung cu
+3.65,70.0,,4.5,4.0,Q12,dat
+37.0,489.0,,,8.6,Q12,dat
+45.0,83.0,3.0,,,Q9,can ho chung cu
+38.33,4027.1,,,,__missing__,dat
+29.0,1200.0,,,43.0,Cu_Chi,dat
+6.45,192.1,,,7.0,Nha_Be,dat
+2.1,240.0,,,5.0,__missing__,dat
+1.75,150.0,,,5.0,__missing__,dat
+3.0,142.0,3.0,,22.0,__missing__,nha rieng
+60.0,,,,64.0,Cu_Chi,dat
+31.0,67.0,2.0,,,Q9,can ho chung cu
+7.0,3447.3,,,34.0,__missing__,dat
+200.0,659.0,,3.0,11.0,Q2,dat
+236.0,2663.0,,20.0,63.0,Tan_Phu,dat
+3.68,67.0,2.0,,,Tan_Phu,can ho chung cu
+1.83,103.5,,,5.0,__missing__,dat
+8.2,160.0,3.0,,,Q7,can ho chung cu
+47.5,243.0,2.0,3.0,6.0,TP_Thu_Duc,nha rieng
+2.55,155.0,,,5.2,__missing__,dat
+87.0,244.0,,6.0,12.0,Binh_Thanh,nha rieng
+1.78,869.0,2.0,2.0,,Tan_Binh,can ho chung cu
+80.0,2500.0,6.0,2.0,50.0,Q9,nha rieng
+9.0,156.3,,,,__missing__,dat
+8.5,77.0,,,10.0,Q6,dat
+10.9,85.0,4.0,3.0,5.0,Nha_Be,nha rieng
+27.0,1000.0,,,,Binh_Chanh,dat
+6.1,99.0,,,5.5,Q12,dat
+11.0,100.0,2.0,3.0,5.0,TP_Thu_Duc,nha rieng
+4.5,2230.0,,,,Nha_Be,dat
+365.0,72.0,2.0,,,Q7,can ho chung cu
+0.31,120.0,,4.0,6.0,TP_Thu_Duc,dat
+17.5,170.0,4.0,,,Q7,can ho chung cu
+18.0,258.0,,,10.0,__missing__,dat
+7.5,1000.0,,,16.0,Can_Gio,dat
+105.0,133.0,3.0,,,Q7,can ho chung cu
+16.5,126.0,,4.0,10.0,TP_Thu_Duc,khach san
+2.8,100.0,,,5.0,Q9,dat
+7.5,326.0,,,12.0,Binh_Chanh,dat
+59.8,21.2,,,21.2,Q12,dat
+2.0,50.0,2.0,,5.0,Hoc_Mon,nha rieng
+95.0,121.0,3.0,,,Tan_Phu,can ho chung cu
+2.8,918.0,,,15.0,__missing__,dat
+14.5,172.0,,,8.5,TP_Thu_Duc,dat
+2.8,60.0,2.0,,,Q3,can ho chung cu
+1.35,109.6,,,5.0,__missing__,dat
+1.75,125.0,,,5.0,Cu_Chi,dat
+1.38,165.0,,,5.0,Q8,dat
+21.0,64.0,2.0,,,Binh_Tan,can ho chung cu
+1.7,506.8,,,11.0,__missing__,dat
+9.8,85.0,1.0,,,Binh_Thanh,can ho chung cu
+5.2,80.0,,,,Nha_Be,dat
+3.0,82.8,,,,__missing__,dat
+17.6,122.0,3.0,,,Q7,can ho chung cu
+1.6,130.0,,,5.0,Tan_Phu,dat
+1.6,1004.0,,,15.0,__missing__,dat
+1.5,300.0,,,6.0,Cu_Chi,dat
+22.22,1500.0,,,37.0,Cu_Chi,dat
+3.55,72.0,4.0,3.0,4.5,Tan_Binh,nha rieng
+16.5,65.0,5.0,3.0,4.05,Tan_Binh,nha rieng
+26.0,134.0,4.0,5.0,7.0,TP_Thu_Duc,nha rieng
+3.9,30.0,2.0,2.0,4.0,Q7,nha rieng
+0.49,412.0,,,10.0,Cu_Chi,dat
+345.0,70.0,2.0,,,Q9,can ho chung cu
+352.0,53.0,1.0,,,Tan_Phu,can ho chung cu
+15.49,240.0,,,8.0,Q12,dat
+8.0,654.0,,,49.0,__missing__,dat
+20.4,120.0,,4.0,5.0,Binh_Thanh,nha rieng
+3.85,80.0,3.0,2.0,4.0,__missing__,nha rieng
+6.3,120.5,,,6.0,__missing__,dat
+1.72,70.0,2.0,,2.0,Q12,can ho chung cu
+2.6,1000.0,,,,Can_Gio,dat
+3.55,85.0,3.0,,,Binh_Chanh,can ho chung cu
+6.6,40.0,4.0,4.0,4.0,Q3,nha rieng
+8.4,50.0,4.0,3.0,5.0,Tan_Binh,nha rieng
+3.35,70.8,,,4.0,Q9,dat
+2.55,100.0,,,5.0,__missing__,dat
+6.2,115.0,,,5.0,Q12,dat
+2.29,100.0,,,,__missing__,dat
+35.0,540.0,24.0,1.0,18.0,TP_Thu_Duc,nha rieng
+7.0,300.0,,,10.0,__missing__,dat
+47.0,288.0,6.0,3.0,12.0,Q7,nha rieng
+52.0,70.0,2.0,,,Q10,can ho chung cu
+5.95,96.0,,,5.0,Go_Vap,dat
+8.5,356.8,,,,__missing__,dat
+6.5,68.0,2.0,,,Binh_Thanh,can ho chung cu
+8.2,132.0,4.0,,,Q7,can ho chung cu
+148.2,,,,6.0,Nha_Be,dat
+4.6,79.0,2.0,,,Binh_Chanh,can ho chung cu
+8.0,232.0,,,6.3,__missing__,dat
+2.65,150.9,,,5.0,__missing__,nha rieng
+77.0,80.0,,4.5,4.0,Q12,dat
+6.2,200.0,,,8.0,Hoc_Mon,dat
+4.45,319.9,,,10.0,Cu_Chi,dat
+7.3,50.0,5.0,5.0,5.0,Binh_Tan,nha rieng
+7.0,4304.1,,,20.0,__missing__,dat
+53.0,572.0,,,14.5,Hoc_Mon,dat
+21.0,280.0,,,14.0,TP_Thu_Duc,dat
+3.95,72.0,,,4.0,Q12,dat
+195.0,74.0,2.0,,,Binh_Chanh,can ho chung cu
+5.2,130.0,2.0,,,Nha_Be,nha tro
+53.0,46.0,1.0,12.0,,Q7,can ho chung cu
+2.7,100.0,2.0,1.0,5.0,__missing__,nha rieng
+22.25,,,,54.0,__missing__,dat
+4.8,100.0,,,,__missing__,dat
+35.0,893.0,,,9.0,Q12,dat
+7.5,118.0,,,7.6,Binh_Tan,"kho, nha xuong"
+6.8,100.0,2.0,,25.0,Q9,can ho chung cu
+1.3,320.0,,,9.0,__missing__,dat
+70.0,2963.6,,,,__missing__,nha rieng
+16.0,600.0,,,20.0,__missing__,dat
+150.0,930.0,,6.0,32.0,Q9,dat
+4.6,72.0,1.0,,,Q7,can ho chung cu
+6.0,70.0,,,4.1,TP_Thu_Duc,dat
+7.5,520.0,,,,Binh_Chanh,"kho, nha xuong"
+0.45,84.0,2.0,,,Binh_Chanh,can ho chung cu
+5.2,170.9,,,7.0,__missing__,dat
+3.31,,1.0,45.0,,Q9,can ho chung cu
+17.5,569.0,,,33.0,Binh_Chanh,dat
+6.5,628.0,,,18.0,__missing__,dat
+5.5,2532.0,,,42.0,__missing__,dat
+3.4,70.0,2.0,,,Q7,can ho chung cu
+3.1,73.0,,,,Nha_Be,can ho chung cu
+22.0,64.0,,,4.0,Phu_Nhuan,nha rieng
+9.8,3763.0,,,10.0,Cu_Chi,dat
+0.28,147.1,,,,__missing__,dat
+2.3,56.0,,,5.0,TP_Thu_Duc,nha rieng
+14.5,100.0,,3.0,6.0,Binh_Thanh,dat
+51.0,,,,100.0,Hoc_Mon,dat
+22.49,346.0,,,11.4,__missing__,dat
+2.98,73.0,2.0,,,Nha_Be,can ho chung cu
+3.8,49.0,1.0,1.0,4.0,Hoc_Mon,nha rieng
+1.64,92.1,,,4.0,__missing__,dat
+9.0,895.0,,,21.0,__missing__,dat
+32.0,200.0,5.0,3.0,10.0,Binh_Chanh,nha rieng
+1.4,127.0,,,,__missing__,dat
+7.68,251.5,,,,__missing__,dat
+14.6,158.0,,,7.0,TP_Thu_Duc,dat
+3.3,112.0,3.0,,,Q5,can ho chung cu
+9.0,226.0,7.0,2.0,9.5,TP_Thu_Duc,nha rieng
+3.8,90.0,,,5.0,Hoc_Mon,dat
+29.0,220.0,,,,Binh_Thanh,dat
+7.0,217.0,,,4.5,Binh_Chanh,"kho, nha xuong"
+8.8,70.0,,,5.0,Q10,dat
+115.0,198.0,,6.0,8.0,Q1,nha rieng
+40.0,785.0,,,25.0,Hoc_Mon,dat
+3.8,69.0,3.0,2.0,4.9,__missing__,nha rieng
+70.0,3233.0,,,60.0,Hoc_Mon,dat
+8.0,534.8,,,,__missing__,nha rieng
+3.8,90.0,,,4.6,TP_Thu_Duc,dat
+9.45,105.0,3.0,,10.0,TP_Thu_Duc,can ho chung cu
+3.19,139.0,,,5.4,__missing__,dat
+3.55,184.1,,,,__missing__,dat
+4.3,72.0,,,4.5,__missing__,dat
+5.0,56.0,,2.0,4.0,Hoc_Mon,nha rieng
+1.95,86.3,,,,__missing__,dat
+5.15,30.0,2.0,2.0,3.6,Binh_Thanh,can ho chung cu
+7.3,127.0,,,4.5,Q12,dat
+2.0,150.0,,,5.0,__missing__,dat
+2.8,79.0,2.0,,,Q8,can ho chung cu
+7.5,70.0,4.0,4.0,4.0,Tan_Phu,nha rieng
+13.9,126.0,5.0,4.0,5.0,Tan_Binh,nha rieng
+16.5,129.0,,3.0,6.1,Go_Vap,can ho chung cu
+1.7,406.0,,,12.0,__missing__,dat
+9.3,1538.0,,,16.0,__missing__,dat
+1.9,29.0,2.0,,4.0,Q1,can ho chung cu
+7.69,55.0,4.0,5.0,5.0,Binh_Tan,nha rieng
+2.8,146.0,,,5.0,__missing__,nha rieng
+0.45,234.2,,,,__missing__,dat
+11.5,206.0,4.0,,5.0,Q7,nha rieng
+8.7,62.0,4.0,3.0,4.0,Q8,nha rieng
+6.5,43.0,4.0,2.0,4.3,Q8,nha rieng
+330.0,,,14.0,55.0,Go_Vap,dat
+1.0,145.0,,,10.0,Cu_Chi,dat
+4.25,100.0,,,4.0,Q12,dat
+45.0,74.0,,,4.0,Binh_Tan,dat
+544.0,80.0,,,,Q9,can ho chung cu
+3.3,56.0,,,5.0,Q12,dat
+9.0,127.3,3.0,1.0,7.63,__missing__,nha rieng
+15.5,2000.0,,,25.0,Hoc_Mon,dat
+26.6,111.0,,5.0,6.0,Q7,dat
+2.6,302.8,,,,__missing__,dat
+195.0,3400.0,,,66.0,Q2,dat
+215.0,129.0,3.0,,,Binh_Thanh,can ho chung cu
+320.0,,,,,Q12,"kho, nha xuong"
+2.0,2682.1,,,,__missing__,dat
+6.5,79.0,,2.0,4.0,Tan_Phu,nha rieng
+6.9,918.7,,,15.0,__missing__,dat
+2.5,129.0,,,6.0,__missing__,dat
+11.5,180.0,,,4.6,Binh_Thanh,dat
+40.0,144.0,,,5.0,Hoc_Mon,dat
+36.1,2891.0,,,33.0,__missing__,dat
+5.25,72.0,,,4.0,Q12,dat
+4.4,,,,15.0,__missing__,dat
+3.9,161.0,3.0,,,Q7,can ho chung cu
+19.5,195.5,,,12.4,Q9,dat
+62.0,2745.0,,,31.0,Hoc_Mon,dat
+62.0,82.0,,,4.0,Q9,dat
+0.55,920.0,,,20.0,__missing__,dat
+2.3,104.0,,,5.0,Q9,dat
+4.5,60.0,,4.0,4.0,TP_Thu_Duc,dat
+1.45,72.0,,,5.0,__missing__,dat
+1.49,49.8,,,,__missing__,dat
+36.0,,,,29.2,__missing__,dat
+22.0,50.0,2.0,,,Q7,can ho chung cu
+0.55,1000.0,,,20.0,__missing__,dat
+0.78,200.0,,,5.0,__missing__,dat
+8.75,50.0,4.0,3.0,,Binh_Thanh,nha rieng
+1.5,113.1,2.0,,5.0,__missing__,nha rieng
+1.85,57.0,2.0,,8.0,__missing__,nha rieng
+5.2,200.0,,,5.0,Binh_Tan,"kho, nha xuong"
+27.55,239.6,,,10.0,Q2,dat
+3.8,200.0,,,10.0,__missing__,dat
+10.0,150.0,,,5.0,Q12,dat
+38.0,160.0,,6.0,8.0,Q2,dat
+10.0,80.0,10.0,5.0,5.0,Tan_Phu,nha rieng
+4.39,80.0,,,5.0,Q9,dat
+0.75,599.1,,,,__missing__,dat
+6.48,90.0,,3.5,6.0,Q9,dat
+19.5,160.0,5.0,2.0,4.3,Tan_Phu,nha rieng
+8.55,,,,,__missing__,dat
+6.2,113.0,,,4.0,Q9,dat
+49.0,66.0,2.0,,,Q7,can ho chung cu
+39.0,520.0,,7.0,19.0,Can_Gio,dat
+9.32,121.0,3.0,,,Tan_Phu,can ho chung cu
+1.84,67.0,2.0,,,Q6,can ho chung cu
+6.2,62.0,2.0,2.0,4.0,Go_Vap,nha rieng
+1.25,331.6,,,,__missing__,dat
+3.3,56.0,2.0,,,Binh_Chanh,can ho chung cu
+10.5,146.0,3.0,,,Q7,can ho chung cu
+6.5,88.1,3.0,1.0,10.0,__missing__,nha rieng
+1.6,74.0,2.0,,,Binh_Tan,nha tro
+11.7,102.0,3.0,3.0,6.0,Binh_Tan,nha rieng
+0.735,343.4,,,,__missing__,dat
+10.0,202.0,,,6.0,__missing__,dat
+2.16,290.0,,,10.0,__missing__,dat
+2.9,84.0,,,,__missing__,dat
+12.0,1231.0,,1.0,14.5,Cu_Chi,"kho, nha xuong"
+10.0,105.0,,,5.0,Q9,dat
+1.58,209.0,,,5.0,__missing__,dat
+11.0,111.0,2.0,1.0,,Q7,can ho chung cu
+5.5,95.0,,,5.0,Binh_Tan,dat
+16.0,372.0,,,10.0,__missing__,nha rieng
+6.7,142.0,,,9.5,Nha_Be,dat
+435.0,68.0,2.0,,,Q9,can ho chung cu
+2.3,122.0,,,5.0,Q12,dat
+1.78,66.0,2.0,,,Q11,nha tro
+10.5,120.0,,3.0,6.0,Q7,dat
+6.5,1000.0,,,20.0,Binh_Chanh,dat
+1.0,1223.0,,,20.0,Cu_Chi,dat
+0.99,150.0,,,8.0,Cu_Chi,dat
+3.6,219.6,,,5.0,Cu_Chi,dat
+6.0,96.0,3.0,,,Q7,can ho chung cu
+5.0,187.0,,,6.0,__missing__,dat
+14.44,91.0,,,6.0,TP_Thu_Duc,dat
+10.19,336.0,3.0,,7.0,Q12,dat
+4.35,100.0,,3.0,5.0,Q9,dat
+7.8,300.0,,,10.0,__missing__,dat
+6.45,97.0,,1.0,4.2,Q12,nha tro
+9.5,94.0,3.0,,9.0,Q3,can ho chung cu
+12.0,85.0,3.0,3.0,4.5,Q1,nha rieng
+185.0,65.0,2.0,1.0,,Go_Vap,can ho chung cu
+3.3,1110.0,,,17.0,Cu_Chi,dat
+4.7,50.0,1.0,,5.0,Phu_Nhuan,can ho chung cu
+24.0,55.0,5.0,4.0,4.6,Q5,nha rieng
+180.0,,,,,__missing__,dat
+105.0,55.0,2.0,,,Binh_Chanh,can ho chung cu
+5.53,52.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+4.5,376.0,,,22.0,Cu_Chi,"kho, nha xuong"
+4.58,140.0,,2.0,,Nha_Be,can ho chung cu
+8.9,54.0,4.0,2.0,4.0,Tan_Phu,nha rieng
+7.6,120.0,1.0,,,Q7,can ho chung cu
+4.4,83.0,,2.0,4.0,Q12,dat
+5.9,1452.1,,,25.0,__missing__,dat
+2.45,159.8,,,7.0,__missing__,dat
+2.8,110.0,,,6.0,Hoc_Mon,dat
+5.5,226.0,,1.0,5.0,Hoc_Mon,dat
+1.3,77.9,,,5.0,__missing__,dat
+28.0,2300.0,,,11.0,Binh_Chanh,"kho, nha xuong"
+435.0,81.0,,,5.0,Q9,dat
+40.0,195.0,,,12.0,Q2,dat
+3.78,73.0,2.0,,,Q9,can ho chung cu
+7.5,112.0,6.0,3.0,8.0,Binh_Tan,nha rieng
+8.2,100.0,,,5.0,Binh_Tan,dat
+4.5,673.0,,1.0,8.0,Cu_Chi,dat
+3.6,106.2,3.0,2.0,6.0,__missing__,nha rieng
+1.18,236.0,,,10.0,__missing__,dat
+4.6,54.0,,5.0,4.0,Binh_Tan,dat
+14.0,783.0,,,17.0,Hoc_Mon,nha rieng
+78.0,75.0,2.0,,,Binh_Thanh,can ho chung cu
+0.98,255.0,,,6.0,__missing__,dat
+17.0,120.0,8.0,4.0,4.0,Q12,nha rieng
+245.0,55.0,1.0,,,Q9,can ho chung cu
+17.5,100.0,,,,__missing__,dat
+8.0,232.0,,,6.4,Hoc_Mon,dat
+1.3,150.0,,,5.0,__missing__,dat
+105.0,136.0,,5.0,6.0,Q9,dat
+441.0,79.0,,1.0,,Q9,can ho chung cu
+0.88,213.0,,,8.5,Cu_Chi,dat
+1.47,100.0,,,5.0,Binh_Chanh,dat
+11.79,200.0,,,10.0,Q12,dat
+130.55,1865.0,,,,Q9,dat
+95.0,600.0,,18.0,15.0,Binh_Thanh,dat
+3.65,88.0,,,4.0,Q12,dat
+30.0,,,,,__missing__,dat
+1.78,119.2,2.0,,6.0,__missing__,nha rieng
+555.0,85.0,2.0,,,Tan_Phu,can ho chung cu
+27.0,1392.0,,,14.3,Q12,dat
+0.95,240.0,,,4.0,__missing__,dat
+17.0,1616.3,,,,__missing__,dat
+3.65,330.0,,,16.0,__missing__,dat
+4.25,483.0,,,10.0,__missing__,nha rieng
+215.0,63.0,2.0,,,Q9,can ho chung cu
+2.4,280.0,,,5.0,__missing__,dat
+30.0,470.0,,,17.0,Can_Gio,dat
+6.45,78.0,4.0,4.0,4.3,Binh_Tan,nha rieng
+10.0,299.0,,,20.0,__missing__,dat
+14.4,110.3,,3.0,4.1,Q1,"kho, nha xuong"
+9.0,80.0,4.0,2.0,,__missing__,nha rieng
+7.3,87.0,5.0,3.0,4.3,Go_Vap,nha rieng
+4.47,76.0,,,4.0,Binh_Tan,dat
+0.68,110.0,,,7.0,__missing__,dat
+65.0,,,,45.0,Binh_Chanh,"kho, nha xuong"
+2.1,35.0,2.0,,,Nha_Be,can ho chung cu
+8.1,104.0,6.0,3.0,8.0,Binh_Tan,nha rieng
+2.98,70.0,2.0,,,Tan_Phu,can ho chung cu
+12.0,160.0,,,8.0,Q9,dat
+65.44,319.0,,3.0,15.2,TP_Thu_Duc,dat
+1.85,607.0,,,26.0,__missing__,dat
+37.0,82.0,2.0,,,Tan_Phu,can ho chung cu
+7.4,98.0,2.0,1.0,,Tan_Phu,can ho chung cu
+4.85,92.0,,4.0,4.0,Binh_Tan,dat
+10.1,857.8,,,,__missing__,dat
+14.99,500.0,,,10.0,Hoc_Mon,dat
+0.88,132.0,,,5.0,Tan_Phu,dat
+74.0,50.0,1.0,,,Q1,can ho chung cu
+4.5,69.0,2.0,,,Q7,can ho chung cu
+18.5,108.6,,5.0,5.0,__missing__,nha rieng
+3.5,115.0,,,5.0,Q8,dat
+12.0,100.0,5.0,4.0,4.0,Binh_Tan,nha rieng
+6.75,300.0,,,10.0,Hoc_Mon,dat
+4.2,543.0,,,15.0,__missing__,dat
+2.85,480.6,,,,__missing__,dat
+8.0,82.0,,4.0,4.0,Tan_Phu,nha rieng
+160.0,,,,,__missing__,dat
+1.65,70.0,2.0,,,Q4,can ho chung cu
+25.0,126.0,,4.0,,Nha_Be,"kho, nha xuong"
+8.0,87.0,3.0,,,Q7,can ho chung cu
+27.0,1018.0,,,12.0,Can_Gio,dat
+6.4,64.0,6.0,4.0,5.0,Binh_Tan,nha rieng
+16.0,160.0,3.0,,,Binh_Thanh,can ho chung cu
+2.75,80.0,,,5.0,Q9,dat
+172.0,62.0,2.0,,,Q7,can ho chung cu
+5.0,1038.0,,,20.0,Cu_Chi,dat
+10.0,3737.0,,,30.0,Binh_Chanh,dat
+1.89,74.0,2.0,,,TP_Thu_Duc,can ho chung cu
+0.58,500.0,,,10.0,__missing__,dat
+196.0,68.0,2.0,,,Q6,can ho chung cu
+44.0,3200.0,,,,Tan_Phu,"kho, nha xuong"
+3.55,64.0,,,4.3,Q12,dat
+5.5,188.9,2.0,1.0,,__missing__,nha rieng
+6.4,117.0,3.0,,,Tan_Phu,can ho chung cu
+1.8,75.4,,,,__missing__,dat
+0.78,250.0,,,5.0,__missing__,dat
+3.0,56.0,,,4.0,Binh_Tan,dat
+42.0,160.0,3.0,,,Q1,can ho chung cu
+42.0,906.0,,,19.5,Q12,dat
+29.0,,,,60.0,__missing__,dat
+5.6,82.0,1.0,34.0,,Q9,can ho chung cu
+4.2,225.3,,,5.0,__missing__,dat
+3.4,70.0,2.0,,,Q7,can ho chung cu
+34.0,70.0,2.0,,,Q7,can ho chung cu
+6.0,138.0,,,6.0,__missing__,dat
+16.0,,,,60.0,__missing__,dat
+4.1,123.0,,,5.0,__missing__,dat
+4.5,44.0,4.0,3.0,4.0,Binh_Tan,nha rieng
+16.9,130.0,3.0,,,Q7,can ho chung cu
+45.0,79.0,,,41.0,Q9,dat
+185.0,68.0,2.0,24.0,,Q6,can ho chung cu
+144.0,33.0,1.0,,,Q9,can ho chung cu
+29.0,547.0,,,10.5,Q9,dat
+6.5,99.0,3.0,,,Tan_Binh,can ho chung cu
+347.0,80.0,,,4.0,Nha_Be,dat
+41.0,360.0,,7.0,15.0,Binh_Thanh,dat
+0.9,300.0,,,12.0,Cu_Chi,dat
+19.0,192.0,4.0,1.0,6.3,Q12,nha rieng
+8.9,67.0,7.0,4.0,6.0,Q10,nha rieng
+25.0,560.0,,,10.3,Q12,dat
+1.05,185.0,,,5.0,Tan_Phu,"kho, nha xuong"
+5.99,128.0,,,,Q9,dat
+7.5,45.0,4.0,4.0,4.5,Tan_Binh,nha rieng
+5.9,90.0,,4.0,5.0,Q12,dat
+399.0,80.0,,,5.0,Q9,dat
+1.95,247.5,,,5.0,Cu_Chi,dat
+2.05,159.0,,,6.0,Cu_Chi,dat
+29.0,148.0,26.0,7.0,5.2,Tan_Phu,nha rieng
+2.12,68.0,2.0,,,Q6,can ho chung cu
+18.5,116.0,,,6.8,TP_Thu_Duc,dat
+29.0,300.0,,,12.0,Binh_Tan,dat
+5.5,53.0,4.0,3.0,4.0,Q12,nha rieng
+5.8,400.0,,,40.0,__missing__,dat
+20.0,2000.0,,,10.0,Binh_Chanh,dat
+37.0,81.0,3.0,,,Q9,can ho chung cu
+2.0,108.0,,,4.0,Binh_Chanh,dat
+0.5,57.3,,,,__missing__,dat
+3.68,67.0,2.0,,,Tan_Phu,can ho chung cu
+1.7,34.0,3.0,3.0,3.0,Binh_Thanh,nha rieng
+5.2,553.0,,,10.0,__missing__,dat
+3.99,58.0,2.0,2.0,4.1,Q8,nha rieng
+145.0,804.0,2.0,2.0,16.5,Q12,nha rieng
+2.7,265.3,,,15.6,__missing__,dat
+39.0,229.0,2.0,2.0,8.0,Q2,nha rieng
+69.0,183.0,,8.0,8.0,Binh_Thanh,nha rieng
+3.9,76.0,,,,Binh_Chanh,dat
+335.0,58.0,,,4.0,Q9,dat
+2.7,150.0,,,5.0,__missing__,dat
+10.4,118.0,3.0,,,Q7,can ho chung cu
+5.0,589.0,,,12.0,Cu_Chi,dat
+0.84,1324.4,,,,__missing__,dat
+2.5,195.0,,,7.0,__missing__,dat
+5.45,2960.0,,,90.0,Cu_Chi,dat
+1.82,70.0,2.0,,,Binh_Thanh,can ho chung cu
+9.15,316.5,,,10.0,__missing__,dat
+103.0,135.0,3.0,,,Q7,can ho chung cu
+14.5,4818.0,,,,Cu_Chi,dat
+2.7,52.0,,1.0,5.0,Q9,dat
+15.5,110.0,8.0,3.0,5.2,Tan_Phu,nha rieng
+2.55,150.0,,,,__missing__,dat
+3.45,81.0,,,,TP_Thu_Duc,dat
+8.5,430.0,,,10.0,__missing__,nha rieng
+29.5,375.0,,,15.0,Q12,dat
+1.72,72.3,,,14.0,__missing__,dat
+16.5,100.0,3.0,1.0,4.0,Tan_Phu,nha rieng
+3.8,110.0,,,8.0,Q7,dat
+7.5,626.2,,,,__missing__,dat
+12.7,85.0,,,8.0,Binh_Thanh,dat
+17.0,176.0,,,4.5,Tan_Binh,dat
+0.815,315.1,,,,__missing__,dat
+6.5,50.0,7.0,5.0,4.0,Q6,nha rieng
+3.0,100.0,,,5.0,Can_Gio,dat
+7.8,60.0,3.0,3.0,4.0,Tan_Phu,nha rieng
+1.79,71.0,2.0,,,Q7,can ho chung cu
+12.8,90.0,4.0,4.0,5.0,Q7,nha rieng
+50.0,464.0,,,10.0,Go_Vap,dat
+95.0,147.0,3.0,,3.0,Q11,can ho chung cu
+15.8,220.0,,,6.5,TP_Thu_Duc,dat
+2.0,293.0,,,,__missing__,dat
+2.25,68.0,2.0,,,Tan_Phu,can ho chung cu
+5.7,877.8,,,,Hoc_Mon,dat
+5.3,110.0,,,5.0,Q9,dat
+270.0,4200.0,,20.0,80.0,Binh_Thanh,dat
+42.32,3530.0,,,34.0,__missing__,dat
+7.5,1014.0,,,20.0,__missing__,dat
+5.1,76.0,,,,Nha_Be,can ho chung cu
+4.25,120.0,,,6.0,Q9,dat
+1.92,74.0,2.0,,,Binh_Thanh,can ho chung cu
+26.0,320.0,,,12.32,Q9,dat
+4.5,85.0,2.0,,,Q7,can ho chung cu
+17.26,203.0,,,9.0,Nha_Be,dat
+6.6,410.0,,,10.0,Cu_Chi,dat
+185.0,689.6,,,7.0,__missing__,dat
+2.8,81.0,2.0,,,Tan_Binh,can ho chung cu
+3.18,58.0,,,4.2,Q12,dat
+75.0,1462.0,,,15.2,Cu_Chi,dat
+1.95,50.0,1.0,,5.0,Q7,can ho chung cu
+200.0,923.0,,,25.0,Q2,dat
+4.0,51.0,,,,Q12,dat
+425.0,1056.0,,7.0,25.0,TP_Thu_Duc,dat
+2.8,196.0,,,7.0,Cu_Chi,"kho, nha xuong"
+8.0,250.0,4.0,,12.0,Q9,dat
+4.4,69.0,2.0,,,Q9,can ho chung cu
+4.42,76.0,,,4.0,Binh_Tan,dat
+2.4,31.0,2.0,2.0,3.0,Binh_Tan,nha rieng
+7.2,90.0,,,6.0,Q9,dat
+392.0,74.0,2.0,,,Q7,can ho chung cu
+1.86,62.0,2.0,,,Binh_Thanh,can ho chung cu
+4.25,61.8,,2.0,,__missing__,nha rieng
+25.0,76.0,2.0,,,Q4,can ho chung cu
+0.745,146.7,,,,__missing__,dat
+7.4,100.0,,,5.0,Binh_Chanh,dat
+239.0,65.0,2.0,,7.0,Q7,can ho chung cu
+19.3,110.0,4.0,4.0,4.0,Tan_Binh,nha rieng
+2.8,220.4,,,5.0,__missing__,dat
+5.5,1635.0,,,44.0,Can_Gio,dat
+5.5,100.0,,,4.0,Q9,dat
+2.8,62.1,,,6.0,Hoc_Mon,dat
+6.2,56.0,,,4.0,TP_Thu_Duc,dat
+46.0,85.0,2.0,,,Binh_Chanh,can ho chung cu
+3.9,819.0,,,10.0,Cu_Chi,dat
+160.0,762.6,,,,__missing__,nha rieng
+3.12,300.0,,,10.0,__missing__,dat
+3.45,34.0,,4.0,,Q4,can ho chung cu
+319.0,73.0,2.0,,,TP_Thu_Duc,can ho chung cu
+1.95,173.6,,,5.0,__missing__,dat
+8.5,192.0,3.0,,5.0,Q12,nha rieng
+57.0,1700.0,,1.0,50.0,Hoc_Mon,"kho, nha xuong"
+4.47,75.0,,,13.0,Binh_Tan,dat
+35.0,54.0,2.0,,,Q9,can ho chung cu
+15.0,2240.0,4.0,,20.0,Cu_Chi,nha rieng
+0.106,219.0,3.0,,10.0,TP_Thu_Duc,can ho chung cu
+2.3,525.0,,,7.0,__missing__,dat
+13.0,105.0,,,5.0,Q12,dat
+187.0,68.0,2.0,,,Q10,can ho chung cu
+15.78,315.56,,,,Binh_Tan,dat
+7.95,119.0,,,7.0,Q8,dat
+1.85,130.0,,,6.0,Cu_Chi,dat
+37.0,104.0,,9.0,4.0,Q10,nha rieng
+30.0,658.0,,,32.0,Binh_Tan,"kho, nha xuong"
+3.0,52.3,3.0,2.0,,Nha_Be,nha rieng
+8.5,80.0,5.0,4.0,12.0,Q9,nha rieng
+9.5,200.0,,,10.0,Q12,dat
+187.0,,,,,Cu_Chi,dat
+255.0,60.0,2.0,,,Q7,can ho chung cu
+9.0,550.0,,,10.0,Hoc_Mon,dat
+2.8,653.0,,,35.0,Nha_Be,dat
+58.5,650.0,22.0,4.0,17.0,Go_Vap,nha rieng
+65.0,1159.0,,,19.0,__missing__,dat
+10.0,227.2,,,6.0,Binh_Chanh,dat
+7.5,105.0,3.0,,,Nha_Be,can ho chung cu
+70.36,781.8,,,14.83,TP_Thu_Duc,dat
+100.0,,,,,__missing__,dat
+8.8,300.0,,,10.0,Hoc_Mon,"kho, nha xuong"
+26.8,,,,55.0,__missing__,dat
+12.5,133.0,3.0,,,Q7,can ho chung cu
+109.2,700.0,,3.0,20.0,TP_Thu_Duc,dat
+10.5,492.0,,,15.0,Hoc_Mon,dat
+1.55,150.0,,,6.0,Cu_Chi,dat
+2.85,69.0,2.0,,7.0,Q7,can ho chung cu
+80.0,160.0,,5.0,8.0,Q10,nha rieng
+8.6,2100.0,,,32.0,Cu_Chi,dat
+2.7,1052.9,,,,__missing__,dat
+1.75,150.0,,,5.0,__missing__,dat
+7.9,70.0,1.0,1.0,4.7,TP_Thu_Duc,nha rieng
+20.85,1737.0,,,36.0,__missing__,dat
+1.65,91.2,,,,__missing__,dat
+1.32,166.0,,,5.0,__missing__,dat
+23.5,1160.9,,,,Cu_Chi,dat
+7.5,79.0,4.0,3.0,,Q9,nha rieng
+5.2,125.0,,,5.0,Hoc_Mon,dat
+35.0,63.0,1.0,,16.0,Tan_Phu,can ho chung cu
+21.0,195.5,,,7.0,Q9,dat
+3.6,70.0,3.0,,,Tan_Phu,can ho chung cu
+41.0,95.0,3.0,,,Binh_Thanh,can ho chung cu
+21.5,220.0,,,10.0,Binh_Tan,dat
+2.9,70.0,3.0,1.0,5.0,Binh_Tan,nha rieng
+36.0,92.0,3.0,,,Q7,can ho chung cu
+1.33,332.8,,,7.72,__missing__,dat
+3.4,74.0,2.0,,6.4,Binh_Thanh,can ho chung cu
+22.0,1000.0,,,20.0,Hoc_Mon,dat
+0.22222626,1179.2,,,40.0,Can_Gio,dat
+3.0,1123.2,,,,__missing__,dat
+0.95,404.0,,,7.0,__missing__,dat
+131.25,,,,,__missing__,dat
+2.5,174.0,,,6.0,__missing__,dat
+645.0,78.0,,,4.1,TP_Thu_Duc,dat
+2.95,389.5,,,,__missing__,dat
+7.98,80.0,3.0,2.0,3.5,Q6,nha rieng
+1.55,82.0,,,5.0,__missing__,dat
+89.0,319.0,,2.0,12.0,Q7,nha rieng
+75.0,3510.0,,,,TP_Thu_Duc,dat
+142.0,85.0,,,4.1,Q9,dat
+6.9,550.0,4.0,1.0,13.0,Cu_Chi,nha rieng
+3.8,110.0,,,10.0,Q9,dat
+7.2,95.0,,4.0,5.0,Nha_Be,dat
+11.5,139.0,3.0,,,Binh_Thanh,can ho chung cu
+85.0,18.8,,,70.0,Cu_Chi,"kho, nha xuong"
+8.6,245.3,,,8.7,__missing__,dat
+21.5,117.0,,,5.0,Q2,dat
+2.7,75.0,2.0,23.0,,Tan_Binh,can ho chung cu
+2.15,68.0,2.0,18.0,,Q6,can ho chung cu
+1.95,155.0,,,,__missing__,dat
+15.0,2099.8,,,44.0,__missing__,dat
+13.4,73.0,2.0,,,Q1,can ho chung cu
+7.96,65.0,,,4.0,Go_Vap,dat
+175.0,200.0,,,6.0,Q9,dat
+435.0,80.0,3.0,,,Tan_Phu,can ho chung cu
+4.0,67.0,2.0,,,Binh_Thanh,can ho chung cu
+4.55,56.0,11.0,2.0,4.0,Binh_Tan,nha rieng
+2.98,25.0,2.0,2.5,3.0,Tan_Phu,nha rieng
+10.3,235.0,,,8.0,__missing__,dat
+13.0,108.0,2.0,,,Q10,can ho chung cu
+3.6,300.0,3.0,1.0,,__missing__,nha rieng
+6.4,100.0,,,5.0,TP_Thu_Duc,dat
+155.0,939.0,,,,Binh_Thanh,"kho, nha xuong"
+3.55,40.0,,,3.5,Q12,dat
+22.5,2341.0,,,28.0,__missing__,dat
+2.1,1018.0,,,10.5,__missing__,dat
+5.0,150.0,,,5.0,__missing__,dat
+4.85,54.0,3.0,3.0,4.0,Binh_Tan,nha rieng
+25.0,330.0,,7.0,7.3,TP_Thu_Duc,dat
+0.49,150.0,,,5.0,__missing__,dat
+0.73,93.0,,,5.0,Cu_Chi,dat
+6.0,75.0,3.0,,,Q9,can ho chung cu
+0.95,83.0,,,7.0,Cu_Chi,dat
+15.0,160.0,,4.0,8.0,Binh_Thanh,dat
+3.6,295.5,,,14.65,Cu_Chi,nha rieng
+5.98,96.0,,,4.0,Go_Vap,dat
+1.35,118.0,,,5.0,Tan_Phu,dat
+1.95,178.4,,,10.0,Cu_Chi,dat
+18.4,115.0,,5.0,6.0,Q2,dat
+2.1,125.0,,,5.0,__missing__,dat
+2.65,70.0,2.0,,7.0,Q7,can ho chung cu
+31.0,74.0,2.0,,,TP_Thu_Duc,can ho chung cu
+3.1,237.2,,,,__missing__,dat
+36.0,73.0,2.0,,,Q7,can ho chung cu
+109.0,,,,,Can_Gio,dat
+11.0,608.0,,,12.0,Hoc_Mon,"kho, nha xuong"
+6.4,200.0,,,10.0,Hoc_Mon,"kho, nha xuong"
+3.8,41.0,1.0,,,Binh_Thanh,can ho chung cu
+4.6,70.0,2.0,,,Nha_Be,can ho chung cu
+12.2,1527.3,,,,__missing__,dat
+11.49,86.0,,,4.5,Binh_Thanh,nha rieng
+5.1,42.0,2.0,1.0,4.0,TP_Thu_Duc,nha rieng
+1.25,20.0,1.0,,4.0,Q5,can ho chung cu
+1.45,109.8,,,,__missing__,dat
+8.5,108.0,,5.0,5.0,Q9,dat
+2.8,72.0,3.0,2.0,,__missing__,nha rieng
+99.0,1000.0,,,23.0,TP_Thu_Duc,dat
+6.5,58.0,,,4.0,Tan_Phu,nha rieng
+43.0,140.0,,6.0,7.0,Q1,nha rieng
+9.6,120.0,,,6.0,Q9,dat
+21.0,2983.3,,,,Cu_Chi,dat
+16.0,459.0,,,8.32,Q12,dat
+305.0,50.0,1.0,,,Q9,can ho chung cu
+1.35,126.0,,,7.0,__missing__,dat
+2.5,164.0,,,5.5,Can_Gio,dat
+7.0,74.0,,,4.0,TP_Thu_Duc,dat
+5.9,92.0,,,,TP_Thu_Duc,can ho chung cu
+3.6,320.0,,,17.0,Nha_Be,dat
+2.0,281.0,2.0,,9.0,Cu_Chi,nha rieng
+150.0,,,,,Binh_Chanh,dat
+0.45,27.0,2.0,2.0,3.7,Hoc_Mon,nha rieng
+11.85,359.0,,,15.0,__missing__,dat
+9.3,287.5,,,12.0,Nha_Be,dat
+4.59,65.0,2.0,1.0,4.0,Tan_Phu,nha rieng
+50.0,909.8,,,,__missing__,dat
+0.75,50.0,,,5.0,Binh_Chanh,dat
+14.0,470.0,,,10.0,__missing__,dat
+2.25,108.0,,,5.0,__missing__,dat
+1.85,150.0,,,5.0,__missing__,dat
+35.0,1180.0,,,30.0,TP_Thu_Duc,dat
+450.0,450.8,,,,__missing__,nha rieng
+2.9,201.3,,,,Cu_Chi,dat
+9.2,131.0,,,6.0,TP_Thu_Duc,dat
+8.4,196.0,,,8.0,Hoc_Mon,dat
+2.1,30.0,1.0,,,Nha_Be,can ho chung cu
+14.5,,,,41.0,__missing__,dat
+9.4,93.0,4.0,4.0,4.2,TP_Thu_Duc,nha rieng
+2.05,1834.0,,,23.0,__missing__,dat
+2.2,150.0,,,5.0,__missing__,dat
+33.98,,,,80.0,Hoc_Mon,dat
+9.7,82.0,2.0,,,Q7,can ho chung cu
+9.2,36.7,5.0,4.0,3.1,Q10,nha rieng
+30.0,2800.0,,,33.0,Hoc_Mon,dat
+489.0,52.0,,,4.0,Q12,dat
+37.0,69.0,2.0,,,Q9,can ho chung cu
+1.74,73.0,2.0,,,Q8,can ho chung cu
+6.7,131.0,,,13.0,Q9,dat
+2.5,75.0,2.0,,,Nha_Be,can ho chung cu
+6.4,100.0,3.0,,,Q9,can ho chung cu
+4.0,40.0,,,4.0,Tan_Binh,nha rieng
+9.16,82.5,,4.0,5.0,Go_Vap,nha rieng
+2.59,146.0,,,8.65,__missing__,dat
+4.5,68.0,3.0,2.0,4.0,Binh_Tan,nha rieng
+16.0,180.0,3.0,,,Q7,nha tro
+2.05,90.0,,,,__missing__,dat
+26.0,1949.0,,,11.0,Cu_Chi,dat
+20.7,1469.0,,,30.0,__missing__,dat
+3.8,346.4,,,12.0,__missing__,dat
+4.5,129.0,3.0,,,Nha_Be,can ho chung cu
+4.2,110.0,,4.0,7.7,Q12,dat
+9.9,165.0,3.0,,,Q7,can ho chung cu
+15.0,100.0,6.0,4.0,5.0,Q12,nha rieng
+2.25,65.0,2.0,,,Tan_Phu,can ho chung cu
+4.3,74.0,2.0,,,Q9,can ho chung cu
+7.2,150.0,,,,__missing__,nha rieng
+34.0,255.0,,7.0,10.0,Q12,khach san
+156.0,,,,11.0,Hoc_Mon,dat
+2.98,100.0,,,5.0,__missing__,dat
+5.75,77.0,2.0,12.0,,Go_Vap,can ho chung cu
+0.975,40.0,,,4.0,Cu_Chi,nha rieng
+9.8,1970.0,,,49.0,Q12,dat
+285.0,54.0,1.0,,,Q9,can ho chung cu
+11.5,1074.9,,,12.0,Q12,dat
+4.7,88.0,,,5.0,__missing__,dat
+7.5,115.0,,6.0,5.0,Q9,dat
+11.0,82.0,,,3.0,Nha_Be,dat
+12.0,1290.7,,,14.0,__missing__,dat
+120.0,,,,,__missing__,dat
+18.5,200.0,,,7.0,Binh_Thanh,dat
+9.8,225.0,,1.0,10.3,Q9,nha rieng
+7.5,1093.0,,,19.0,__missing__,dat
+165.0,50.0,,1.0,,Binh_Tan,can ho chung cu
+25.0,204.0,,,6.0,Q9,dat
+8.64,108.0,,,4.0,Binh_Chanh,dat
+4.05,24.0,2.0,4.0,4.0,Phu_Nhuan,nha rieng
+1.8,163.0,,,5.0,Q12,dat
+23.0,118.0,3.0,,,Q1,can ho chung cu
+6.7,150.0,,,5.0,Q9,dat
+1.48,91.8,,,5.0,__missing__,dat
+3.2,822.0,,,20.0,Cu_Chi,dat
+10.95,225.0,2.0,,9.0,__missing__,dat
+12.0,419.0,,,10.0,__missing__,nha rieng
+2.8,53.5,,,,TP_Thu_Duc,dat
+54.0,177.0,,,8.0,Q7,khach san
+31.0,500.0,,,8.6,Q12,dat
+3.5,75.0,2.0,,,Binh_Tan,can ho chung cu
+7.0,2853.0,,,40.0,Cu_Chi,dat
+17.0,100.0,,3.0,5.0,Tan_Phu,nha rieng
+7.7,100.0,6.0,1.0,5.0,TP_Thu_Duc,nha rieng
+39.5,242.0,,,11.0,Binh_Tan,dat
+13.8,108.0,7.0,4.0,5.0,Go_Vap,nha rieng
+3.2,27.0,1.0,2.0,3.0,__missing__,nha rieng
+5.32,71.0,2.0,,,Nha_Be,can ho chung cu
+12.0,215.0,6.0,3.0,25.0,TP_Thu_Duc,can ho chung cu
+2.2,1307.0,,,46.0,Cu_Chi,dat
+7.6,432.0,,,10.0,Can_Gio,dat
+23.0,,,,30.0,__missing__,dat
+34.0,118.0,3.0,,,Q1,can ho chung cu
+4.7,1000.0,,,25.0,Binh_Chanh,dat
+565.0,80.0,2.0,3.0,,Q9,can ho chung cu
+209.0,62.0,2.0,,,Q8,can ho chung cu
+1.8,81.5,,,5.0,Cu_Chi,dat
+30.0,1114.5,,,5.0,__missing__,dat
+5.69,196.0,,,7.0,Q12,dat
+19.0,1356.9,,,,__missing__,dat
+12.8,140.0,3.0,,3.0,Q7,can ho chung cu
+11.0,75.0,,,5.0,TP_Thu_Duc,can ho chung cu
+2.2,1117.0,,,17.0,__missing__,dat
+3.15,56.0,,,5.3,Q9,dat
+18.5,255.0,,,,__missing__,nha rieng
+1.75,115.0,,,5.0,Cu_Chi,dat
+18.0,2466.0,,1.0,35.0,Cu_Chi,dat
+370.0,,,,,Q12,"kho, nha xuong"
+25.0,102.0,,2.0,4.8,__missing__,nha rieng
+23.0,78.0,3.0,,,Binh_Chanh,can ho chung cu
+3.55,198.0,,,8.0,__missing__,dat
+11.0,90.0,,1.0,4.0,Q4,nha rieng
+1.85,104.2,,,,__missing__,dat
+7.3,38.0,3.0,3.0,3.5,Phu_Nhuan,nha rieng
+6.89,966.0,2.0,,,Tan_Phu,can ho chung cu
+535.0,54.0,,,4.0,TP_Thu_Duc,dat
+4.25,125.0,,,5.0,Q12,dat
+73.5,1200.0,,2.0,25.0,Binh_Tan,"kho, nha xuong"
+25.0,386.0,,,12.0,__missing__,dat
+18.8,172.0,,,10.0,Q9,dat
+1.2,105.0,,,5.0,Can_Gio,dat
+29.5,,,,63.0,__missing__,dat
+2.4,59.0,2.0,,4.0,__missing__,can ho chung cu
+6.5,62.0,,,7.5,Binh_Thanh,nha rieng
+4.2,63.0,2.0,,,Tan_Phu,can ho chung cu
+25.0,,,,90.0,__missing__,dat
+8.35,264.9,,,24.0,__missing__,dat
+6.7,35.0,3.0,4.0,8.13,Tan_Phu,nha rieng
+12.0,1188.0,,,20.0,__missing__,dat
+6.4,77.0,,,5.0,TP_Thu_Duc,dat
+0.6,167.0,,,1.5,__missing__,dat
+811.0,,,,40.0,Nha_Be,dat
+3.5,100.0,,,,__missing__,nha rieng
+125.0,142.0,3.0,,,Q7,can ho chung cu
+6.67,4450.0,,,,__missing__,dat
+2.6,80.0,3.0,2.0,5.0,__missing__,nha rieng
+6.65,59.0,,,4.2,__missing__,dat
+3.6,1146.0,,,10.0,Cu_Chi,dat
+2.15,191.0,,,5.0,Cu_Chi,dat
+28.0,379.0,,,9.2,Q2,dat
+5.3,71.0,2.0,,,Q10,can ho chung cu
+3.1,257.6,,,10.0,Cu_Chi,dat
+5.2,186.8,,,,__missing__,dat
+0.53,250.0,,,5.0,__missing__,dat
+90.0,,,,,Tan_Phu,"kho, nha xuong"
+2.49,47.0,1.0,,,Q9,can ho chung cu
+30.0,2100.0,,,,Can_Gio,dat
+6.8,210.0,,,5.0,Binh_Tan,"kho, nha xuong"
+70.0,,,,,__missing__,dat
+2.2,30.0,,,,Nha_Be,can ho chung cu
+2.88,51.0,,,4.6,Q9,dat
+82.0,110.0,,,10.0,TP_Thu_Duc,dat
+2.28,66.0,2.0,,,Binh_Thanh,can ho chung cu
+39.0,200.0,,4.0,10.0,Q7,dat
+1.09,985.9,,,,__missing__,dat
+7.6,116.0,3.0,,,Q7,can ho chung cu
+0.99,12.0,,,,Q5,can ho chung cu
+4.0,371.0,,,7.0,__missing__,dat
+33.0,,,,20.0,Can_Gio,dat
+6.0,1065.8,,,35.0,__missing__,dat
+5.3,74.0,4.0,4.0,6.0,Q12,nha rieng
+5.8,304.0,,,10.0,__missing__,nha rieng
+185.0,85.0,,,5.0,Binh_Thanh,dat
+25.0,306.0,,,15.0,Q9,dat
+3.6,195.0,2.0,1.0,2.5,__missing__,nha rieng
+14.5,100.0,9.0,3.0,5.0,__missing__,nha rieng
+150.0,1000.0,,,30.0,Q9,dat
+7.5,89.0,,,16.0,TP_Thu_Duc,dat
+1.1,1247.4,,,,__missing__,dat
+3.25,40.0,3.0,1.0,5.0,Nha_Be,nha rieng
+1.85,35.0,2.0,2.0,3.0,Q7,nha rieng
+3.5,853.8,,,25.0,__missing__,dat
+23.0,1373.0,,,23.0,__missing__,dat
+2.19,33.0,,,,Q9,can ho chung cu
+5.08,2989.0,,,27.0,Can_Gio,dat
+8.12,225.67,,,,Binh_Tan,dat
+0.78,,,,5.0,__missing__,dat
+36.5,,,,,__missing__,dat
+1.3,105.0,,,5.0,Cu_Chi,dat
+7.78,65.0,6.0,5.0,5.0,Tan_Phu,nha rieng
+14.5,119.9,,,,__missing__,nha rieng
+8.0,60.0,4.0,3.0,5.0,Tan_Binh,nha rieng
+72.5,502.0,,4.0,15.0,TP_Thu_Duc,nha rieng
+3.05,67.0,3.0,3.0,4.0,Q1,nha rieng
+130.0,3171.0,,,50.0,Q9,dat
+1.85,84.0,,,4.2,__missing__,dat
+49.0,1665.0,,,,Hoc_Mon,dat
+5.3,120.0,,,5.0,TP_Thu_Duc,dat
+3.0,400.8,,,,__missing__,dat
+0.2,,,,,Hoc_Mon,dat
+0.73,233.7,,,,__missing__,dat
+33.0,2500.0,,,37.0,Hoc_Mon,"kho, nha xuong"
+4.7,92.0,2.0,,,Binh_Thanh,can ho chung cu
+4.15,40.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+0.8,100.0,,,6.0,Cu_Chi,nha rieng
+0.64376,1609.0,,,15.0,__missing__,dat
+64.0,,,,70.0,Q12,dat
+6.3,107.0,3.0,,,Q7,can ho chung cu
+16.2,90.0,,6.0,5.0,Q9,dat
+359.0,94.0,,,5.9,Hoc_Mon,dat
+19.2,55.0,5.0,5.0,4.0,Q1,nha rieng
+9.15,100.0,,,4.0,Binh_Tan,nha rieng
+13.0,100.0,6.0,3.0,5.0,Binh_Tan,nha rieng
+3.5,149.6,,,,__missing__,dat
+3.0,47.0,2.0,4.0,8.0,Q1,can ho chung cu
+36.0,565.0,,,14.0,Binh_Tan,"kho, nha xuong"
+6.0,,,,,__missing__,dat
+6.0,666.0,,,29.0,__missing__,dat
+0.66,33.0,1.0,,,Binh_Tan,can ho chung cu
+25.0,1600.0,,,28.0,Hoc_Mon,dat
+13.5,145.0,,,,__missing__,dat
+4.98,60.0,4.0,4.0,4.0,Q12,dat
+3.25,120.0,8.0,2.0,6.0,TP_Thu_Duc,nha tro
+19.97,363.0,,,10.0,Nha_Be,dat
+7.0,87.0,,6.0,4.0,TP_Thu_Duc,dat
+35.0,57.0,2.0,5.0,,Q1,can ho chung cu
+16.0,4050.0,,,45.0,Nha_Be,dat
+3.1,621.0,,,12.0,__missing__,dat
+1.1,151.0,,,5.0,Cu_Chi,dat
+20.6,63.0,1.0,,,Q1,can ho chung cu
+16.0,200.0,,,5.0,Nha_Be,dat
+12.9,75.0,4.0,4.0,5.5,Q3,nha rieng
+15.0,85.0,,3.0,4.0,Phu_Nhuan,nha rieng
+0.7,120.0,,5.0,8.0,Binh_Chanh,dat
+2.68,1750.0,,,,Binh_Chanh,"kho, nha xuong"
+2.5,855.0,,,17.0,__missing__,dat
+15.5,202.0,,,10.0,TP_Thu_Duc,dat
+6.2,313.0,,,12.0,Binh_Chanh,dat
+6.99,2052.0,,,20.0,Cu_Chi,dat
+2.98,115.4,,,,Tan_Binh,dat
+3.5,526.0,,,14.2,Cu_Chi,dat
+45.0,90.0,2.0,,,Q4,can ho chung cu
+32.0,,,,100.0,__missing__,dat
+3.0,59.0,,,4.2,Binh_Tan,dat
+0.58,178.7,,,,__missing__,dat
+3.7,50.0,,,4.6,Q12,dat
+2.65,125.0,,,6.0,Can_Gio,dat
+4.15,70.0,,3.5,12.0,Q12,dat
+15.8,1043.0,,,15.0,Cu_Chi,nha rieng
+28.9,404.8,,,20.0,__missing__,dat
+13.0,122.0,,3.5,6.0,Q9,dat
+4.5,158.8,,,6.0,__missing__,dat
+16.5,207.0,2.0,2.0,12.0,__missing__,nha rieng
+65.0,4147.0,,,64.4,Hoc_Mon,dat
+182.0,1550.0,6.0,2.0,50.0,TP_Thu_Duc,nha rieng
+9.6,427.2,,,9.0,__missing__,nha rieng
+2.15,347.0,,,5.0,__missing__,dat
+5.15,38.0,,2.0,5.0,Tan_Phu,nha rieng
+11.5,180.0,,,4.6,Binh_Thanh,dat
+4.2,127.0,2.0,2.0,4.0,Q12,nha rieng
+3.25,80.0,,,5.0,Q9,dat
+4.0,249.0,,,8.8,__missing__,dat
+1.1,72.0,,,,__missing__,dat
+4.95,32.0,,2.0,4.0,Tan_Phu,nha rieng
+2.85,65.0,,,4.0,Hoc_Mon,dat
+2.5,150.0,,,,Cu_Chi,dat
+85.0,170.0,,4.0,5.2,Q9,dat
+0.98,200.0,,,5.0,__missing__,dat
+9.3,65.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+21.0,2301.7,,,25.0,__missing__,dat
+1.1,309.8,,,16.0,__missing__,dat
+5.7,120.0,,,,__missing__,dat
+10.2,78.0,,4.0,4.0,Binh_Thanh,dat
+9.6,184.1,,,9.0,__missing__,dat
+42.0,,,,42.0,__missing__,dat
+22.0,2554.4,,,25.0,Cu_Chi,dat
+5.0,50.0,,,4.4,TP_Thu_Duc,dat
+2.5,428.0,2.0,,11.0,Hoc_Mon,nha rieng
+2.25,100.0,,,5.0,Cu_Chi,dat
+1.9,53.0,1.0,,,Binh_Chanh,can ho chung cu
+1.8,614.0,,,12.0,Cu_Chi,dat
+10.0,90.1,4.0,1.0,5.0,__missing__,nha rieng
+23.5,240.0,,1.0,8.0,Hoc_Mon,"kho, nha xuong"
+11.0,490.0,,,14.0,Binh_Tan,"kho, nha xuong"
+1.68,67.0,2.0,,,Q11,can ho chung cu
+105.0,108.0,2.0,,,Binh_Thanh,can ho chung cu
+5.0,81.0,2.0,,,Q7,can ho chung cu
+34.38,1910.0,,,50.0,Q9,dat
+72.0,300.0,,7.0,10.0,Q7,dat
+2.15,100.0,,,5.0,Q9,dat
+3.27,68.0,2.0,,,Q9,can ho chung cu
+6.8,930.3,,,80.0,__missing__,dat
+96.0,1810.0,,,20.0,TP_Thu_Duc,dat
+15.9,286.0,,,13.0,Q12,dat
+12.8,68.0,,4.0,4.3,Tan_Phu,nha rieng
+2.9,51.0,,,4.0,Q9,dat
+3.0,59.0,2.0,,,Q9,can ho chung cu
+2.94,69.0,2.0,,,Q9,can ho chung cu
+12.5,422.0,,,20.0,Q12,dat
+8.5,69.0,4.0,4.0,4.0,__missing__,nha rieng
+2.25,104.3,,,5.0,__missing__,dat
+20.0,,,,54.0,__missing__,dat
+1.98,77.0,2.0,,,Q4,can ho chung cu
+5.6,77.0,2.0,,,Q7,can ho chung cu
+445.0,80.0,2.0,,,Q7,can ho chung cu
+75.0,99.0,2.0,,,Q7,can ho chung cu
+3.75,25.0,2.0,2.0,3.2,Q8,nha rieng
+1.7,1000.0,,,16.0,__missing__,dat
+72.0,58.0,,,4.1,Binh_Thanh,dat
+3.4,404.0,,,10.0,__missing__,dat
+6.35,87.0,3.0,,,Q7,can ho chung cu
+4.2,55.0,,,6.0,Binh_Tan,dat
+9.6,427.2,2.0,,9.0,__missing__,nha rieng
+2.1,,,,5.0,__missing__,dat
+8.2,265.0,,,24.0,Nha_Be,dat
+2.99,170.5,,,6.0,__missing__,dat
+69.0,5000.0,,,50.0,Binh_Chanh,"kho, nha xuong"
+12.5,215.9,,,6.0,__missing__,dat
+7.9,50.0,7.0,,4.0,Go_Vap,can ho chung cu
+7.8,55.0,4.0,3.0,4.5,Tan_Binh,nha rieng
+10.5,74.0,4.0,3.0,4.03,TP_Thu_Duc,nha rieng
+183.0,27.0,2.0,,,Q7,can ho chung cu
+19.0,49.0,4.0,4.0,3.5,Q1,nha rieng
+8.9,95.0,6.0,5.0,6.0,Binh_Tan,nha rieng
+3.62,54.0,,,5.0,Q9,dat
+6.0,140.0,3.0,,7.0,Q7,can ho chung cu
+38.0,,,1.0,70.0,Cu_Chi,dat
+4.9,59.0,,,,Q12,dat
+17.0,392.0,,4.0,13.15,Q9,dat
+3.95,155.0,,,9.0,Cu_Chi,dat
+7.9,220.4,,,7.0,__missing__,dat
+1.25,225.0,,,,__missing__,dat
+79.0,176.0,,9.0,8.0,Q10,nha rieng
+5.5,50.0,,5.0,4.0,TP_Thu_Duc,dat
+26.0,900.0,,,18.87,Hoc_Mon,"kho, nha xuong"
+1.75,33.0,,,,Q6,can ho chung cu
+25.0,976.0,,1.0,25.0,Hoc_Mon,dat
+12.6,120.0,7.0,4.0,8.0,Go_Vap,nha rieng
+0.88,499.0,,,5.0,Cu_Chi,dat
+22.0,109.0,3.0,,1.0,Binh_Thanh,can ho chung cu
+1.6,454.0,,,5.0,__missing__,dat
+3.5,105.0,,,5.0,Q7,dat
+7.6,97.0,,5.0,5.0,Nha_Be,dat
+0.895,600.9,,,,__missing__,dat
+7.0,1520.0,,,,Can_Gio,dat
+4.39,95.1,,,,__missing__,nha rieng
+2.35,67.0,2.0,1.0,5.0,__missing__,nha rieng
+3.26,94.0,3.0,26.0,,Q7,can ho chung cu
+9.2,73.0,1.0,,,Binh_Thanh,can ho chung cu
+17.5,128.0,,,8.0,Go_Vap,dat
+5.3,80.0,2.0,,,Q10,can ho chung cu
+21.5,117.0,,,5.0,Q2,dat
+19.0,436.0,,,13.0,__missing__,dat
+20.0,70.0,,7.0,5.23,Q7,khach san
+6.95,84.0,,4.0,5.0,Go_Vap,dat
+1.83,50.0,,,,Q8,can ho chung cu
+225.0,1100.0,,,20.0,Binh_Thanh,dat
+7.6,157.0,,,5.0,Q9,dat
+39.0,,,,37.0,Cu_Chi,dat
+0.69,249.8,,,5.0,__missing__,dat
+275.0,55.0,1.0,,,Q9,can ho chung cu
+4.59,100.9,,,4.5,Q9,dat
+14.0,170.0,,,10.0,Go_Vap,dat
+4.5,43.0,1.0,4.0,,Q4,can ho chung cu
+1.0,80.0,,,10.0,Cu_Chi,dat
+2.2,774.0,,,13.0,__missing__,dat
+50.0,1200.0,,,,__missing__,dat
+24.9,327.0,5.0,2.0,15.0,__missing__,nha rieng
+2.23,64.0,2.0,,,Binh_Tan,can ho chung cu
+25.5,372.0,,,,Q12,"kho, nha xuong"
+3.05,56.0,,,4.5,Hoc_Mon,dat
+2.5,72.0,2.0,81.0,,Nha_Be,can ho chung cu
+14.0,720.0,,,10.0,Hoc_Mon,dat
+55.0,939.0,,,15.0,Q12,"kho, nha xuong"
+1.2,171.0,,,12.0,Cu_Chi,dat
+44.0,66.0,,,8.0,Q7,dat
+9.5,135.0,,,5.0,Q9,dat
+1.25,120.0,,,5.0,__missing__,dat
+11.5,536.0,10.0,2.0,10.0,__missing__,can ho chung cu
+3.1,160.3,,,,__missing__,dat
+6.7,116.0,,,10.0,TP_Thu_Duc,can ho chung cu
+7.9,142.9,,2.0,10.0,__missing__,nha rieng
+25.0,2301.7,,,,__missing__,dat
+12.5,120.0,,,4.7,Tan_Phu,dat
+2.5,3019.6,,,5.0,__missing__,dat
+2.5,100.0,,,5.0,__missing__,dat
+3.6,146.0,,2.0,5.0,Binh_Chanh,nha rieng
+15.0,164.0,,,10.0,Hoc_Mon,dat
+175.0,,,,46.0,Hoc_Mon,"kho, nha xuong"
+5.1,100.0,3.0,,,Tan_Phu,can ho chung cu
+115.0,,,,,__missing__,dat
+5.5,107.0,,,5.0,Hoc_Mon,dat
+12.0,86.0,,,,__missing__,dat
+2.25,60.0,,,,Q1,can ho chung cu
+5.2,1160.0,,,22.0,__missing__,dat
+6.0,1104.0,,,11.0,__missing__,dat
+2.0,1153.5,,,20.0,__missing__,dat
+1.65,93.9,,,,__missing__,dat
+12.0,1006.0,,,20.0,Nha_Be,dat
+5.8,62.0,,,,Q9,dat
+18.9,52.0,,,,Q1,can ho chung cu
+2.63,62.9,,,,__missing__,nha rieng
+4.3,90.0,2.0,1.0,4.7,TP_Thu_Duc,nha rieng
+24.0,50.0,,,,Nha_Be,can ho chung cu
+32.0,800.0,,,43.0,Q9,dat
+4.0,67.0,2.0,,,Q9,can ho chung cu
+16.0,90.0,,5.0,4.3,Tan_Binh,nha rieng
+220.0,,,,30.0,Binh_Chanh,dat
+1.78,156.0,,,6.0,__missing__,dat
+8.0,98.0,,,,Q7,can ho chung cu
+16.0,111.0,5.0,5.0,4.2,TP_Thu_Duc,nha rieng
+18.0,1200.0,2.0,2.0,20.0,Binh_Chanh,dat
+2.3,125.0,,,5.0,Hoc_Mon,dat
+1.65,71.0,2.0,,,Q8,can ho chung cu
+35.0,150.0,,,9.0,Q7,khach san
+26.0,47.0,1.0,,,Q9,can ho chung cu
+7.0,203.0,,,8.0,Hoc_Mon,dat
+23.0,3200.0,,,80.0,__missing__,dat
+4.5,80.0,,,4.0,Binh_Tan,dat
+30.0,150.0,,,6.0,Q9,dat
+150.0,1723.0,,,40.0,Hoc_Mon,dat
+57.0,300.0,,,15.0,TP_Thu_Duc,dat
+5.4,71.0,,,5.0,Tan_Phu,dat
+150.0,,,,40.0,TP_Thu_Duc,dat
+4.85,52.0,2.0,2.0,4.0,Binh_Tan,nha rieng
+4.25,92.0,2.0,,,Q7,nha tro
+1.56,67.0,2.0,,,Q9,can ho chung cu
+12.4,147.0,3.0,,,Q7,can ho chung cu
+1.89,65.0,2.0,,,Q6,can ho chung cu
+15.5,135.0,3.0,,,Q7,can ho chung cu
+16.4,180.0,7.0,3.0,5.6,Q8,nha rieng
+216.0,,,,,__missing__,dat
+14.5,510.0,,,,Hoc_Mon,dat
+7.3,78.0,2.0,,,Q7,can ho chung cu
+3.4,100.0,,,5.0,__missing__,dat
+3.85,100.0,,,5.0,Hoc_Mon,dat
+195.0,3400.0,,,66.0,Q2,dat
+1.65,179.0,,,6.0,__missing__,dat
+5.0,458.0,,,10.0,Cu_Chi,dat
+6.46,117.5,,,5.0,Nha_Be,dat
+8.3,68.0,3.0,2.0,5.7,Tan_Phu,nha rieng
+5.2,,,,,Nha_Be,dat
+4.1,92.0,2.0,,,Q7,can ho chung cu
+6.2,52.5,4.0,3.0,4.2,Binh_Tan,nha rieng
+6.0,91.0,2.0,,,Q7,can ho chung cu
+56.48,1412.0,,,23.0,TP_Thu_Duc,dat
+6.85,64.0,2.0,2.0,4.0,Tan_Phu,nha rieng
+69.5,867.0,,,,TP_Thu_Duc,dat
+18.5,250.0,,3.0,10.0,Q12,nha tro
