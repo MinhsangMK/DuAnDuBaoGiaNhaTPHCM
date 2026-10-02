@@ -11,6 +11,35 @@ và dự báo giá bất động sản bằng Streamlit. Giá dự đoán đư�
 4. Chạy lần lượt bốn notebook trong `notebooks/` để xem báo cáo từng bước.
 5. Chạy `python -m streamlit run app/app.py` để mở ứng dụng.
 
+## Lưu dữ liệu đóng góp lên GitHub
+
+Ứng dụng có biểu mẫu quản trị để lưu nối thêm các quan sát có **giá thực tế**
+vào `data/contributions/verified_listings.json` trên GitHub. Dữ liệu mới được
+đánh dấu `pending_review`, không tự đưa vào tập kiểm thử và không làm model tự
+huấn luyện lại. Chỉ sau khi kiểm tra chất lượng và quyền sử dụng dữ liệu, quản
+trị viên mới nên tích hợp chúng vào một lần huấn luyện có phiên bản.
+
+Để bật tính năng trên Streamlit Community Cloud, thêm secret sau trong phần
+**App settings → Secrets**. Dùng fine-grained GitHub token chỉ cấp quyền
+`Contents: Read and write` cho đúng repository; không commit token hoặc mật
+khẩu quản trị vào Git:
+
+```toml
+[github]
+owner = "MinhsangMK"
+repo = "DuAnDuBaoGiaNhaTPHCM"
+branch = "main"
+path = "data/contributions/verified_listings.json"
+token = "GITHUB_FINE_GRAINED_TOKEN"
+admin_password = "MAT_KHAU_QUAN_TRI_DAI_VA_NGAU_NHIEN"
+```
+
+Mỗi lần lưu tạo một commit lên nhánh đã cấu hình. Nếu repository công khai thì
+các trường tổng quát đã gửi và lịch sử commit cũng công khai; biểu mẫu yêu cầu
+xác nhận trước khi ghi. Không nhập địa chỉ chi tiết, tên, số điện thoại, mô tả
+tin hoặc dữ liệu cá nhân. GitHub Contents API giới hạn kích thước tệp; khi tập
+đóng góp tăng lớn, hãy chuyển sang cơ sở dữ liệu thay vì tiếp tục lưu trong Git.
+
 ## Nguồn tham khảo công khai
 
 Dataset Kaggle do người dùng cung cấp: [Apartment prices in the city Ho Chi Minh City](https://www.kaggle.com/datasets/hoandan/apartment-prices-in-the-city-ho-chi-minh-city). Theo phần giới thiệu trên Kaggle, dữ liệu gồm gần 2.000 căn hộ và được thu thập từ Chotot.vn.
