@@ -29,7 +29,8 @@ PROCESSED_PATH = PROJECT_ROOT / "data" / "processed" / "tphcm_cleaned.csv"
 REFERENCE_PATH = PROJECT_ROOT / "data" / "demo" / "tphcm_sample_5000.csv"
 MODEL_PATH = PROJECT_ROOT / "models" / "gia_nha_tphcm.joblib"
 SCORES_PATH = PROJECT_ROOT / "outputs" / "model_comparison.csv"
-TRAIN_SAMPLE_SIZE = 5000
+TRAIN_SAMPLE_SIZE = None
+PUBLIC_SAMPLE_SIZE = 5000
 TRAIN_SAMPLE_SEED = 42
 PUBLIC_SAMPLE_COLUMNS = [
     "price_bil", "area_m2", "bedrooms", "floors", "frontage",
@@ -405,9 +406,13 @@ def clean_data(raw):
     return cleaned, report
 
 
-def select_training_sample(data, sample_size=TRAIN_SAMPLE_SIZE, random_state=TRAIN_SAMPLE_SEED):
-    if len(data) <= sample_size:
+def select_training_sample(
+    data, sample_size=TRAIN_SAMPLE_SIZE, random_state=TRAIN_SAMPLE_SEED
+):
+    if sample_size is None or len(data) <= sample_size:
         return data.reset_index(drop=True).copy()
+    if sample_size < 1:
+        raise ValueError("sample_size phải là số nguyên dương hoặc None.")
     return data.sample(n=sample_size, random_state=random_state).reset_index(drop=True)
 
 
@@ -416,7 +421,9 @@ def save_processed_data(data, report=None):
     data.to_csv(PROCESSED_PATH, index=False, encoding="utf-8-sig")
 
     REFERENCE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    public_sample = select_training_sample(data)
+    public_sample = select_training_sample(
+        data, sample_size=PUBLIC_SAMPLE_SIZE
+    )
     public_sample[PUBLIC_SAMPLE_COLUMNS].to_csv(
         REFERENCE_PATH, index=False, encoding="utf-8-sig"
     )
@@ -582,10 +589,7 @@ def train_and_save(data=None):
 
     full_data_rows = len(data)
     data = select_training_sample(data)
-    print(
-        f"Huấn luyện trên {len(data):,}/{full_data_rows:,} tin "
-        f"(seed={TRAIN_SAMPLE_SEED})."
-    )
+    print(f"Huấn luyện và đánh giá trên toàn bộ {len(data):,} tin hợp lệ.")
 
     X = data[FEATURE_COLUMNS].copy()
     y = data["price_bil"].astype(float)

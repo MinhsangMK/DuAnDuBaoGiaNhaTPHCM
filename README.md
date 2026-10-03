@@ -48,9 +48,11 @@ Dataset này khác với CSV 51.304 tin đang được xử lý trong project; p
 
 ## Dữ liệu và quyền riêng tư
 
-Toàn bộ tin hợp lệ được giữ trong máy để khám phá và làm sạch. Huấn luyện dùng mẫu
-ngẫu nhiên cố định tối đa 5.000 tin (`seed=42`), giúp chạy nhanh và lặp lại được.
-`data/demo/tphcm_sample_5000.csv` chỉ gồm giá, diện tích, phòng ngủ, số tầng,
+Toàn bộ tin hợp lệ được giữ trong máy để khám phá, làm sạch và huấn luyện.
+Pipeline huấn luyện/đánh giá dùng toàn bộ dữ liệu có giá hợp lệ; chia 80/20
+train/holdout với `random_state=42`, rồi fit model cuối trên toàn bộ dữ liệu.
+Riêng `data/demo/tphcm_sample_5000.csv` vẫn chỉ là mẫu công khai tối đa 5.000
+dòng, gồm giá, diện tích, phòng ngủ, số tầng,
 mặt tiền, quận và loại bất động sản; không gồm mô tả, phường, tọa độ, ID hay
 thông tin môi giới. CSV gốc và dữ liệu làm sạch đầy đủ được loại khỏi Git.
 
@@ -61,9 +63,21 @@ tên người đăng, mô tả gốc hoặc dữ liệu định vị chính xác
 ## Phương pháp và giới hạn
 
 So sánh Ridge Regression, Random Forest và XGBoost bằng MAE, RMSE, R² trên tập
-kiểm tra 20% của mẫu. Tiền xử lý gồm trích xuất đặc trưng, chuẩn hóa một phần địa
+holdout 20% của toàn bộ dữ liệu hợp lệ. Tiền xử lý gồm trích xuất đặc trưng, chuẩn hóa một phần địa
 chỉ, TF-IDF, imputation trong pipeline và log-transform giá mục tiêu. XGBoost
 thử CUDA khi khả dụng và tự chuyển CPU nếu không.
+
+### Kết quả lần chạy toàn bộ CSV
+
+CSV có 51.304 dòng; sau làm sạch còn 51.132 tin có giá hợp lệ. Lượt đánh giá
+dùng 40.905 dòng train và 10.227 dòng holdout. Model triển khai được fit lại
+trên cả 51.132 dòng.
+
+| Mô hình | MAE (tỷ VND) | RMSE (tỷ VND) | R² | Thiết bị |
+| --- | ---: | ---: | ---: | --- |
+| XGBoost | 25,30 | 84,05 | 0,0395 | GPU |
+| Ridge Regression | 26,02 | 84,89 | 0,0202 | CPU |
+| Random Forest | 27,54 | 86,82 | -0,0249 | CPU |
 
 Tin rao có phân phối giá lệch mạnh và nhiều trường thiếu. Kết quả là tham khảo
 học thuật, không phải thẩm định giá. Hãy xem `outputs/model_comparison.csv` trước

@@ -38,7 +38,8 @@ PROCESSED_PATH = PROJECT_ROOT / "data" / "processed" / "tphcm_cleaned.csv"
 REFERENCE_PATH = PROJECT_ROOT / "data" / "demo" / "tphcm_sample_5000.csv"
 MODEL_PATH = PROJECT_ROOT / "models" / "gia_nha_tphcm.joblib"
 SCORES_PATH = PROJECT_ROOT / "outputs" / "model_comparison.csv"
-TRAIN_SAMPLE_SIZE = 5000
+TRAIN_SAMPLE_SIZE = None
+PUBLIC_SAMPLE_SIZE = 5000
 TRAIN_SAMPLE_SEED = 42
 PUBLIC_SAMPLE_COLUMNS = [
     "price_bil", "area_m2", "bedrooms", "floors", "frontage",
@@ -414,9 +415,13 @@ def clean_data(raw):
     return cleaned, report
 
 
-def select_training_sample(data, sample_size=TRAIN_SAMPLE_SIZE, random_state=TRAIN_SAMPLE_SEED):
-    if len(data) <= sample_size:
+def select_training_sample(
+    data, sample_size=TRAIN_SAMPLE_SIZE, random_state=TRAIN_SAMPLE_SEED
+):
+    if sample_size is None or len(data) <= sample_size:
         return data.reset_index(drop=True).copy()
+    if sample_size < 1:
+        raise ValueError("sample_size phải là số nguyên dương hoặc None.")
     return data.sample(n=sample_size, random_state=random_state).reset_index(drop=True)
 
 
@@ -425,7 +430,9 @@ def save_processed_data(data, report=None):
     data.to_csv(PROCESSED_PATH, index=False, encoding="utf-8-sig")
 
     REFERENCE_PATH.parent.mkdir(parents=True, exist_ok=True)
-    public_sample = select_training_sample(data)
+    public_sample = select_training_sample(
+        data, sample_size=PUBLIC_SAMPLE_SIZE
+    )
     public_sample[PUBLIC_SAMPLE_COLUMNS].to_csv(
         REFERENCE_PATH, index=False, encoding="utf-8-sig"
     )
@@ -591,10 +598,7 @@ def train_and_save(data=None):
 
     full_data_rows = len(data)
     data = select_training_sample(data)
-    print(
-        f"Huấn luyện trên {len(data):,}/{full_data_rows:,} tin "
-        f"(seed={TRAIN_SAMPLE_SEED})."
-    )
+    print(f"Huấn luyện và đánh giá trên toàn bộ {len(data):,} tin hợp lệ.")
 
     X = data[FEATURE_COLUMNS].copy()
     y = data["price_bil"].astype(float)
@@ -962,9 +966,11 @@ Dataset này khác với CSV 51.304 tin đang được xử lý trong project; p
 
 ## Dữ liệu và quyền riêng tư
 
-Toàn bộ tin hợp lệ được giữ trong máy để khám phá và làm sạch. Huấn luyện dùng mẫu
-ngẫu nhiên cố định tối đa 5.000 tin (`seed=42`), giúp chạy nhanh và lặp lại được.
-`data/demo/tphcm_sample_5000.csv` chỉ gồm giá, diện tích, phòng ngủ, số tầng,
+Toàn bộ tin hợp lệ được giữ trong máy để khám phá, làm sạch và huấn luyện.
+Pipeline huấn luyện/đánh giá dùng toàn bộ dữ liệu có giá hợp lệ; chia 80/20
+train/holdout với `random_state=42`, rồi fit model cuối trên toàn bộ dữ liệu.
+Riêng `data/demo/tphcm_sample_5000.csv` vẫn chỉ là mẫu công khai tối đa 5.000
+dòng, gồm giá, diện tích, phòng ngủ, số tầng,
 mặt tiền, quận và loại bất động sản; không gồm mô tả, phường, tọa độ, ID hay
 thông tin môi giới. CSV gốc và dữ liệu làm sạch đầy đủ được loại khỏi Git.
 
@@ -975,9 +981,21 @@ tên người đăng, mô tả gốc hoặc dữ liệu định vị chính xác
 ## Phương pháp và giới hạn
 
 So sánh Ridge Regression, Random Forest và XGBoost bằng MAE, RMSE, R² trên tập
-kiểm tra 20% của mẫu. Tiền xử lý gồm trích xuất đặc trưng, chuẩn hóa một phần địa
+holdout 20% của toàn bộ dữ liệu hợp lệ. Tiền xử lý gồm trích xuất đặc trưng, chuẩn hóa một phần địa
 chỉ, TF-IDF, imputation trong pipeline và log-transform giá mục tiêu. XGBoost
 thử CUDA khi khả dụng và tự chuyển CPU nếu không.
+
+### Kết quả lần chạy toàn bộ CSV
+
+CSV có 51.304 dòng; sau làm sạch còn 51.132 tin có giá hợp lệ. Lượt đánh giá
+dùng 40.905 dòng train và 10.227 dòng holdout. Model triển khai được fit lại
+trên cả 51.132 dòng.
+
+| Mô hình | MAE (tỷ VND) | RMSE (tỷ VND) | R² | Thiết bị |
+| --- | ---: | ---: | ---: | --- |
+| XGBoost | 25,30 | 84,05 | 0,0395 | GPU |
+| Ridge Regression | 26,02 | 84,89 | 0,0202 | CPU |
+| Random Forest | 27,54 | 86,82 | -0,0249 | CPU |
 
 Tin rao có phân phối giá lệch mạnh và nhiều trường thiếu. Kết quả là tham khảo
 học thuật, không phải thẩm định giá. Hãy xem `outputs/model_comparison.csv` trước
@@ -1172,7 +1190,7 @@ def create_notebooks():
 
             Dùng đặc trưng số đã trích xuất, category hành chính/loại bất động sản và TF-IDF cho mô tả. `ColumnTransformer` giữ toàn bộ phép impute, one-hot và vector hóa bên trong pipeline để không fit trước trên tập kiểm tra.
 
-            Notebook minh họa cùng một mẫu cố định 5.000 dòng mà bước huấn luyện sử dụng.
+            Notebook khám phá toàn bộ dữ liệu hợp lệ; chỉ bản demo xuất ra mới giới hạn 5.000 dòng.
             """),
         ("code", setup + """
             from IPython.display import display
@@ -1180,6 +1198,7 @@ def create_notebooks():
             from src.pipeline import (
                 FEATURE_COLUMNS,
                 PUBLIC_SAMPLE_COLUMNS,
+                PUBLIC_SAMPLE_SIZE,
                 TRAIN_SAMPLE_SIZE,
                 load_processed_data,
                 select_training_sample,
@@ -1187,7 +1206,8 @@ def create_notebooks():
 
             full_data = load_processed_data()
             data = select_training_sample(full_data)
-            print(f"Mẫu huấn luyện: {len(data):,}/{len(full_data):,} dòng; seed=42")
+            print(f"Dữ liệu dùng để huấn luyện: {len(data):,}/{len(full_data):,} dòng")
+            print(f"Kích thước mẫu demo công khai: tối đa {PUBLIC_SAMPLE_SIZE:,} dòng")
             print("Đặc trưng dùng trong model:", FEATURE_COLUMNS)
             print("Cột được phép xuất trong bản demo:", PUBLIC_SAMPLE_COLUMNS)
             display(data[[
@@ -1222,7 +1242,7 @@ def create_notebooks():
         ("markdown", """
             # 04 — Huấn luyện và đánh giá mô hình
 
-            So sánh ba thuật toán trên cùng một mẫu cố định tối đa 5.000 tin: Ridge Regression, Random Forest và XGBoost. Tập kiểm tra chiếm 20%; XGBoost thử CUDA rồi tự fallback CPU nếu GPU không dùng được.
+            So sánh ba thuật toán trên toàn bộ dữ liệu hợp lệ: Ridge Regression, Random Forest và XGBoost. Tập holdout chiếm 20%; model cuối được fit lại trên toàn bộ dữ liệu. XGBoost thử CUDA rồi tự fallback CPU nếu GPU không dùng được.
 
             **Chỉ số:** MAE và RMSE tính theo tỷ VND; R² càng gần 1 càng tốt. Kết quả thấp/âm là dấu hiệu cần cải thiện dữ liệu hoặc phân khúc, không nên diễn giải thành giá thẩm định.
             """),
