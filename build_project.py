@@ -1292,7 +1292,8 @@ def main():
 
     write_file("src/pipeline.py", PIPELINE_SOURCE)
     write_file("src/__init__.py", "")
-    write_file("app/app.py", APP_SOURCE)
+    if not (ROOT / "app/app.py").exists():
+        write_file("app/app.py", APP_SOURCE)
     write_file("requirements.txt", REQUIREMENTS)
     write_file(".gitignore", GITIGNORE)
     write_file("README.md", README)
