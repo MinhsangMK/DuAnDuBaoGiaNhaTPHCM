@@ -809,8 +809,12 @@ def find_similar(reference, district, property_type, area):
     return data.sort_values("area_difference").head(10)
 
 
-st.set_page_config(page_title="Dự báo giá nhà TP.HCM", page_icon="🏠", layout="wide")
-st.title("🏠 Dự báo giá nhà tại TP. Hồ Chí Minh")
+st.set_page_config(
+    page_title="Đề tài dự báo giá nhà TP.HCM · Nhóm 7",
+    page_icon="🏠",
+    layout="wide",
+)
+st.title("🏠 Đề tài dự báo giá nhà TP.HCM — Nhóm 7")
 st.caption("Giá tham khảo từ tin rao; không thay thế thẩm định giá chuyên môn.")
 
 if not MODEL_PATH.is_file():

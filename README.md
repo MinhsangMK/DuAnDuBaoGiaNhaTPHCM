@@ -1,4 +1,4 @@
-# Dự báo giá nhà TP. Hồ Chí Minh
+# Đề tài dự báo giá nhà TP. Hồ Chí Minh — Nhóm 7
 
 Đồ án tham khảo quy trình khám phá tin rao, trích xuất đặc trưng, so sánh mô hình
 và dự báo giá bất động sản bằng Streamlit. Giá dự đoán được biểu thị bằng tỷ VND.
@@ -10,6 +10,13 @@ và dự báo giá bất động sản bằng Streamlit. Giá dự đoán đư�
 3. Chạy `python build_project.py` để làm sạch dữ liệu, lấy mẫu, so sánh và lưu model.
 4. Chạy lần lượt bốn notebook trong `notebooks/` để xem báo cáo từng bước.
 5. Chạy `python -m streamlit run app/app.py` để mở ứng dụng.
+6. Chạy `python scripts/create_presentation_charts.py` để xuất bốn ảnh PNG 16:9 tại `outputs/presentation/` cho PowerPoint.
+
+Giao diện Streamlit dùng nền tối xanh navy, card màu lam đậm và điểm nhấn xanh
+ngọc/tím/cam theo bộ biểu đồ trình bày. Chủ đề cơ sở được cấu hình trong
+`.streamlit/config.toml`; hero, form, metric và bảng kết quả được tạo kiểu trong
+`app/app.py`. Không dùng ảnh chart làm background trực tiếp để giữ độ tương phản
+và khả năng đọc trên màn hình nhỏ.
 
 ## Lưu dữ liệu đóng góp lên GitHub
 

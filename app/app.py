@@ -210,132 +210,236 @@ def append_contribution(
         ) from error
 
 
-st.set_page_config(page_title="Dự báo giá nhà TP.HCM", page_icon="🏠", layout="wide")
+st.set_page_config(
+    page_title="Đề tài dự báo giá nhà TP.HCM · Nhóm 7",
+    page_icon="🏠",
+    layout="wide",
+)
 st.markdown(
     """
     <style>
     :root {
-        --ink: #163047;
-        --muted: #617587;
-        --teal: #087f8c;
-        --surface: #ffffff;
+        color-scheme: dark;
+        --canvas: #0B1020;
+        --surface: #151F35;
+        --surface-raised: #1B2740;
+        --text-main: #F7F8FC;
+        --text-muted: #B7C1D6;
+        --accent-teal: #31D6C5;
+        --accent-purple: #9B7BFF;
+        --accent-orange: #FFB454;
+        --stroke: #2B3957;
     }
+
     [data-testid="stAppViewContainer"] {
         background:
-            radial-gradient(ellipse at 8% 0%, #d9f2ee 0, transparent 32rem),
-            linear-gradient(180deg, #f5f9fb 0%, #eef4f6 100%);
+            radial-gradient(ellipse at 97% 0%, rgba(155, 123, 255, .15), transparent 27rem),
+            radial-gradient(ellipse at 2% 88%, rgba(49, 214, 197, .10), transparent 24rem),
+            var(--canvas);
+        color: var(--text-main);
     }
-    [data-testid="stHeader"] { background: transparent; }
-    .main .block-container {
-        max-width: 1180px;
-        padding-top: 2.5rem;
+
+    [data-testid="stHeader"] {
+        background: rgba(11, 16, 32, .72);
+        backdrop-filter: blur(12px);
+    }
+
+    [data-testid="stMainBlockContainer"] {
+        max-width: 1160px;
+        padding-top: 2.25rem;
         padding-bottom: 4rem;
     }
-    .hero {
+
+    [data-testid="stAppViewContainer"] :is(h1, h2, h3, p, label, li) {
+        color: var(--text-main);
+    }
+
+    [data-testid="stAppViewContainer"] [data-testid="stCaptionContainer"] {
+        color: var(--text-muted);
+    }
+
+    .app-hero {
         position: relative;
         overflow: hidden;
-        padding: 2.2rem 2.4rem;
-        margin-bottom: 1.5rem;
-        border: 1px solid rgba(255, 255, 255, 0.35);
-        border-radius: 24px;
-        color: white;
-        background: linear-gradient(115deg, #104b61 0%, #087f8c 62%, #29a49b 100%);
-        box-shadow: 0 18px 45px rgba(18, 77, 91, 0.16);
+        margin: .25rem 0 1.25rem;
+        padding: clamp(1.4rem, 4vw, 2.5rem);
+        border: 1px solid rgba(117, 139, 184, .28);
+        border-radius: 26px;
+        background:
+            radial-gradient(ellipse at 100% 0%, rgba(155, 123, 255, .20), transparent 42%),
+            linear-gradient(130deg, rgba(21, 31, 53, .98), rgba(16, 27, 47, .94));
+        box-shadow: 0 22px 60px rgba(0, 0, 0, .24);
     }
-    .hero::after {
-        content: "⌂";
+
+    .app-hero::after {
         position: absolute;
-        right: 2.5rem;
-        top: -3.3rem;
-        color: rgba(255, 255, 255, 0.1);
-        font-size: 16rem;
-        line-height: 1;
+        right: -3.6rem;
+        bottom: -7.2rem;
+        width: 15rem;
+        height: 15rem;
+        border: 1px solid rgba(49, 214, 197, .25);
+        border-radius: 50%;
+        background: rgba(49, 214, 197, .06);
+        content: "";
+        pointer-events: none;
     }
-    .hero-kicker {
-        margin-bottom: 0.55rem;
-        color: #b8eee4;
-        font-size: 0.76rem;
+
+    .app-hero-eyebrow {
+        margin: 0 0 .7rem;
+        color: var(--accent-teal);
+        font-size: .76rem;
         font-weight: 750;
-        letter-spacing: 0.13em;
+        letter-spacing: .14em;
         text-transform: uppercase;
     }
-    .hero h1 {
+
+    .app-hero h1 {
         position: relative;
         z-index: 1;
         margin: 0;
-        color: white;
-        font-size: clamp(2rem, 4vw, 3.1rem);
-        letter-spacing: -0.04em;
+        color: var(--text-main) !important;
+        font-size: clamp(2rem, 4.5vw, 3.15rem);
+        font-weight: 760;
+        letter-spacing: -.045em;
+        line-height: 1.12;
     }
-    .hero p {
+
+    .app-hero-copy {
         position: relative;
         z-index: 1;
-        max-width: 690px;
-        margin: 0.75rem 0 0;
-        color: #e0f3f1;
-        font-size: 1.02rem;
+        max-width: 46rem;
+        margin: .85rem 0 0;
+        color: var(--text-muted) !important;
+        font-size: 1rem;
         line-height: 1.65;
     }
-    [data-testid="stMetric"] {
-        padding: 1.15rem 1.3rem;
-        border: 1px solid #dce8eb;
-        border-radius: 18px;
-        background: var(--surface);
-        box-shadow: 0 8px 24px rgba(22, 48, 71, 0.055);
-    }
-    [data-testid="stMetricLabel"] { color: var(--muted); }
-    [data-testid="stMetricValue"] { color: var(--ink); }
+
     [data-testid="stForm"] {
-        padding: 1.4rem 1.5rem;
-        border: 1px solid #dce8eb;
-        border-radius: 20px;
-        background: rgba(255, 255, 255, 0.88);
-        box-shadow: 0 10px 30px rgba(22, 48, 71, 0.05);
+        padding: clamp(1rem, 3vw, 1.8rem);
+        border: 1px solid var(--stroke);
+        border-radius: 22px;
+        background: linear-gradient(155deg, rgba(21, 31, 53, .97), rgba(16, 25, 43, .96));
+        box-shadow: 0 20px 55px rgba(0, 0, 0, .20);
     }
-    div.stButton > button,
-    div[data-testid="stFormSubmitButton"] > button {
+
+    [data-testid="stForm"] label,
+    [data-testid="stExpander"] label {
+        color: #DCE4F3 !important;
+        font-weight: 600;
+    }
+
+    [data-testid="stTextInput"] input,
+    [data-testid="stTextArea"] textarea,
+    [data-testid="stNumberInput"] input,
+    [data-baseweb="select"] > div {
+        border-color: #354563;
+        border-radius: 11px;
+        background-color: var(--surface-raised);
+        color: var(--text-main);
+    }
+
+    [data-testid="stTextInput"] input:focus,
+    [data-testid="stTextArea"] textarea:focus,
+    [data-testid="stNumberInput"] input:focus {
+        border-color: var(--accent-teal);
+        box-shadow: 0 0 0 1px var(--accent-teal);
+    }
+
+    [data-testid="stFormSubmitButton"] button,
+    [data-testid="stButton"] button {
         min-height: 2.8rem;
         border: 0;
-        border-radius: 11px;
-        color: white;
-        background: linear-gradient(100deg, var(--teal), #20a294);
-        font-weight: 700;
-        box-shadow: 0 6px 16px rgba(8, 127, 140, 0.2);
-        transition: transform 150ms ease, box-shadow 150ms ease;
+        border-radius: 12px;
+        background: linear-gradient(110deg, #19AFA8, var(--accent-teal));
+        color: #071522;
+        font-weight: 750;
+        box-shadow: 0 8px 22px rgba(49, 214, 197, .19);
+        transition: transform .16s ease, filter .16s ease, box-shadow .16s ease;
     }
-    div.stButton > button:hover,
-    div[data-testid="stFormSubmitButton"] > button:hover {
-        color: white;
+
+    [data-testid="stFormSubmitButton"] button:hover,
+    [data-testid="stButton"] button:hover {
         border: 0;
+        filter: brightness(1.08);
         transform: translateY(-1px);
-        box-shadow: 0 9px 20px rgba(8, 127, 140, 0.27);
+        box-shadow: 0 12px 28px rgba(49, 214, 197, .25);
     }
-    h2, h3 { color: var(--ink); letter-spacing: -0.025em; }
+
+    [data-testid="stMetric"] {
+        padding: 1rem 1.15rem;
+        border: 1px solid var(--stroke);
+        border-radius: 17px;
+        background: linear-gradient(145deg, #18243B, #131D31);
+        box-shadow: 0 12px 32px rgba(0, 0, 0, .16);
+    }
+
+    [data-testid="stMetricLabel"] {
+        color: var(--text-muted) !important;
+    }
+
+    [data-testid="stMetricValue"] {
+        color: var(--accent-teal) !important;
+        font-weight: 750;
+    }
+
+    [data-testid="stAlert"] {
+        border: 1px solid rgba(49, 214, 197, .24);
+        border-radius: 14px;
+        background: rgba(21, 31, 53, .9);
+        color: var(--text-main);
+    }
+
+    [data-testid="stExpander"] {
+        overflow: hidden;
+        border: 1px solid var(--stroke);
+        border-radius: 16px;
+        background: rgba(21, 31, 53, .78);
+    }
+
     [data-testid="stDataFrame"] {
         overflow: hidden;
-        border: 1px solid #dce8eb;
+        border: 1px solid var(--stroke);
         border-radius: 15px;
     }
-    @media (max-width: 640px) {
-        .main .block-container { padding: 1.2rem 1rem 3rem; }
-        .hero { padding: 1.6rem 1.4rem; border-radius: 19px; }
-        .hero::after { right: -1rem; font-size: 11rem; }
+
+    [data-testid="stMarkdown"] hr {
+        border-color: var(--stroke);
+    }
+
+    @media (max-width: 700px) {
+        [data-testid="stMainBlockContainer"] {
+            padding: 1.15rem 1rem 2.5rem;
+        }
+
+        .app-hero {
+            border-radius: 19px;
+        }
+
+        [data-testid="stForm"] {
+            padding: 1rem;
+            border-radius: 18px;
+        }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        *,
+        *::before,
+        *::after {
+            scroll-behavior: auto !important;
+            transition-duration: .01ms !important;
+        }
     }
     </style>
-    <section class="hero">
-        <div class="hero-kicker">Bản đồ giá nhà · TP. Hồ Chí Minh</div>
-        <h1>Ước tính giá bất động sản</h1>
-        <p>
-            Khám phá mức giá tham khảo dựa trên đặc điểm căn nhà và các tin rao
-            tương tự. Điều chỉnh thông tin bên dưới để bắt đầu.
+    <header class="app-hero">
+        <p class="app-hero-eyebrow">Đề tài dự báo nhà · Nhóm 7</p>
+        <h1>Ước tính giá nhà<br>TP. Hồ Chí Minh</h1>
+        <p class="app-hero-copy">
+            Điền thông tin bất động sản để xem mức giá tham khảo và những tin rao gần giống.
+            Kết quả chỉ hỗ trợ tham khảo, không thay thế thẩm định chuyên môn.
         </p>
-    </section>
+    </header>
     """,
     unsafe_allow_html=True,
-)
-st.caption(
-    "Kết quả chỉ mang tính tham khảo từ dữ liệu tin rao, sai số có thể lớn và "
-    "không thay thế thẩm định giá chuyên môn."
 )
 
 if not MODEL_PATH.is_file():
