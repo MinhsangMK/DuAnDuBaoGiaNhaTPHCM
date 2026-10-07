@@ -211,10 +211,131 @@ def append_contribution(
 
 
 st.set_page_config(page_title="Dự báo giá nhà TP.HCM", page_icon="🏠", layout="wide")
-st.title("🏠 Dự báo giá nhà tại TP. Hồ Chí Minh")
+st.markdown(
+    """
+    <style>
+    :root {
+        --ink: #163047;
+        --muted: #617587;
+        --teal: #087f8c;
+        --surface: #ffffff;
+    }
+    [data-testid="stAppViewContainer"] {
+        background:
+            radial-gradient(ellipse at 8% 0%, #d9f2ee 0, transparent 32rem),
+            linear-gradient(180deg, #f5f9fb 0%, #eef4f6 100%);
+    }
+    [data-testid="stHeader"] { background: transparent; }
+    .main .block-container {
+        max-width: 1180px;
+        padding-top: 2.5rem;
+        padding-bottom: 4rem;
+    }
+    .hero {
+        position: relative;
+        overflow: hidden;
+        padding: 2.2rem 2.4rem;
+        margin-bottom: 1.5rem;
+        border: 1px solid rgba(255, 255, 255, 0.35);
+        border-radius: 24px;
+        color: white;
+        background: linear-gradient(115deg, #104b61 0%, #087f8c 62%, #29a49b 100%);
+        box-shadow: 0 18px 45px rgba(18, 77, 91, 0.16);
+    }
+    .hero::after {
+        content: "⌂";
+        position: absolute;
+        right: 2.5rem;
+        top: -3.3rem;
+        color: rgba(255, 255, 255, 0.1);
+        font-size: 16rem;
+        line-height: 1;
+    }
+    .hero-kicker {
+        margin-bottom: 0.55rem;
+        color: #b8eee4;
+        font-size: 0.76rem;
+        font-weight: 750;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+    }
+    .hero h1 {
+        position: relative;
+        z-index: 1;
+        margin: 0;
+        color: white;
+        font-size: clamp(2rem, 4vw, 3.1rem);
+        letter-spacing: -0.04em;
+    }
+    .hero p {
+        position: relative;
+        z-index: 1;
+        max-width: 690px;
+        margin: 0.75rem 0 0;
+        color: #e0f3f1;
+        font-size: 1.02rem;
+        line-height: 1.65;
+    }
+    [data-testid="stMetric"] {
+        padding: 1.15rem 1.3rem;
+        border: 1px solid #dce8eb;
+        border-radius: 18px;
+        background: var(--surface);
+        box-shadow: 0 8px 24px rgba(22, 48, 71, 0.055);
+    }
+    [data-testid="stMetricLabel"] { color: var(--muted); }
+    [data-testid="stMetricValue"] { color: var(--ink); }
+    [data-testid="stForm"] {
+        padding: 1.4rem 1.5rem;
+        border: 1px solid #dce8eb;
+        border-radius: 20px;
+        background: rgba(255, 255, 255, 0.88);
+        box-shadow: 0 10px 30px rgba(22, 48, 71, 0.05);
+    }
+    div.stButton > button,
+    div[data-testid="stFormSubmitButton"] > button {
+        min-height: 2.8rem;
+        border: 0;
+        border-radius: 11px;
+        color: white;
+        background: linear-gradient(100deg, var(--teal), #20a294);
+        font-weight: 700;
+        box-shadow: 0 6px 16px rgba(8, 127, 140, 0.2);
+        transition: transform 150ms ease, box-shadow 150ms ease;
+    }
+    div.stButton > button:hover,
+    div[data-testid="stFormSubmitButton"] > button:hover {
+        color: white;
+        border: 0;
+        transform: translateY(-1px);
+        box-shadow: 0 9px 20px rgba(8, 127, 140, 0.27);
+    }
+    h2, h3 { color: var(--ink); letter-spacing: -0.025em; }
+    [data-testid="stDataFrame"] {
+        overflow: hidden;
+        border: 1px solid #dce8eb;
+        border-radius: 15px;
+    }
+    @media (max-width: 640px) {
+        .main .block-container { padding: 1.2rem 1rem 3rem; }
+        .hero { padding: 1.6rem 1.4rem; border-radius: 19px; }
+        .hero::after { right: -1rem; font-size: 11rem; }
+    }
+    </style>
+    <section class="hero">
+        <div class="hero-kicker">Bản đồ giá nhà · TP. Hồ Chí Minh</div>
+        <h1>Ước tính giá bất động sản</h1>
+        <p>
+            Khám phá mức giá tham khảo dựa trên đặc điểm căn nhà và các tin rao
+            tương tự. Điều chỉnh thông tin bên dưới để bắt đầu.
+        </p>
+    </section>
+    """,
+    unsafe_allow_html=True,
+)
 st.caption(
-    "Ước tính thử nghiệm từ dữ liệu tin rao; sai số có thể lớn và không thay "
-    "thế thẩm định giá chuyên môn."
+    "Kết quả chỉ mang tính tham khảo từ dữ liệu tin rao, sai số có thể lớn và "
+    "không thay thế thẩm định giá chuyên môn."
 )
 
 if not MODEL_PATH.is_file():
@@ -267,6 +388,7 @@ if not property_types:
 default_district = "TP_Thu_Duc" if "TP_Thu_Duc" in districts else districts[0]
 
 with st.form("price_form"):
+    st.markdown("#### 🏡 Thông tin bất động sản")
     left, right = st.columns(2)
 
     with left:
@@ -304,11 +426,11 @@ with st.form("price_form"):
         )
 
     description = st.text_area(
-        "Mô tả thêm",
+        "Đặc điểm nổi bật",
         placeholder="Ví dụ: hẻm xe hơi, gần trường học, sổ hồng riêng...",
         help="Có thể thêm đặc điểm vị trí, pháp lý và tiện ích nếu có.",
     )
-    submitted = st.form_submit_button("Dự báo giá")
+    submitted = st.form_submit_button("✨ Ước tính giá")
 
 if submitted:
     row = make_prediction_frame(
