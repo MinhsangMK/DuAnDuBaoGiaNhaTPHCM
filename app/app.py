@@ -492,7 +492,7 @@ if not property_types:
 default_district = "TP_Thu_Duc" if "TP_Thu_Duc" in districts else districts[0]
 
 with st.form("price_form"):
-    st.markdown("#### 🏡 Thông tin bất động sản")
+    st.markdown("#### 🏡 Thông tin dự báo giá nhà")
     left, right = st.columns(2)
 
     with left:
