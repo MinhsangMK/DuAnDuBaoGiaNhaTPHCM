@@ -3,6 +3,8 @@
 Đồ án tham khảo quy trình khám phá tin rao, trích xuất đặc trưng, so sánh mô hình
 và dự báo giá bất động sản bằng Streamlit. Giá dự đoán được biểu thị bằng tỷ VND.
 
+Chạy trực tiếp Demo: https://minhsangmk.streamlit.app/
+
 ## Chạy dự án
 
 1. Tạo môi trường Python và cài `requirements.txt`.
