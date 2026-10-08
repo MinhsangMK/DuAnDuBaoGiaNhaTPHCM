@@ -455,7 +455,10 @@ if model_name:
     model_details.append(f"Mô hình: {model_name}")
 train_rows = bundle.get("train_rows")
 if isinstance(train_rows, (int, np.integer)):
-    model_details.append(f"Dữ liệu huấn luyện: {train_rows:,} tin")
+    displayed_train_rows = (
+        "10.000+" if train_rows >= 10_000 else f"{train_rows:,}"
+    )
+    model_details.append(f"Dữ liệu huấn luyện: {displayed_train_rows} tin")
 if model_details:
     st.caption(" | ".join(model_details))
 
