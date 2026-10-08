@@ -848,7 +848,7 @@ if not property_types:
 default_district = "TP_Thu_Duc" if "TP_Thu_Duc" in districts else districts[0]
 
 with st.form("price_form"):
-    st.markdown("#### 🏡 Thông tin dự báo giá nhà")
+    st.markdown("#### Thông tin dự báo giá nhà")
     left, right = st.columns(2)
 
     with left:
@@ -877,7 +877,7 @@ with st.form("price_form"):
         "Mô tả thêm",
         placeholder="Ví dụ: hẻm xe hơi, gần trường học, sổ hồng riêng..."
     )
-    submitted = st.form_submit_button("Dự báo giá")
+    submitted = st.form_submit_button("Ước tính giá")
 
 if submitted:
     row = make_prediction_frame(
